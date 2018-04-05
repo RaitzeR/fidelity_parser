@@ -1,1118 +1,1087 @@
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005321","Fidelity Advisor Biotechnology Fund",330451822,2827009816,2623767550,"FBTAX","FBTCX","FBTTX","FBTIX"
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005323","Fidelity Advisor Utilities Fund",26274521,329086564,323292708,"FUGAX","FAUBX","FUGCX","FAUFX","FUGIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","AbbVie, Inc.",562565,50771491,0,0,0
-"Common Stocks","Stock","Abeona Therapeutics, Inc.  (a)(b)",33454,600499,0,0,0
-"Common Stocks","Stock","AC Immune SA  (a)(b)",281288,3307947,0,0,0
-"Common Stocks","Stock","ACADIA Pharmaceuticals, Inc.  (a)(b)",468186,16306918,0,0,0
-"Common Stocks","Stock","Acceleron Pharma, Inc.  (a)",579366,22595274,0,0,0
-"Common Stocks","Stock","Achaogen, Inc.  (a)(b)",431602,5489977,0,0,0
-"Common Stocks","Stock","Achillion Pharmaceuticals, Inc.  (a)",278861,1121021,0,0,0
-"Common Stocks","Stock","Acorda Therapeutics, Inc.  (a)",311253,8271548,0,0,0
-"Common Stocks","Stock","Adamas Pharmaceuticals, Inc.  (a)(b)",560348,13818182,0,0,0
-"Common Stocks","Stock","Adaptimmune Therapeutics PLC sponsored ADR  (a)",844942,6632795,0,0,0
-"Common Stocks","Stock","ADMA Biologics, Inc.  (a)(b)",41500,97110,0,0,0
-"Common Stocks","Stock","Aduro Biotech, Inc.  (a)",461280,3667176,0,0,0
-"Common Stocks","Stock","Advaxis, Inc.  (a)(b)",138328,470315,0,0,0
-"Common Stocks","Stock","Adverum Biotechnologies, Inc.  (a)",107429,349144,0,0,0
-"Common Stocks","Stock","Agenus, Inc.  (a)(b)",251560,920710,0,0,0
-"Common Stocks","Stock","Agenus, Inc. warrants 1/9/18 (a)",452000,5,0,0,0
-"Common Stocks","Stock","Agios Pharmaceuticals, Inc.  (a)",60471,3886471,0,0,0
-"Common Stocks","Stock","Aimmune Therapeutics, Inc.  (a)(b)",404902,11770501,0,0,0
-"Common Stocks","Stock","Akebia Therapeutics, Inc.  (a)",177377,3219393,0,0,0
-"Common Stocks","Stock","Alder Biopharmaceuticals, Inc.  (a)",403913,4544021,0,0,0
-"Common Stocks","Stock","Aldeyra Therapeutics, Inc.  (a)(b)",534859,3369612,0,0,0
-"Common Stocks","Stock","Alexion Pharmaceuticals, Inc.  (a)",917776,109821076,0,0,0
-"Common Stocks","Stock","Alkermes PLC  (a)",338303,16495654,0,0,0
-"Common Stocks","Stock","Alnylam Pharmaceuticals, Inc.  (a)",238935,29111840,0,0,0
-"Common Stocks","Stock","AMAG Pharmaceuticals, Inc.  (a)",200677,3150629,0,0,0
-"Common Stocks","Stock","Amarin Corp. PLC ADR  (a)",338294,1150200,0,0,0
-"Common Stocks","Stock","Amgen, Inc.",1211680,212310564,0,0,0
-"Common Stocks","Stock","Amicus Therapeutics, Inc.  (a)(b)",892770,12713045,0,0,0
-"Common Stocks","Stock","AnaptysBio, Inc.",110093,7269441,0,0,0
-"Common Stocks","Stock","Applied Genetic Technologies Corp.  (a)",80536,273822,0,0,0
-"Common Stocks","Stock","Aptevo Therapeutics, Inc.  (a)",38827,110851,0,0,0
-"Common Stocks","Stock","AquaBounty Technologies, Inc.  (a)(b)",1394,8782,0,0,0
-"Common Stocks","Stock","Ardelyx, Inc.  (a)",722501,3865380,0,0,0
-"Common Stocks","Stock","Arena Pharmaceuticals, Inc.  (a)",713386,19996210,0,0,0
-"Common Stocks","Stock","Argenx SE ADR",163500,3747420,0,0,0
-"Common Stocks","Stock","Array BioPharma, Inc.  (a)",2563063,26784008,0,0,0
-"Common Stocks","Stock","Ascendis Pharma A/S sponsored ADR  (a)",38300,1301434,0,0,0
-"Common Stocks","Stock","Asterias Biotherapeutics, Inc.  (a)(b)",115938,289845,0,0,0
-"Common Stocks","Stock","Atara Biotherapeutics, Inc.  (a)(b)",405885,5763567,0,0,0
-"Common Stocks","Stock","aTyr Pharma, Inc.  (a)",88020,422496,0,0,0
-"Common Stocks","Stock","aTyr Pharma, Inc.  (a)(c)",55238,265142,0,0,0
-"Common Stocks","Stock","Audentes Therapeutics, Inc.  (a)",232000,6168880,0,0,0
-"Common Stocks","Stock","Axovant Sciences Ltd.  (a)(b)",289646,1517745,0,0,0
-"Common Stocks","Stock","Bellicum Pharmaceuticals, Inc.  (a)(b)",716125,6745898,0,0,0
-"Common Stocks","Stock","BioCryst Pharmaceuticals, Inc.  (a)",821923,3698654,0,0,0
-"Common Stocks","Stock","Biogen, Inc.  (a)",499562,155693493,0,0,0
-"Common Stocks","Stock","Biohaven Pharmaceutical Holding Co. Ltd.",283800,8531028,0,0,0
-"Common Stocks","Stock","BioMarin Pharmaceutical, Inc.  (a)",634590,52093493,0,0,0
-"Common Stocks","Stock","BioTime, Inc. warrants 10/1/18 (a)",2,0,0,0,0
-"Common Stocks","Stock","Bioverativ, Inc.",253844,14342186,0,0,0
-"Common Stocks","Stock","bluebird bio, Inc.  (a)",65695,9138175,0,0,0
-"Common Stocks","Stock","Blueprint Medicines Corp.  (a)",616461,40945340,0,0,0
-"Common Stocks","Stock","Calithera Biosciences, Inc.  (a)",176388,2839847,0,0,0
-"Common Stocks","Stock","Cara Therapeutics, Inc.  (a)(b)",185337,2324126,0,0,0
-"Common Stocks","Stock","Catalyst Pharmaceutical Partners, Inc.  (a)",17900,51194,0,0,0
-"Common Stocks","Stock","Celgene Corp.  (a)",1340065,135306363,0,0,0
-"Common Stocks","Stock","Celldex Therapeutics, Inc.  (a)(b)",1018636,2485472,0,0,0
-"Common Stocks","Stock","Chiasma, Inc.  (a)(b)",337192,708103,0,0,0
-"Common Stocks","Stock","Chiasma, Inc. warrants (a)",81298,32914,0,0,0
-"Common Stocks","Stock","Chimerix, Inc.  (a)",387202,1905034,0,0,0
-"Common Stocks","Stock","Cidara Therapeutics, Inc.  (a)",34800,267960,0,0,0
-"Common Stocks","Stock","Cidara Therapeutics, Inc.  (a)(c)",223967,1724546,0,0,0
-"Common Stocks","Stock","Clovis Oncology, Inc.  (a)",275358,20753732,0,0,0
-"Common Stocks","Stock","Corbus Pharmaceuticals Holdings, Inc.  (a)(b)",486950,3457345,0,0,0
-"Common Stocks","Stock","Corvus Pharmaceuticals, Inc.  (a)(b)",274564,3728579,0,0,0
-"Common Stocks","Stock","Cytokinetics, Inc.  (a)",352477,4811311,0,0,0
-"Common Stocks","Stock","CytomX Therapeutics, Inc.  (a)(c)",64961,1299220,0,0,0
-"Common Stocks","Stock","DBV Technologies SA sponsored ADR  (a)(b)",233900,5477938,0,0,0
-"Common Stocks","Stock","Dicerna Pharmaceuticals, Inc.  (a)",129106,695881,0,0,0
-"Common Stocks","Stock","Dynavax Technologies Corp.  (a)(b)",545519,12001418,0,0,0
-"Common Stocks","Stock","Eagle Pharmaceuticals, Inc.  (a)(b)",67784,3643390,0,0,0
-"Common Stocks","Stock","Edge Therapeutics, Inc.  (a)(b)",9681,105136,0,0,0
-"Common Stocks","Stock","Editas Medicine, Inc.  (a)(b)",212057,5259014,0,0,0
-"Common Stocks","Stock","Emergent BioSolutions, Inc.  (a)",41255,1691042,0,0,0
-"Common Stocks","Stock","Enanta Pharmaceuticals, Inc.  (a)",46887,2328877,0,0,0
-"Common Stocks","Stock","Epizyme, Inc.  (a)(b)",1354550,22620985,0,0,0
-"Common Stocks","Stock","Esperion Therapeutics, Inc.  (a)(b)",280016,12807932,0,0,0
-"Common Stocks","Stock","Exact Sciences Corp.  (a)",426982,23479740,0,0,0
-"Common Stocks","Stock","Exelixis, Inc.  (a)",1167049,28931145,0,0,0
-"Common Stocks","Stock","Fate Therapeutics, Inc.  (a)(b)",234604,1119061,0,0,0
-"Common Stocks","Stock","Fibrocell Science, Inc.  (a)(b)",56867,127382,0,0,0
-"Common Stocks","Stock","FibroGen, Inc.  (a)",624645,34886423,0,0,0
-"Common Stocks","Stock","Five Prime Therapeutics, Inc.  (a)",119400,5356284,0,0,0
-"Common Stocks","Stock","Foundation Medicine, Inc.  (a)(b)",10368,466560,0,0,0
-"Common Stocks","Stock","Galapagos Genomics NV sponsored ADR  (a)",192629,18777475,0,0,0
-"Common Stocks","Stock","Genmab A/S  (a)",75218,15189014,0,0,0
-"Common Stocks","Stock","Genomic Health, Inc.  (a)",22284,730692,0,0,0
-"Common Stocks","Stock","GenSight Biologics SA  (a)(b)",105964,635676,0,0,0
-"Common Stocks","Stock","Geron Corp.  (a)(b)",4760774,10711742,0,0,0
-"Common Stocks","Stock","Gilead Sciences, Inc.",337739,25316915,0,0,0
-"Common Stocks","Stock","Global Blood Therapeutics, Inc.  (a)",389967,15520687,0,0,0
-"Common Stocks","Stock","GlycoMimetics, Inc.  (a)",23800,273700,0,0,0
-"Common Stocks","Stock","Halozyme Therapeutics, Inc.  (a)",988831,17531974,0,0,0
-"Common Stocks","Stock","Heron Therapeutics, Inc.  (a)(b)",475742,7302640,0,0,0
-"Common Stocks","Stock","Histogenics Corp.  (a)",597234,1260164,0,0,0
-"Common Stocks","Stock","Idera Pharmaceuticals, Inc.  (a)(b)",691800,1079208,0,0,0
-"Common Stocks","Stock","Ignyta, Inc.  (a)",134472,2070869,0,0,0
-"Common Stocks","Stock","Immune Design Corp.  (a)",242835,1202033,0,0,0
-"Common Stocks","Stock","ImmunoGen, Inc.  (a)(b)",2029138,11769000,0,0,0
-"Common Stocks","Stock","Immunomedics, Inc.  (a)(b)",1320254,14153123,0,0,0
-"Common Stocks","Stock","Incyte Corp.  (a)",453579,51367822,0,0,0
-"Common Stocks","Stock","Infinity Pharmaceuticals, Inc.  (a)(b)",794775,1851826,0,0,0
-"Common Stocks","Stock","Insmed, Inc.  (a)",24900,672549,0,0,0
-"Common Stocks","Stock","Insys Therapeutics, Inc.  (a)(b)",50494,260044,0,0,0
-"Common Stocks","Stock","Intellia Therapeutics, Inc.  (a)(b)",139192,4331655,0,0,0
-"Common Stocks","Stock","Intercept Pharmaceuticals, Inc.  (a)(b)",158460,9765890,0,0,0
-"Common Stocks","Stock","Intrexon Corp.  (a)(b)",38808,634511,0,0,0
-"Common Stocks","Stock","Ionis Pharmaceuticals, Inc.  (a)",403938,23068899,0,0,0
-"Common Stocks","Stock","Iovance Biotherapeutics, Inc.  (a)",248746,1934000,0,0,0
-"Common Stocks","Stock","Ironwood Pharmaceuticals, Inc. Class A  (a)(b)",1110821,17084427,0,0,0
-"Common Stocks","Stock","Jounce Therapeutics, Inc.  (b)",322276,4511864,0,0,0
-"Common Stocks","Stock","Juno Therapeutics, Inc.  (a)",451511,20277359,0,0,0
-"Common Stocks","Stock","Karyopharm Therapeutics, Inc.  (a)",1093531,11164952,0,0,0
-"Common Stocks","Stock","Keryx Biopharmaceuticals, Inc.  (a)(b)",351839,2279917,0,0,0
-"Common Stocks","Stock","Krystal Biotech, Inc.",264600,2619540,0,0,0
-"Common Stocks","Stock","Kura Oncology, Inc.  (a)",878202,13085210,0,0,0
-"Common Stocks","Stock","La Jolla Pharmaceutical Co.  (a)(b)",348100,11960716,0,0,0
-"Common Stocks","Stock","Lexicon Pharmaceuticals, Inc.  (a)(b)",565966,5767194,0,0,0
-"Common Stocks","Stock","Ligand Pharmaceuticals, Inc. Class B (a)",82112,11934979,0,0,0
-"Common Stocks","Stock","Loxo Oncology, Inc.  (a)",365781,31515691,0,0,0
-"Common Stocks","Stock","Macrogenics, Inc.  (a)",566002,11201180,0,0,0
-"Common Stocks","Stock","Madrigal Pharmaceuticals, Inc.  (a)",119856,5991601,0,0,0
-"Common Stocks","Stock","MannKind Corp.  (a)(b)",398539,1311193,0,0,0
-"Common Stocks","Stock","MediciNova, Inc.  (a)(b)",388780,2764226,0,0,0
-"Common Stocks","Stock","Merrimack Pharmaceuticals, Inc.  (b)",68240,801138,0,0,0
-"Common Stocks","Stock","MiMedx Group, Inc.  (a)(b)",12313,156129,0,0,0
-"Common Stocks","Stock","Minerva Neurosciences, Inc.  (a)",1788152,11265358,0,0,0
-"Common Stocks","Stock","Miragen Therapeutics, Inc.  (a)",658541,5452719,0,0,0
-"Common Stocks","Stock","Molecular Templates, Inc.  (a)(b)",2436,19391,0,0,0
-"Common Stocks","Stock","Momenta Pharmaceuticals, Inc.  (a)",165625,2335313,0,0,0
-"Common Stocks","Stock","NantKwest, Inc.  (a)(b)",70253,324569,0,0,0
-"Common Stocks","Stock","Neurocrine Biosciences, Inc.  (a)",604728,37559656,0,0,0
-"Common Stocks","Stock","NewLink Genetics Corp.  (a)(b)",114392,1070709,0,0,0
-"Common Stocks","Stock","Novavax, Inc.  (a)(b)",1171816,1277279,0,0,0
-"Common Stocks","Stock","Novelion Therapeutics, Inc.  (a)",216270,1020794,0,0,0
-"Common Stocks","Stock","Opko Health, Inc.  (a)(b)",137912,928148,0,0,0
-"Common Stocks","Stock","Oragenics, Inc.  (a)",108608,36938,0,0,0
-"Common Stocks","Stock","Osiris Therapeutics, Inc.  (a)(b)",6862,34310,0,0,0
-"Common Stocks","Stock","OvaScience, Inc.  (a)",105645,160580,0,0,0
-"Common Stocks","Stock","Ovid Therapeutics, Inc.",124400,806112,0,0,0
-"Common Stocks","Stock","Ovid Therapeutics, Inc.",114626,735349,0,0,0
-"Common Stocks","Stock","Portola Pharmaceuticals, Inc.  (a)",557324,27537379,0,0,0
-"Common Stocks","Stock","Progenics Pharmaceuticals, Inc.  (a)",438108,2711889,0,0,0
-"Common Stocks","Stock","ProQR Therapeutics BV  (a)",237916,904081,0,0,0
-"Common Stocks","Stock","Protagonist Therapeutics, Inc.  (a)",170723,2555723,0,0,0
-"Common Stocks","Stock","Proteostasis Therapeutics, Inc.  (a)(b)",183300,344604,0,0,0
-"Common Stocks","Stock","Prothena Corp. PLC  (a)",140434,8152194,0,0,0
-"Common Stocks","Stock","PTC Therapeutics, Inc.  (a)(b)",260709,4885687,0,0,0
-"Common Stocks","Stock","Puma Biotechnology, Inc.  (a)",287902,36649925,0,0,0
-"Common Stocks","Stock","Radius Health, Inc.  (a)(b)",674729,21665548,0,0,0
-"Common Stocks","Stock","Regeneron Pharmaceuticals, Inc.  (a)",264187,106366970,0,0,0
-"Common Stocks","Stock","REGENXBIO, Inc.  (a)",333286,9981916,0,0,0
-"Common Stocks","Stock","Regulus Therapeutics, Inc.  (a)(b)",960221,960221,0,0,0
-"Common Stocks","Stock","Repligen Corp.  (a)",234327,8716964,0,0,0
-"Common Stocks","Stock","Retrophin, Inc.  (a)",353572,8793336,0,0,0
-"Common Stocks","Stock","Rigel Pharmaceuticals, Inc.  (a)",179900,674625,0,0,0
-"Common Stocks","Stock","Sage Therapeutics, Inc.  (a)",258068,16330543,0,0,0
-"Common Stocks","Stock","Sangamo Therapeutics, Inc.  (a)",1192016,14780998,0,0,0
-"Common Stocks","Stock","Sarepta Therapeutics, Inc.  (a)(b)",274611,13541068,0,0,0
-"Common Stocks","Stock","Seattle Genetics, Inc.  (a)",559320,34291909,0,0,0
-"Common Stocks","Stock","Selecta Biosciences, Inc.  (a)(b)",88000,1867360,0,0,0
-"Common Stocks","Stock","Seres Therapeutics, Inc.  (a)(b)",237191,2381398,0,0,0
-"Common Stocks","Stock","Seres Therapeutics, Inc.  (a)(c)",352270,3536791,0,0,0
-"Common Stocks","Stock","Sienna Biopharmaceuticals, Inc.  (b)",61493,1205263,0,0,0
-"Common Stocks","Stock","Spark Therapeutics, Inc.  (a)(b)",314145,25414331,0,0,0
-"Common Stocks","Stock","Spectrum Pharmaceuticals, Inc.  (a)",1239512,24282040,0,0,0
-"Common Stocks","Stock","Stemline Therapeutics, Inc.  (a)(b)",400493,5466729,0,0,0
-"Common Stocks","Stock","Syndax Pharmaceuticals, Inc.  (a)",219099,2449527,0,0,0
-"Common Stocks","Stock","Synlogic, Inc.  (a)",4028,58849,0,0,0
-"Common Stocks","Stock","Syros Pharmaceuticals, Inc.  (a)",152478,2622622,0,0,0
-"Common Stocks","Stock","Syros Pharmaceuticals, Inc.  (c)",62568,1076170,0,0,0
-"Common Stocks","Stock","TESARO, Inc.  (a)(b)",256437,29687711,0,0,0
-"Common Stocks","Stock","TG Therapeutics, Inc.  (a)(b)",1402202,11427946,0,0,0
-"Common Stocks","Stock","Tocagen, Inc.  (b)",154600,1711422,0,0,0
-"Common Stocks","Stock","Trevena, Inc.  (a)",296455,444683,0,0,0
-"Common Stocks","Stock","Ultragenyx Pharmaceutical, Inc.  (a)",404027,18621604,0,0,0
-"Common Stocks","Stock","uniQure B.V. (a)",31152,464165,0,0,0
-"Common Stocks","Stock","United Therapeutics Corp.  (a)",49723,5896651,0,0,0
-"Common Stocks","Stock","Vanda Pharmaceuticals, Inc.  (a)",337679,5301560,0,0,0
-"Common Stocks","Stock","Vertex Pharmaceuticals, Inc.  (a)",718728,105099595,0,0,0
-"Common Stocks","Stock","Vical, Inc.  (a)(b)",54186,119209,0,0,0
-"Common Stocks","Stock","Vital Therapies, Inc.  (a)",588087,3469713,0,0,0
-"Common Stocks","Stock","Voyager Therapeutics, Inc.  (a)(b)",1280677,26971058,0,0,0
-"Common Stocks","Stock","Xencor, Inc.  (a)",378226,7481310,0,0,0
-"Common Stocks","Stock","Zafgen, Inc.  (a)",1356174,4827979,0,0,0
-"Common Stocks","Stock","Zealand Pharma A/S  (a)(b)",112234,2073120,0,0,0
-"Common Stocks","Stock","Zealand Pharma A/S sponsored ADR",33700,622439,0,0,0
-"Common Stocks","Stock","RPI International Holdings LP  (a)(d)(e)",12210,1666970,0,0,0
-"Common Stocks","Stock","Bellerophon Therapeutics, Inc.  (a)(b)",186300,255231,0,0,0
-"Common Stocks","Stock","Novocure Ltd.  (a)(b)",243941,5269126,0,0,0
-"Common Stocks","Stock","Novocure Ltd.  (a)(c)",155553,3359945,0,0,0
-"Common Stocks","Stock","Vermillion, Inc.  (a)",991800,1438110,0,0,0
-"Common Stocks","Stock","Zosano Pharma Corp.  (a)(b)",530003,355102,0,0,0
-"Common Stocks","Stock","G1 Therapeutics, Inc.",232700,5498701,0,0,0
-"Common Stocks","Stock","OptiNose, Inc.",46600,939456,0,0,0
-"Common Stocks","Stock","NantHealth, Inc.  (a)",49200,179580,0,0,0
-"Common Stocks","Stock","Morphosys AG  (a)",5400,468997,0,0,0
-"Common Stocks","Stock","MYOS Corp.  (a)",6666,8799,0,0,0
-"Common Stocks","Stock","Aclaris Therapeutics, Inc.  (a)",166983,4209641,0,0,0
-"Common Stocks","Stock","Adimab LLC  (a)(d)(e)(f)",398401,13649218,0,0,0
-"Common Stocks","Stock","Afferent Pharmaceuticals, Inc. rights 12/31/24 (a)(e)",1915787,1954103,0,0,0
-"Common Stocks","Stock","Akcea Therapeutics, Inc.",184300,3376376,0,0,0
-"Common Stocks","Stock","Aradigm Corp.  (a)",545,2273,0,0,0
-"Common Stocks","Stock","Aradigm Corp.  (a)",8241,34365,0,0,0
-"Common Stocks","Stock","Avexis, Inc.  (a)",207762,21713207,0,0,0
-"Common Stocks","Stock","Axsome Therapeutics, Inc.  (a)(b)",605360,2875460,0,0,0
-"Common Stocks","Stock","Cempra, Inc.  (a)",1042678,2398159,0,0,0
-"Common Stocks","Stock","Clementia Pharmaceuticals, Inc.",109500,1754190,0,0,0
-"Common Stocks","Stock","Corcept Therapeutics, Inc.  (a)",168373,3315264,0,0,0
-"Common Stocks","Stock","Dermira, Inc.  (a)",475445,12727663,0,0,0
-"Common Stocks","Stock","Dova Pharmaceuticals, Inc.  (b)",338516,8483211,0,0,0
-"Common Stocks","Stock","Egalet Corp.  (a)(b)",1007174,987031,0,0,0
-"Common Stocks","Stock","GW Pharmaceuticals PLC ADR  (a)(b)",119033,12849612,0,0,0
-"Common Stocks","Stock","Horizon Pharma PLC  (a)",228856,3103287,0,0,0
-"Common Stocks","Stock","Intra-Cellular Therapies, Inc.  (a)",175454,2735328,0,0,0
-"Common Stocks","Stock","Jazz Pharmaceuticals PLC  (a)",77567,10978058,0,0,0
-"Common Stocks","Stock","Kala Pharmaceuticals, Inc.",131500,2111890,0,0,0
-"Common Stocks","Stock","Kolltan Pharmaceuticals, Inc. rights(a)(e)",1610391,241559,0,0,0
-"Common Stocks","Stock","MyoKardia, Inc.  (a)",192192,7389782,0,0,0
-"Common Stocks","Stock","MyoKardia, Inc.  (a)(c)",484646,18634639,0,0,0
-"Common Stocks","Stock","Nektar Therapeutics  (a)",117948,2841367,0,0,0
-"Common Stocks","Stock","NeurogesX, Inc. (a)(e)",150000,2,0,0,0
-"Common Stocks","Stock","Ocular Therapeutix, Inc.  (a)(b)",220171,1268185,0,0,0
-"Common Stocks","Stock","Pacira Pharmaceuticals, Inc.  (a)",125384,4018557,0,0,0
-"Common Stocks","Stock","Paratek Pharmaceuticals, Inc.  (a)",433460,9276044,0,0,0
-"Common Stocks","Stock","Reata Pharmaceuticals, Inc.  (a)",169094,5120166,0,0,0
-"Common Stocks","Stock","Repros Therapeutics, Inc.  (a)(b)",534054,269110,0,0,0
-"Common Stocks","Stock","Rhythm Pharmaceuticals, Inc.",80655,2063155,0,0,0
-"Common Stocks","Stock","Stemcentrx, Inc. rights 12/31/21 (a)(e)",208907,614187,0,0,0
-"Common Stocks","Stock","Tetraphase Pharmaceuticals, Inc.  (a)",309731,1861483,0,0,0
-"Common Stocks","Stock","The Medicines Company  (a)(b)",368922,10602818,0,0,0
-"Common Stocks","Stock","TherapeuticsMD, Inc.  (a)",1087400,5132528,0,0,0
-"Common Stocks","Stock","Theravance Biopharma, Inc.  (a)(b)",213103,6150153,0,0,0
-"Common Stocks","Stock","UroGen Pharma Ltd.",166900,5295737,0,0,0
-"Common Stocks","Stock","WAVE Life Sciences  (a)(b)",338988,7813673,0,0,0
-"Common Stocks","Stock","Zogenix, Inc.  (a)",319749,11990588,0,0,0
-"Common Stocks","Stock","Precipio, Inc.  (d)",450,878,0,0,0
-"Preferred Stocks","Stock","23andMe, Inc. Series E  (a)(d)(e)",341730,4744648,0,0,0
-"Preferred Stocks","Stock","Allena Pharmaceuticals, Inc. Series C  (a)(d)",360694,4544744,0,0,0
-"Preferred Stocks","Stock","Axcella Health, Inc. Series C  (a)(d)(e)",341857,3445919,0,0,0
-"Preferred Stocks","Stock","Immunocore Ltd. Series A  (a)(d)(e)",17149,5972439,0,0,0
-"Preferred Stocks","Stock","Series D  (a)(d)(e)",269180,1940788,0,0,0
-"Preferred Stocks","Stock","Series E  (a)(d)(e)",544100,3922961,0,0,0
-"Preferred Stocks","Stock","Scholar Rock LLC Series B  (a)(d)(e)",1083994,3501301,0,0,0
-"Preferred Stocks","Stock","Series B  (a)(d)(e)",1310353,3760713,0,0,0
-"Preferred Stocks","Stock","Series C  (d)(e)",1010101,2898990,0,0,0
-"Preferred Stocks","Stock","Series C  (a)(d)(e)",1866791,4005573,0,0,0
-"Preferred Stocks","Stock","Series D  (a)(d)(e)",453587,973262,0,0,0
-"Preferred Stocks","Stock","Series A  (a)(d)(e)",213402,704227,0,0,0
-"Preferred Stocks","Stock","Series B  (a)(d)(e)",693558,2288741,0,0,0
-"Preferred Stocks","Stock","Afferent Pharmaceuticals, Inc. Series C  (a)(d)(e)",1915787,938736,0,0,0
-"Preferred Stocks","Stock","Yumanity Holdings LLC Class A  (a)(d)(e)",151084,1689119,0,0,0
-"Money Market Funds","Stock","Fidelity Cash Central Fund, 1.10% (g)",23857907,23862679,0,0,0
-"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund 1.11% (g)(h)",201588017,201608176,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",203242266,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005326","Fidelity Advisor Communications Equipment Fund",2196748,15438280,14122153,"FDMAX","FDMCX","FDMTX","FDMIX"
+"Common Stocks","Stock","AT&T, Inc.",134200,5209644,0,0,0
+"Common Stocks","Stock","Edison International",173202,12247113,0,0,0
+"Common Stocks","Stock","Exelon Corp.",545941,19157070,0,0,0
+"Common Stocks","Stock","FirstEnergy Corp.",415400,13537886,0,0,0
+"Common Stocks","Stock","ITC Holdings Corp.",178500,7866495,0,0,0
+"Common Stocks","Stock","NextEra Energy, Inc.",353740,41592748,0,0,0
+"Common Stocks","Stock","OGE Energy Corp.",114523,3388736,0,0,0
+"Common Stocks","Stock","PG&E Corp.",338638,19708732,0,0,0
+"Common Stocks","Stock","PNM Resources, Inc.",141200,4473216,0,0,0
+"Common Stocks","Stock","PPL Corp.",337872,12717502,0,0,0
+"Common Stocks","Stock","Westar Energy, Inc.",82700,4268147,0,0,0
+"Common Stocks","Stock","Calpine Corp.  (a)",813317,12834142,0,0,0
+"Common Stocks","Stock","Dynegy, Inc.  (a)",294297,5188456,0,0,0
+"Common Stocks","Stock","NRG Energy, Inc.",281635,4252689,0,0,0
+"Common Stocks","Stock","NRG Yield, Inc. Class C (b)",203420,3291336,0,0,0
+"Common Stocks","Stock","Talen Energy Corp.  (a)",41500,483890,0,0,0
+"Common Stocks","Stock","NextEra Energy Partners LP",207300,5988897,0,0,0
+"Common Stocks","Stock","Pattern Energy Group, Inc.  (b)",132700,2786700,0,0,0
+"Common Stocks","Stock","Terraform Power, Inc.  (b)",61800,660024,0,0,0
+"Common Stocks","Stock","Charter Communications, Inc. Class A (a)",25800,5475792,0,0,0
+"Common Stocks","Stock","Comcast Corp. Class A",205900,12510484,0,0,0
+"Common Stocks","Stock","Ameren Corp.",40930,1964640,0,0,0
+"Common Stocks","Stock","Avangrid, Inc.",421900,16918190,0,0,0
+"Common Stocks","Stock","Black Hills Corp.  (b)",95200,5768168,0,0,0
+"Common Stocks","Stock","CenterPoint Energy, Inc.",180565,3873119,0,0,0
+"Common Stocks","Stock","Dominion Resources, Inc.",344199,24599903,0,0,0
+"Common Stocks","Stock","DTE Energy Co.",149598,13338158,0,0,0
+"Common Stocks","Stock","NiSource, Inc.",158083,3590065,0,0,0
+"Common Stocks","Stock","Sempra Energy",317009,32762880,0,0,0
+"Common Stocks","Stock","Cheniere Energy Partners LP Holdings LLC",118462,2307640,0,0,0
+"Common Stocks","Stock","Cheniere Energy, Inc.  (a)",34600,1345248,0,0,0
+"Common Stocks","Stock","Crown Castle International Corp.",37100,3223248,0,0,0
+"Common Stocks","Stock","First Solar, Inc.  (a)",44900,2507216,0,0,0
+"Money Market Funds","Stock","Fidelity Cash Central Fund, 0.38% (c)",14151865,14151865,0,0,0
+"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund, 0.42% (c)(d)",5096525,5096525,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",5793856,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005325","Fidelity Advisor Industrials Fund",24129438,617622249,612875358,"FCLAX","FCLBX","FCLCX","FCLTX","FCLIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","ADTRAN, Inc.",9170,193487,0,0,0
-"Common Stocks","Stock","Arista Networks, Inc.  (a)",1150,229874,0,0,0
-"Common Stocks","Stock","Arris International PLC  (a)",8262,235467,0,0,0
-"Common Stocks","Stock","Brocade Communications Systems, Inc.",40495,471767,0,0,0
-"Common Stocks","Stock","Calix Networks, Inc.  (a)",25140,138270,0,0,0
-"Common Stocks","Stock","Ciena Corp.  (a)",1050,22334,0,0,0
-"Common Stocks","Stock","Cisco Systems, Inc.",102594,3503582,0,0,0
-"Common Stocks","Stock","CommScope Holding Co., Inc.  (a)",27470,882886,0,0,0
-"Common Stocks","Stock","Comtech Telecommunications Corp.",930,20004,0,0,0
-"Common Stocks","Stock","EchoStar Holding Corp. Class A (a)",1690,94556,0,0,0
-"Common Stocks","Stock","F5 Networks, Inc.  (a)",5775,700334,0,0,0
-"Common Stocks","Stock","Finisar Corp.  (a)",12750,300135,0,0,0
-"Common Stocks","Stock","Harmonic, Inc.  (a)",1250,4625,0,0,0
-"Common Stocks","Stock","Harris Corp.",7330,1021216,0,0,0
-"Common Stocks","Stock","Infinera Corp.  (a)",17937,150133,0,0,0
-"Common Stocks","Stock","InterDigital, Inc.",2970,217850,0,0,0
-"Common Stocks","Stock","Juniper Networks, Inc.",27548,684017,0,0,0
-"Common Stocks","Stock","Lumentum Holdings, Inc.  (a)",3750,236813,0,0,0
-"Common Stocks","Stock","Mitel Networks Corp.  (a)",13720,117855,0,0,0
-"Common Stocks","Stock","Motorola Solutions, Inc.",2679,242557,0,0,0
-"Common Stocks","Stock","NETGEAR, Inc.  (a)",1500,69975,0,0,0
-"Common Stocks","Stock","NetScout Systems, Inc.  (a)",4660,132344,0,0,0
-"Common Stocks","Stock","Nokia Corp. sponsored ADR  (b)",192680,942205,0,0,0
-"Common Stocks","Stock","Oclaro, Inc.  (a)(b)",11230,92872,0,0,0
-"Common Stocks","Stock","Palo Alto Networks, Inc.  (a)",2570,378304,0,0,0
-"Common Stocks","Stock","Plantronics, Inc.",2050,92988,0,0,0
-"Common Stocks","Stock","Radware Ltd.  (a)",4090,71739,0,0,0
-"Common Stocks","Stock","Sonus Networks, Inc.  (a)",12460,97188,0,0,0
-"Common Stocks","Stock","Telefonaktiebolaget LM Ericsson (B Shares) sponsored ADR  (b)",106570,666063,0,0,0
-"Common Stocks","Stock","ViaSat, Inc.  (a)",370,24087,0,0,0
-"Common Stocks","Stock","Viavi Solutions, Inc.  (a)",29330,272182,0,0,0
-"Common Stocks","Stock","Quantenna Communications, Inc.",3500,54215,0,0,0
-"Common Stocks","Stock","Fabrinet  (a)",2030,75475,0,0,0
-"Common Stocks","Stock","Jabil, Inc.",2850,80598,0,0,0
-"Common Stocks","Stock","TE Connectivity Ltd.",360,32749,0,0,0
-"Common Stocks","Stock","CDW Corp.",790,55300,0,0,0
-"Common Stocks","Stock","Dell Technologies, Inc.  (a)",424,35094,0,0,0
-"Common Stocks","Stock","Akamai Technologies, Inc.  (a)",310,16198,0,0,0
-"Common Stocks","Stock","Class A (a)",129,133262,0,0,0
-"Common Stocks","Stock","Class C (a)",108,109797,0,0,0
-"Common Stocks","Stock","LogMeIn, Inc.",310,37526,0,0,0
-"Common Stocks","Stock","WNS Holdings Ltd. sponsored ADR  (a)",400,15168,0,0,0
-"Common Stocks","Stock","Cognizant Technology Solutions Corp. Class A",570,43132,0,0,0
-"Common Stocks","Stock","Presidio, Inc.",5910,87468,0,0,0
-"Common Stocks","Stock","Acacia Communications, Inc.  (a)(b)",2220,93928,0,0,0
-"Common Stocks","Stock","Broadcom Ltd.",275,72575,0,0,0
-"Common Stocks","Stock","Maxim Integrated Products, Inc.",1240,65150,0,0,0
-"Common Stocks","Stock","ON Semiconductor Corp.  (a)",2670,56924,0,0,0
-"Common Stocks","Stock","Qualcomm, Inc.",5491,280096,0,0,0
-"Common Stocks","Stock","Citrix Systems, Inc.  (a)",600,49566,0,0,0
-"Common Stocks","Stock","Check Point Software Technologies Ltd.  (a)",740,87105,0,0,0
-"Common Stocks","Stock","Oracle Corp.",1300,66170,0,0,0
-"Common Stocks","Stock","HP, Inc.",1730,37282,0,0,0
-"Common Stocks","Stock","Samsung Electronics Co. Ltd.",26,64041,0,0,0
-"Money Market Funds","Stock","Fidelity Cash Central Fund, 1.10% (c)",90692,90710,0,0,0
-"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund 1.11%(c)(d)",1390903,1391042,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",1316127,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005324","Fidelity Advisor Consumer Discretionary Fund",4764089,265144697,263864743,"FCNAX","FCECX","FACPX","FCNIX"
+"Common Stocks","Stock","BWX Technologies, Inc.",214400,7158816,0,0,0
+"Common Stocks","Stock","General Dynamics Corp.",165762,23292876,0,0,0
+"Common Stocks","Stock","Hexcel Corp.",93900,4250853,0,0,0
+"Common Stocks","Stock","Honeywell International, Inc.",299033,34170501,0,0,0
+"Common Stocks","Stock","Northrop Grumman Corp.",92300,19037798,0,0,0
+"Common Stocks","Stock","Orbital ATK, Inc.",88169,7670703,0,0,0
+"Common Stocks","Stock","Raytheon Co.",155600,19660060,0,0,0
+"Common Stocks","Stock","Rockwell Collins, Inc.",86700,7646073,0,0,0
+"Common Stocks","Stock","Teledyne Technologies, Inc.  (a)",162965,15147597,0,0,0
+"Common Stocks","Stock","Textron, Inc.",228778,8849133,0,0,0
+"Common Stocks","Stock","United Technologies Corp.",283051,29542033,0,0,0
+"Common Stocks","Stock","C.H. Robinson Worldwide, Inc.",99300,7047321,0,0,0
+"Common Stocks","Stock","Southwest Airlines Co.",723800,32288718,0,0,0
+"Common Stocks","Stock","A.O. Smith Corp.",176242,13609407,0,0,0
+"Common Stocks","Stock","Fortune Brands Home & Security, Inc.",150800,8355828,0,0,0
+"Common Stocks","Stock","Deluxe Corp.",70100,4400878,0,0,0
+"Common Stocks","Stock","Regus PLC",1344200,5742964,0,0,0
+"Common Stocks","Stock","West Corp.",473232,10141362,0,0,0
+"Common Stocks","Stock","AECOM  (a)",841821,27350764,0,0,0
+"Common Stocks","Stock","Eagle Materials, Inc.",42900,3179748,0,0,0
+"Common Stocks","Stock","ServiceMaster Global Holdings, Inc.  (a)",160600,6154192,0,0,0
+"Common Stocks","Stock","AMETEK, Inc.",318026,15293870,0,0,0
+"Common Stocks","Stock","Eaton Corp. PLC",279800,17702946,0,0,0
+"Common Stocks","Stock","Regal Beloit Corp.",35300,2274026,0,0,0
+"Common Stocks","Stock","Aspen Aerogels, Inc.  (a)",140385,668233,0,0,0
+"Common Stocks","Stock","Danaher Corp.",444432,42998796,0,0,0
+"Common Stocks","Stock","General Electric Co.",2753048,84656225,0,0,0
+"Common Stocks","Stock","Deere & Co.",20000,1682200,0,0,0
+"Common Stocks","Stock","Caterpillar, Inc.",51300,3987036,0,0,0
+"Common Stocks","Stock","Trinity Industries, Inc.",155100,3026001,0,0,0
+"Common Stocks","Stock","Wabtec Corp.",160400,13301972,0,0,0
+"Common Stocks","Stock","IDEX Corp.",149629,12254615,0,0,0
+"Common Stocks","Stock","Ingersoll-Rand PLC",222500,14582650,0,0,0
+"Common Stocks","Stock","Pentair PLC",163300,9484464,0,0,0
+"Common Stocks","Stock","Rexnord Corp.  (a)",132500,2888500,0,0,0
+"Common Stocks","Stock","Snap-On, Inc.",21600,3440448,0,0,0
+"Common Stocks","Stock","CEB, Inc.",104054,6419091,0,0,0
+"Common Stocks","Stock","Verisk Analytics, Inc.  (a)",119344,9258708,0,0,0
+"Common Stocks","Stock","J.B. Hunt Transport Services, Inc.",318584,26404242,0,0,0
+"Common Stocks","Stock","Old Dominion Freight Lines, Inc.  (a)",107200,7080560,0,0,0
+"Common Stocks","Stock","AerCap Holdings NV  (a)",294300,11774943,0,0,0
+"Common Stocks","Stock","HD Supply Holdings, Inc.  (a)",467206,16015822,0,0,0
+"Common Stocks","Stock","Wolseley PLC",109276,6120775,0,0,0
+"Money Market Funds","Stock","(Cost $11,608,501)",11608501,11608501,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",4746891,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005326","Fidelity Advisor Communications Equipment Fund",1186604,11598128,11082306,"FDMAX","FDMBX","FDMCX","FDMTX","FDMIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","XPO Logistics, Inc.  (a)",3500,242725,0,0,0
-"Common Stocks","Stock","Tenneco, Inc.",400,23244,0,0,0
-"Common Stocks","Stock","Ferrari NV",4700,562496,0,0,0
-"Common Stocks","Stock","Tesla, Inc.  (a)",15700,5205021,0,0,0
-"Common Stocks","Stock","Thor Industries, Inc.",2300,313306,0,0,0
-"Common Stocks","Stock","Constellation Brands, Inc. Class A (sub. vtg.)",10000,2190900,0,0,0
-"Common Stocks","Stock","Monster Beverage Corp.  (a)",6216,360093,0,0,0
-"Common Stocks","Stock","Copart, Inc.  (a)",11500,417335,0,0,0
-"Common Stocks","Stock","LKQ Corp.  (a)",41200,1552828,0,0,0
-"Common Stocks","Stock","Pool Corp.",4500,543510,0,0,0
-"Common Stocks","Stock","Grand Canyon Education, Inc.  (a)",4400,393844,0,0,0
-"Common Stocks","Stock","New Oriental Education & Technology Group, Inc. sponsored ADR",3400,283016,0,0,0
-"Common Stocks","Stock","Service Corp. International",4200,148932,0,0,0
-"Common Stocks","Stock","ServiceMaster Global Holdings, Inc.  (a)",8600,405146,0,0,0
-"Common Stocks","Stock","Performance Food Group Co.  (a)",76400,2162120,0,0,0
-"Common Stocks","Stock","Costco Wholesale Corp.",5900,950372,0,0,0
-"Common Stocks","Stock","Wal-Mart Stores, Inc.",3100,270661,0,0,0
-"Common Stocks","Stock","Caesars Entertainment Corp.  (a)",24300,314685,0,0,0
-"Common Stocks","Stock","Churchill Downs, Inc.",4600,959330,0,0,0
-"Common Stocks","Stock","Eldorado Resorts, Inc.  (a)",29600,760720,0,0,0
-"Common Stocks","Stock","Las Vegas Sands Corp.",72080,4568430,0,0,0
-"Common Stocks","Stock","Melco Crown Entertainment Ltd. sponsored ADR",20900,528352,0,0,0
-"Common Stocks","Stock","MGM Mirage, Inc.",86000,2696100,0,0,0
-"Common Stocks","Stock","Penn National Gaming, Inc.  (a)",23696,618229,0,0,0
-"Common Stocks","Stock","Wynn Resorts Ltd.",5300,781697,0,0,0
-"Common Stocks","Stock","Carnival Corp.",22900,1520331,0,0,0
-"Common Stocks","Stock","Hilton Grand Vacations, Inc.",12700,520192,0,0,0
-"Common Stocks","Stock","Hilton, Inc.",70300,5081284,0,0,0
-"Common Stocks","Stock","ILG, Inc.",9100,269997,0,0,0
-"Common Stocks","Stock","Marriott International, Inc. Class A",35175,4202709,0,0,0
-"Common Stocks","Stock","Marriott Vacations Worldwide Corp.",10300,1355686,0,0,0
-"Common Stocks","Stock","Royal Caribbean Cruises Ltd.",38300,4740391,0,0,0
-"Common Stocks","Stock","Wyndham Worldwide Corp.",36120,3859422,0,0,0
-"Common Stocks","Stock","Cedar Fair LP (depositary unit)",3900,244140,0,0,0
-"Common Stocks","Stock","Vail Resorts, Inc.",14140,3238343,0,0,0
-"Common Stocks","Stock","ARAMARK Holdings Corp.",24200,1057298,0,0,0
-"Common Stocks","Stock","Darden Restaurants, Inc.",17425,1433555,0,0,0
-"Common Stocks","Stock","Del Taco Restaurants, Inc.  (a)",35700,453033,0,0,0
-"Common Stocks","Stock","Domino's Pizza, Inc.",6200,1134600,0,0,0
-"Common Stocks","Stock","Dunkin' Brands Group, Inc.",12900,762003,0,0,0
-"Common Stocks","Stock","Jack in the Box, Inc.",12500,1293875,0,0,0
-"Common Stocks","Stock","McDonald's Corp.",68900,11500099,0,0,0
-"Common Stocks","Stock","Red Robin Gourmet Burgers, Inc.  (a)",4000,273600,0,0,0
-"Common Stocks","Stock","Restaurant Brands International, Inc.",22900,1479509,0,0,0
-"Common Stocks","Stock","Ruth's Hospitality Group, Inc.",14954,315529,0,0,0
-"Common Stocks","Stock","Shake Shack, Inc. Class A (a)",8200,311272,0,0,0
-"Common Stocks","Stock","Starbucks Corp.",177776,9749236,0,0,0
-"Common Stocks","Stock","Texas Roadhouse, Inc. Class A",15400,770154,0,0,0
-"Common Stocks","Stock","U.S. Foods Holding Corp.  (a)",64600,1762288,0,0,0
-"Common Stocks","Stock","Wingstop, Inc.",21800,738366,0,0,0
-"Common Stocks","Stock","Yum! Brands, Inc.",15000,1116750,0,0,0
-"Common Stocks","Stock","Roku, Inc. Class A (b)",2400,48912,0,0,0
-"Common Stocks","Stock","Mohawk Industries, Inc.  (a)",1100,287936,0,0,0
-"Common Stocks","Stock","Cavco Industries, Inc.  (a)",1500,235350,0,0,0
-"Common Stocks","Stock","D.R. Horton, Inc.",35300,1560613,0,0,0
-"Common Stocks","Stock","Lennar Corp. Class A",19800,1102266,0,0,0
-"Common Stocks","Stock","LGI Homes, Inc.  (a)",2500,150825,0,0,0
-"Common Stocks","Stock","TRI Pointe Homes, Inc.  (a)",29400,520086,0,0,0
-"Common Stocks","Stock","Techtronic Industries Co. Ltd.",70500,413435,0,0,0
-"Common Stocks","Stock","Spectrum Brands Holdings, Inc.",1758,193239,0,0,0
-"Common Stocks","Stock","Amazon.com, Inc.  (a)",38180,42199588,0,0,0
-"Common Stocks","Stock","Boohoo.Com PLC  (a)",124200,330737,0,0,0
-"Common Stocks","Stock","Liberty Interactive Corp. QVC Group Series A  (a)",68069,1546528,0,0,0
-"Common Stocks","Stock","Netflix, Inc.  (a)",36383,7146713,0,0,0
-"Common Stocks","Stock","Priceline Group, Inc.  (a)",2900,5544684,0,0,0
-"Common Stocks","Stock","Wayfair LLC Class A (a)",1339,93596,0,0,0
-"Common Stocks","Stock","2U, Inc.  (a)",5200,330876,0,0,0
-"Common Stocks","Stock","Alphabet, Inc. Class A (a)",1200,1239648,0,0,0
-"Common Stocks","Stock","CarGurus, Inc. Class A",400,13040,0,0,0
-"Common Stocks","Stock","Facebook, Inc. Class A (a)",5600,1008336,0,0,0
-"Common Stocks","Stock","Global Payments, Inc.",4000,415800,0,0,0
-"Common Stocks","Stock","PayPal Holdings, Inc.  (a)",6100,442616,0,0,0
-"Common Stocks","Stock","Mattel, Inc.  (b)",98400,1389408,0,0,0
-"Common Stocks","Stock","Charter Communications, Inc. Class A (a)",41994,14033135,0,0,0
-"Common Stocks","Stock","Comcast Corp. Class A",269300,9702879,0,0,0
-"Common Stocks","Stock","DISH Network Corp. Class A (a)",8200,398028,0,0,0
-"Common Stocks","Stock","Naspers Ltd. Class N",3100,755336,0,0,0
-"Common Stocks","Stock","Cinemark Holdings, Inc.",22700,824918,0,0,0
-"Common Stocks","Stock","Liberty Media Corp. Liberty Formula One Group Series C  (a)",7400,282236,0,0,0
-"Common Stocks","Stock","The Walt Disney Co.",125506,12275742,0,0,0
-"Common Stocks","Stock","B&M European Value Retail S.A.",136069,718001,0,0,0
-"Common Stocks","Stock","Dollar General Corp.",9900,800316,0,0,0
-"Common Stocks","Stock","Dollar Tree, Inc.  (a)",99600,9088500,0,0,0
-"Common Stocks","Stock","Ollie's Bargain Outlet Holdings, Inc.  (a)",2800,125020,0,0,0
-"Common Stocks","Stock","Herbalife Ltd.  (a)",4200,305004,0,0,0
-"Common Stocks","Stock","Redfin Corp.",500,11770,0,0,0
-"Common Stocks","Stock","Activision Blizzard, Inc.",3300,216117,0,0,0
-"Common Stocks","Stock","Burlington Stores, Inc.  (a)",20000,1877800,0,0,0
-"Common Stocks","Stock","Inditex SA",11861,443434,0,0,0
-"Common Stocks","Stock","L Brands, Inc.",2800,120512,0,0,0
-"Common Stocks","Stock","Ross Stores, Inc.",75969,4823272,0,0,0
-"Common Stocks","Stock","The Children's Place Retail Stores, Inc.",2300,250240,0,0,0
-"Common Stocks","Stock","TJX Companies, Inc.",65211,4551728,0,0,0
-"Common Stocks","Stock","AutoZone, Inc.  (a)",4200,2475900,0,0,0
-"Common Stocks","Stock","O'Reilly Automotive, Inc.  (a)",15962,3367184,0,0,0
-"Common Stocks","Stock","Home Depot, Inc.",145820,24174040,0,0,0
-"Common Stocks","Stock","Lowe's Companies, Inc.",24500,1958775,0,0,0
-"Common Stocks","Stock","Ulta Beauty, Inc.",4600,928234,0,0,0
-"Common Stocks","Stock","Apple, Inc.",7500,1267800,0,0,0
-"Common Stocks","Stock","adidas AG",4052,901751,0,0,0
-"Common Stocks","Stock","Carter's, Inc.",8900,860897,0,0,0
-"Common Stocks","Stock","G-III Apparel Group Ltd.  (a)",10900,276206,0,0,0
-"Common Stocks","Stock","Kering SA",600,275021,0,0,0
-"Common Stocks","Stock","LVMH Moet Hennessy - Louis Vuitton SA",2831,844384,0,0,0
-"Common Stocks","Stock","PVH Corp.",19000,2409390,0,0,0
-"Common Stocks","Stock","Tapestry, Inc.",12400,507780,0,0,0
-"Common Stocks","Stock","NIKE, Inc. Class B",164034,9020230,0,0,0
-"Money Market Funds","Stock","(Cost $1,622,131)",1621969,1622131,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",1279954,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005330","Fidelity Advisor Energy Fund",78594266,921481298,874822275,"FANAX","FNRCX","FAGNX","FANIX"
+"Common Stocks","Stock","ADTRAN, Inc.",5100,98532,0,0,0
+"Common Stocks","Stock","Arris International PLC  (a)",7794,177469,0,0,0
+"Common Stocks","Stock","Brocade Communications Systems, Inc.",49500,475695,0,0,0
+"Common Stocks","Stock","Calix Networks, Inc.  (a)",2300,15939,0,0,0
+"Common Stocks","Stock","Ciena Corp.  (a)",600,10098,0,0,0
+"Common Stocks","Stock","Cisco Systems, Inc.",77724,2136633,0,0,0
+"Common Stocks","Stock","CommScope Holding Co., Inc.  (a)",21420,651382,0,0,0
+"Common Stocks","Stock","EchoStar Holding Corp. Class A (a)",450,18414,0,0,0
+"Common Stocks","Stock","EXFO, Inc.  (a)",4100,17548,0,0,0
+"Common Stocks","Stock","F5 Networks, Inc.  (a)",7035,736916,0,0,0
+"Common Stocks","Stock","Finisar Corp.  (a)",10300,169538,0,0,0
+"Common Stocks","Stock","Harris Corp.",6820,545668,0,0,0
+"Common Stocks","Stock","Infinera Corp.  (a)",4217,50140,0,0,0
+"Common Stocks","Stock","InterDigital, Inc.",2700,153846,0,0,0
+"Common Stocks","Stock","Ixia  (a)",8490,85919,0,0,0
+"Common Stocks","Stock","Juniper Networks, Inc.",22358,523177,0,0,0
+"Common Stocks","Stock","Lumentum Holdings, Inc.  (a)",2160,54648,0,0,0
+"Common Stocks","Stock","Mitel Networks Corp.  (a)",3710,25896,0,0,0
+"Common Stocks","Stock","Motorola Solutions, Inc.",1809,136019,0,0,0
+"Common Stocks","Stock","NETGEAR, Inc.  (a)",600,25440,0,0,0
+"Common Stocks","Stock","NetScout Systems, Inc.  (a)",8500,189210,0,0,0
+"Common Stocks","Stock","Nokia Corp. sponsored ADR  (b)",91620,537809,0,0,0
+"Common Stocks","Stock","Oclaro, Inc.  (a)(b)",7500,37875,0,0,0
+"Common Stocks","Stock","Palo Alto Networks, Inc.  (a)",400,60348,0,0,0
+"Common Stocks","Stock","Plantronics, Inc.",2710,104200,0,0,0
+"Common Stocks","Stock","Polycom, Inc.  (a)",7619,91047,0,0,0
+"Common Stocks","Stock","Radware Ltd.  (a)",16500,178200,0,0,0
+"Common Stocks","Stock","Ruckus Wireless, Inc.  (a)",13820,189887,0,0,0
+"Common Stocks","Stock","Sandvine Corp. (U.K.)",10300,22247,0,0,0
+"Common Stocks","Stock","Sierra Wireless, Inc.  (a)",1000,16130,0,0,0
+"Common Stocks","Stock","Sonus Networks, Inc.  (a)",6550,54103,0,0,0
+"Common Stocks","Stock","Telefonaktiebolaget LM Ericsson (B Shares) sponsored ADR",65230,527711,0,0,0
+"Common Stocks","Stock","Viavi Solutions, Inc.  (a)",12800,83328,0,0,0
+"Common Stocks","Stock","Broadcom Ltd.",275,40081,0,0,0
+"Common Stocks","Stock","Vonage Holdings Corp.  (a)",4390,20501,0,0,0
+"Common Stocks","Stock","II-VI, Inc.  (a)",1360,28383,0,0,0
+"Common Stocks","Stock","Keysight Technologies, Inc.  (a)",3600,93888,0,0,0
+"Common Stocks","Stock","TE Connectivity Ltd.",700,41636,0,0,0
+"Common Stocks","Stock","CDW Corp.",900,34650,0,0,0
+"Common Stocks","Stock","Class A",109,77159,0,0,0
+"Common Stocks","Stock","Class C",88,60985,0,0,0
+"Common Stocks","Stock","Rackspace Hosting, Inc.  (a)",800,18296,0,0,0
+"Common Stocks","Stock","Web.com Group, Inc.  (a)",3300,65967,0,0,0
+"Common Stocks","Stock","GSI Technology, Inc.  (a)",4700,18565,0,0,0
+"Common Stocks","Stock","Marvell Technology Group Ltd.",5000,49900,0,0,0
+"Common Stocks","Stock","Maxim Integrated Products, Inc.",900,32148,0,0,0
+"Common Stocks","Stock","Qorvo, Inc.  (a)",1100,49533,0,0,0
+"Common Stocks","Stock","Qualcomm, Inc.",34161,1725814,0,0,0
+"Common Stocks","Stock","Semtech Corp.  (a)",1200,25968,0,0,0
+"Common Stocks","Stock","Oracle Corp.",770,30692,0,0,0
+"Common Stocks","Stock","BlackBerry Ltd.  (a)",20800,146878,0,0,0
+"Common Stocks","Stock","EMC Corp.",4300,112273,0,0,0
+"Common Stocks","Stock","HP, Inc.",4600,56442,0,0,0
+"Common Stocks","Stock","Samsung Electronics Co. Ltd.",53,57595,0,0,0
+"Money Market Funds","Stock","Fidelity Cash Central Fund, 0.38% (c)",89112,89112,0,0,0
+"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund, 0.42% (c)(d)",520650,520650,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",515822,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005321","Fidelity Advisor Biotechnology Fund",403175886,2931695817,2677846142,"FBTAX","FBTBX","FBTCX","FBTTX","FBTIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","LG Chemical Ltd.",7531,2717812,0,0,0
-"Common Stocks","Stock","LyondellBasell Industries NV Class A",141100,14608083,0,0,0
-"Common Stocks","Stock","NextEra Energy, Inc.",54000,8373780,0,0,0
-"Common Stocks","Stock","Nabors Industries Ltd.",1001700,5639571,0,0,0
-"Common Stocks","Stock","Odfjell Drilling A/S  (a)",564256,2258958,0,0,0
-"Common Stocks","Stock","Shelf Drilling Ltd.",865700,6889141,0,0,0
-"Common Stocks","Stock","Trinidad Drilling Ltd.  (a)",971300,1279909,0,0,0
-"Common Stocks","Stock","Xtreme Drilling & Coil Services Corp.  (a)",1160402,1888880,0,0,0
-"Common Stocks","Stock","Baker Hughes, a GE Co. Class A",277200,8712396,0,0,0
-"Common Stocks","Stock","C&J Energy Services, Inc.",51000,1452990,0,0,0
-"Common Stocks","Stock","Dril-Quip, Inc.  (a)",152491,6419871,0,0,0
-"Common Stocks","Stock","Frank's International NV  (b)",407745,2695194,0,0,0
-"Common Stocks","Stock","Halliburton Co.",867700,37085498,0,0,0
-"Common Stocks","Stock","National Oilwell Varco, Inc.",202200,6913218,0,0,0
-"Common Stocks","Stock","NCS Multistage Holdings, Inc.",222900,4854762,0,0,0
-"Common Stocks","Stock","Newpark Resources, Inc.  (a)",793200,6940500,0,0,0
-"Common Stocks","Stock","Oceaneering International, Inc.",216273,4373040,0,0,0
-"Common Stocks","Stock","RigNet, Inc.  (a)",274950,4797878,0,0,0
-"Common Stocks","Stock","Schlumberger Ltd.",246518,15777152,0,0,0
-"Common Stocks","Stock","Smart Sand, Inc.  (b)",137500,988625,0,0,0
-"Common Stocks","Stock","Tesco Corp.  (a)",196400,756140,0,0,0
-"Common Stocks","Stock","TETRA Technologies, Inc.  (a)",510500,1449820,0,0,0
-"Common Stocks","Stock","Total Energy Services, Inc.",38900,458020,0,0,0
-"Common Stocks","Stock","Indraprastha Gas Ltd.",189459,4638161,0,0,0
-"Common Stocks","Stock","ProPetro Holding Corp.  (b)",130700,1990561,0,0,0
-"Common Stocks","Stock","Chevron Corp.",568109,65838152,0,0,0
-"Common Stocks","Stock","Exxon Mobil Corp.",516261,43030354,0,0,0
-"Common Stocks","Stock","Occidental Petroleum Corp.",227000,14657390,0,0,0
-"Common Stocks","Stock","Suncor Energy, Inc.",238100,8083699,0,0,0
-"Common Stocks","Stock","Anadarko Petroleum Corp.",187783,9270847,0,0,0
-"Common Stocks","Stock","Cabot Oil & Gas Corp.",559000,15484300,0,0,0
-"Common Stocks","Stock","Callon Petroleum Co.  (a)(b)",1210200,13421118,0,0,0
-"Common Stocks","Stock","Class A",45200,878236,0,0,0
-"Common Stocks","Stock","Class A (b)",385500,7490265,0,0,0
-"Common Stocks","Stock","Cimarex Energy Co.",191747,22420977,0,0,0
-"Common Stocks","Stock","Concho Resources, Inc.  (a)",137400,18440454,0,0,0
-"Common Stocks","Stock","ConocoPhillips Co.",172800,8838720,0,0,0
-"Common Stocks","Stock","Continental Resources, Inc.  (a)",432100,17590791,0,0,0
-"Common Stocks","Stock","Devon Energy Corp.",564200,20818980,0,0,0
-"Common Stocks","Stock","Diamondback Energy, Inc.  (a)",459100,49197156,0,0,0
-"Common Stocks","Stock","Encana Corp.",1553300,18168589,0,0,0
-"Common Stocks","Stock","EOG Resources, Inc.",661586,66072596,0,0,0
-"Common Stocks","Stock","Extraction Oil & Gas, Inc.  (b)",526516,8397930,0,0,0
-"Common Stocks","Stock","Hess Corp.",117000,5166720,0,0,0
-"Common Stocks","Stock","Jagged Peak Energy, Inc.  (b)",70600,980634,0,0,0
-"Common Stocks","Stock","Lilis Energy, Inc.  (a)(b)",171085,852003,0,0,0
-"Common Stocks","Stock","Marathon Oil Corp.",222300,3161106,0,0,0
-"Common Stocks","Stock","Matador Resources Co.  (a)",268300,7123365,0,0,0
-"Common Stocks","Stock","Murphy Oil Corp.",78000,2086500,0,0,0
-"Common Stocks","Stock","Newfield Exploration Co.  (a)",657000,20229030,0,0,0
-"Common Stocks","Stock","Parsley Energy, Inc. Class A (a)",978700,26033420,0,0,0
-"Common Stocks","Stock","PDC Energy, Inc.  (a)",210888,10740526,0,0,0
-"Common Stocks","Stock","Pioneer Natural Resources Co.",322916,48330838,0,0,0
-"Common Stocks","Stock","PrairieSky Royalty Ltd.  (b)",86900,2313112,0,0,0
-"Common Stocks","Stock","Range Resources Corp.  (b)",101700,1841787,0,0,0
-"Common Stocks","Stock","Resolute Energy Corp.  (a)(b)",114777,3446753,0,0,0
-"Common Stocks","Stock","Ring Energy, Inc.  (a)",264032,3382250,0,0,0
-"Common Stocks","Stock","RSP Permian, Inc.  (a)",727200,25022952,0,0,0
-"Common Stocks","Stock","Seven Generations Energy Ltd.  (a)",505100,7626810,0,0,0
-"Common Stocks","Stock","Viper Energy Partners LP",378500,7418600,0,0,0
-"Common Stocks","Stock","WPX Energy, Inc.  (a)",820800,9258624,0,0,0
-"Common Stocks","Stock","Andeavor",79500,8446080,0,0,0
-"Common Stocks","Stock","Delek U.S. Holdings, Inc.",667300,17383165,0,0,0
-"Common Stocks","Stock","Phillips 66 Co.",298418,27179911,0,0,0
-"Common Stocks","Stock","Reliance Industries Ltd.",412346,5991594,0,0,0
-"Common Stocks","Stock","Cheniere Energy, Inc.(a)",165700,7744818,0,0,0
-"Common Stocks","Stock","Enterprise Products Partners LP",388200,9510900,0,0,0
-"Common Stocks","Stock","GasLog Partners LP",117100,2781125,0,0,0
-"Common Stocks","Stock","Gener8 Maritime, Inc.  (a)",1143609,5272037,0,0,0
-"Common Stocks","Stock","Golar LNG Ltd. (b)",196500,4152045,0,0,0
-"Common Stocks","Stock","Noble Midstream Partners LP",130287,6756684,0,0,0
-"Common Stocks","Stock","Noble Midstream Partners LP  (c)",48372,2508572,0,0,0
-"Common Stocks","Stock","Plains GP Holdings LP Class A",101300,2066520,0,0,0
-"Common Stocks","Stock","Teekay LNG Partners LP",64100,1105725,0,0,0
-"Common Stocks","Stock","The Williams Companies, Inc.",841200,23974200,0,0,0
-"Money Market Funds","Stock","Fidelity Cash Central Fund, 1.10% (d)",4165296,4166129,0,0,0
-"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund 1.11% (d)(e)",45361713,45366249,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",46659023,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005328","Fidelity Advisor Financial Services Fund",15391354,412235652,410708514,"FAFDX","FAFCX","FAFSX","FFSIX"
+"Common Stocks","Stock","ACADIA Pharmaceuticals, Inc.  (a)(b)",499986,16149548,0,0,0
+"Common Stocks","Stock","Acceleron Pharma, Inc.  (a)",594191,17796020,0,0,0
+"Common Stocks","Stock","Achillion Pharmaceuticals, Inc.  (a)(b)",1456572,12453691,0,0,0
+"Common Stocks","Stock","Acorda Therapeutics, Inc.  (a)",316753,8188065,0,0,0
+"Common Stocks","Stock","Actelion Ltd.",129712,20958365,0,0,0
+"Common Stocks","Stock","Adamas Pharmaceuticals, Inc.  (a)(b)",987648,16671498,0,0,0
+"Common Stocks","Stock","Adaptimmune Therapeutics PLC sponsored ADR",823742,7982060,0,0,0
+"Common Stocks","Stock","ADMA Biologics, Inc.  (a)",50300,346064,0,0,0
+"Common Stocks","Stock","Aduro Biotech, Inc.  (b)",231318,2995568,0,0,0
+"Common Stocks","Stock","Aduro Biotech, Inc.  (c)",345762,4477618,0,0,0
+"Common Stocks","Stock","Aegerion Pharmaceuticals, Inc.  (a)(b)",978823,2789646,0,0,0
+"Common Stocks","Stock","Agenus, Inc.  (a)(b)",487360,1715507,0,0,0
+"Common Stocks","Stock","Agenus, Inc. warrants 1/9/18 (a)",452000,791,0,0,0
+"Common Stocks","Stock","Agios Pharmaceuticals, Inc.  (a)",42471,2078955,0,0,0
+"Common Stocks","Stock","Aimmune Therapeutics, Inc.  (a)(b)",285941,3702936,0,0,0
+"Common Stocks","Stock","Aimmune Therapeutics, Inc.  (c)",460107,5958386,0,0,0
+"Common Stocks","Stock","Akebia Therapeutics, Inc.  (a)",325477,3056229,0,0,0
+"Common Stocks","Stock","Alder Biopharmaceuticals, Inc.  (a)",724713,19241130,0,0,0
+"Common Stocks","Stock","Aldeyra Therapeutics, Inc.  (a)",478895,3017039,0,0,0
+"Common Stocks","Stock","Alexion Pharmaceuticals, Inc.  (a)",1172115,163252177,0,0,0
+"Common Stocks","Stock","Alkermes PLC  (a)",393503,15641744,0,0,0
+"Common Stocks","Stock","Alnylam Pharmaceuticals, Inc.  (a)",228835,15341098,0,0,0
+"Common Stocks","Stock","AMAG Pharmaceuticals, Inc.  (a)(b)",847577,22477742,0,0,0
+"Common Stocks","Stock","Amarin Corp. PLC ADR  (a)(b)",381894,698866,0,0,0
+"Common Stocks","Stock","Amgen, Inc.",30330,4801239,0,0,0
+"Common Stocks","Stock","Amicus Therapeutics, Inc.  (a)(b)",892770,6668992,0,0,0
+"Common Stocks","Stock","Anacor Pharmaceuticals, Inc.  (a)",659551,41380230,0,0,0
+"Common Stocks","Stock","Applied Genetic Technologies Corp.  (a)",248336,3901359,0,0,0
+"Common Stocks","Stock","Ardelyx, Inc.  (a)(b)",985301,7892261,0,0,0
+"Common Stocks","Stock","ARIAD Pharmaceuticals, Inc.  (a)",443595,3185012,0,0,0
+"Common Stocks","Stock","Array BioPharma, Inc.  (a)",378104,1206152,0,0,0
+"Common Stocks","Stock","Ascendis Pharma A/S sponsored ADR(a)",35700,602259,0,0,0
+"Common Stocks","Stock","Asterias Biotherapeutics, Inc.  (a)(b)",115938,497374,0,0,0
+"Common Stocks","Stock","Asterias Biotherapeutics, Inc. warrants 9/30/16 (a)",23187,13912,0,0,0
+"Common Stocks","Stock","Atara Biotherapeutics, Inc.  (a)(b)",444074,7997773,0,0,0
+"Common Stocks","Stock","aTyr Pharma, Inc.  (a)",45620,162407,0,0,0
+"Common Stocks","Stock","aTyr Pharma, Inc.  (c)",55238,196647,0,0,0
+"Common Stocks","Stock","Avalanche Biotechnologies, Inc.  (a)",125129,705728,0,0,0
+"Common Stocks","Stock","Axovant Sciences Ltd.  (a)",183161,2381093,0,0,0
+"Common Stocks","Stock","Biogen, Inc.  (a)",670947,184503716,0,0,0
+"Common Stocks","Stock","BioMarin Pharmaceutical, Inc.  (a)",1341310,113582131,0,0,0
+"Common Stocks","Stock","BioTime, Inc. warrants 10/1/18 (a)",2,1,0,0,0
+"Common Stocks","Stock","bluebird bio, Inc.  (a)",35449,1572163,0,0,0
+"Common Stocks","Stock","Blueprint Medicines Corp.",313700,4761966,0,0,0
+"Common Stocks","Stock","Calithera Biosciences, Inc.  (a)(b)",441558,2353504,0,0,0
+"Common Stocks","Stock","Cara Therapeutics, Inc.  (a)",209788,1279707,0,0,0
+"Common Stocks","Stock","Catabasis Pharmaceuticals, Inc.  (b)",138100,609021,0,0,0
+"Common Stocks","Stock","warrants 5/2/17 (a)",8557,187,0,0,0
+"Common Stocks","Stock","warrants 5/30/17(a)",17900,921,0,0,0
+"Common Stocks","Stock","Celator Pharmaceuticals, Inc.  (a)(b)",244581,3685836,0,0,0
+"Common Stocks","Stock","Celgene Corp.  (a)",1731990,179105086,0,0,0
+"Common Stocks","Stock","Cell Therapeutics, Inc. warrants 7/6/16 (a)",46404,0,0,0,0
+"Common Stocks","Stock","Celldex Therapeutics, Inc.  (a)(b)",827627,3310508,0,0,0
+"Common Stocks","Stock","Cepheid, Inc.  (a)",51400,1466956,0,0,0
+"Common Stocks","Stock","Cerulean Pharma, Inc.  (a)(b)",820836,2692342,0,0,0
+"Common Stocks","Stock","Chiasma, Inc.  (a)",29900,100763,0,0,0
+"Common Stocks","Stock","Chiasma, Inc.  (c)",325192,1095897,0,0,0
+"Common Stocks","Stock","Chiasma, Inc. warrants",81298,93019,0,0,0
+"Common Stocks","Stock","Chimerix, Inc.  (a)",281786,1685080,0,0,0
+"Common Stocks","Stock","Cidara Therapeutics, Inc.",19000,254220,0,0,0
+"Common Stocks","Stock","Cidara Therapeutics, Inc.  (c)",223967,2996678,0,0,0
+"Common Stocks","Stock","Clovis Oncology, Inc.  (a)(b)",123732,1721112,0,0,0
+"Common Stocks","Stock","Corvus Pharmaceuticals, Inc.",25200,308448,0,0,0
+"Common Stocks","Stock","Corvus Pharmaceuticals, Inc.",180163,1984676,0,0,0
+"Common Stocks","Stock","CTI BioPharma Corp.  (a)(b)",4239198,2134860,0,0,0
+"Common Stocks","Stock","Cytokinetics, Inc.  (a)",152919,1244761,0,0,0
+"Common Stocks","Stock","Cytokinetics, Inc. warrants 6/25/17 (a)",244500,134693,0,0,0
+"Common Stocks","Stock","CytomX Therapeutics, Inc.  (c)",64961,839296,0,0,0
+"Common Stocks","Stock","DBV Technologies SA sponsored ADR  (a)",258000,8764260,0,0,0
+"Common Stocks","Stock","Dicerna Pharmaceuticals, Inc.  (a)",125106,577990,0,0,0
+"Common Stocks","Stock","Dynavax Technologies Corp.  (a)(b)",357119,5860323,0,0,0
+"Common Stocks","Stock","Edge Therapeutics, Inc.  (a)(b)",40735,335249,0,0,0
+"Common Stocks","Stock","Editas Medicine, Inc.",165012,5453647,0,0,0
+"Common Stocks","Stock","Editas Medicine, Inc.",53545,1592696,0,0,0
+"Common Stocks","Stock","Emergent BioSolutions, Inc.  (a)",146555,5645299,0,0,0
+"Common Stocks","Stock","Enanta Pharmaceuticals, Inc.  (a)",89187,2604260,0,0,0
+"Common Stocks","Stock","Epirus Biopharmaceuticals, Inc.  (a)",254100,736890,0,0,0
+"Common Stocks","Stock","Epizyme, Inc.  (a)(b)",2351873,24506517,0,0,0
+"Common Stocks","Stock","Esperion Therapeutics, Inc.  (a)(b)",210978,3457929,0,0,0
+"Common Stocks","Stock","Exact Sciences Corp.  (a)(b)",323359,2269980,0,0,0
+"Common Stocks","Stock","Exelixis, Inc.  (a)(b)",1040940,4798733,0,0,0
+"Common Stocks","Stock","Fate Therapeutics, Inc.  (a)",234604,445748,0,0,0
+"Common Stocks","Stock","Fibrocell Science, Inc.  (a)",174200,480792,0,0,0
+"Common Stocks","Stock","FibroGen, Inc.  (a)",74322,1337796,0,0,0
+"Common Stocks","Stock","Foundation Medicine, Inc.  (a)(b)",71765,1144652,0,0,0
+"Common Stocks","Stock","Galapagos Genomics NV sponsored ADR",253629,11491930,0,0,0
+"Common Stocks","Stock","Genmab A/S  (a)",298702,44255893,0,0,0
+"Common Stocks","Stock","Genomic Health, Inc.  (a)",54120,1422274,0,0,0
+"Common Stocks","Stock","Geron Corp.  (a)(b)",4760774,14044283,0,0,0
+"Common Stocks","Stock","Gilead Sciences, Inc.",1834365,161809337,0,0,0
+"Common Stocks","Stock","Global Blood Therapeutics, Inc.  (a)",547667,11046443,0,0,0
+"Common Stocks","Stock","Halozyme Therapeutics, Inc.  (a)(b)",1034338,10912266,0,0,0
+"Common Stocks","Stock","Heron Therapeutics, Inc.  (a)(b)",475742,10199908,0,0,0
+"Common Stocks","Stock","Histogenics Corp.  (a)(d)",670334,1588692,0,0,0
+"Common Stocks","Stock","Ignyta, Inc.  (a)",579672,4011330,0,0,0
+"Common Stocks","Stock","Immune Design Corp.  (a)",168668,2300632,0,0,0
+"Common Stocks","Stock","ImmunoGen, Inc.  (a)(b)",1109651,7601109,0,0,0
+"Common Stocks","Stock","Immunomedics, Inc.  (a)(b)",2130884,7564638,0,0,0
+"Common Stocks","Stock","Incyte Corp.  (a)",940668,67982076,0,0,0
+"Common Stocks","Stock","Infinity Pharmaceuticals, Inc.  (a)",287434,1667117,0,0,0
+"Common Stocks","Stock","Insys Therapeutics, Inc.  (a)(b)",296394,4294749,0,0,0
+"Common Stocks","Stock","Intercept Pharmaceuticals, Inc.  (a)(b)",175060,26388544,0,0,0
+"Common Stocks","Stock","Intrexon Corp.  (a)(b)",180408,4822306,0,0,0
+"Common Stocks","Stock","Ionis Pharmaceuticals, Inc.  (a)",389240,15947163,0,0,0
+"Common Stocks","Stock","Ironwood Pharmaceuticals, Inc. Class A  (a)",595551,6223508,0,0,0
+"Common Stocks","Stock","Juno Therapeutics, Inc.  (a)",8100,340929,0,0,0
+"Common Stocks","Stock","Juno Therapeutics, Inc.  (c)",214673,9035587,0,0,0
+"Common Stocks","Stock","Karyopharm Therapeutics, Inc.  (a)(b)",1159016,10778849,0,0,0
+"Common Stocks","Stock","Keryx Biopharmaceuticals, Inc.  (a)(b)",417052,2268763,0,0,0
+"Common Stocks","Stock","Kite Pharma, Inc.  (a)(b)",590320,27320010,0,0,0
+"Common Stocks","Stock","Kura Oncology, Inc.  (a)",921702,3078485,0,0,0
+"Common Stocks","Stock","La Jolla Pharmaceutical Co.  (a)",290700,5380857,0,0,0
+"Common Stocks","Stock","Lexicon Pharmaceuticals, Inc.  (a)(b)",930237,12846573,0,0,0
+"Common Stocks","Stock","Ligand Pharmaceuticals, Inc. Class B (a)(b)",105412,12741148,0,0,0
+"Common Stocks","Stock","Lion Biotechnologies, Inc.  (a)",369046,2092491,0,0,0
+"Common Stocks","Stock","Loxo Oncology, Inc.  (a)",400471,9230857,0,0,0
+"Common Stocks","Stock","Macrogenics, Inc.  (a)",516291,10614943,0,0,0
+"Common Stocks","Stock","MannKind Corp.  (a)(b)",320656,432886,0,0,0
+"Common Stocks","Stock","MediciNova, Inc.  (a)(b)",805306,5540505,0,0,0
+"Common Stocks","Stock","Medivation, Inc.  (a)",1024738,59229856,0,0,0
+"Common Stocks","Stock","Merrimack Pharmaceuticals, Inc.  (a)",291648,2064868,0,0,0
+"Common Stocks","Stock","Mesoblast Ltd. sponsored ADR(a)(b)",224373,1826396,0,0,0
+"Common Stocks","Stock","MiMedx Group, Inc.  (a)(b)",250413,1885610,0,0,0
+"Common Stocks","Stock","Minerva Neurosciences, Inc.  (a)",921974,5928293,0,0,0
+"Common Stocks","Stock","Mirna Therapeutics, Inc.  (a)(b)",280500,1309935,0,0,0
+"Common Stocks","Stock","Momenta Pharmaceuticals, Inc.  (a)",121037,1151062,0,0,0
+"Common Stocks","Stock","Myriad Genetics, Inc.  (a)(b)",123557,4448052,0,0,0
+"Common Stocks","Stock","NantKwest, Inc.  (a)(b)",296377,2456965,0,0,0
+"Common Stocks","Stock","Neurocrine Biosciences, Inc.  (a)",669028,30494296,0,0,0
+"Common Stocks","Stock","NewLink Genetics Corp.  (a)(b)",127579,2068056,0,0,0
+"Common Stocks","Stock","Nivalis Therapeutics, Inc.",18600,78678,0,0,0
+"Common Stocks","Stock","Novavax, Inc.  (a)(b)",2767531,14501862,0,0,0
+"Common Stocks","Stock","Novelos Therapeutics, Inc. warrants 12/6/16 (a)",137600,1,0,0,0
+"Common Stocks","Stock","OncoMed Pharmaceuticals, Inc.  (a)(b)",132870,1647588,0,0,0
+"Common Stocks","Stock","Ophthotech Corp.  (a)",649537,30359359,0,0,0
+"Common Stocks","Stock","Opko Health, Inc.  (a)(b)",360051,3870548,0,0,0
+"Common Stocks","Stock","Oragenics, Inc.  (a)",223308,192045,0,0,0
+"Common Stocks","Stock","Osiris Therapeutics, Inc.  (b)",203971,1144277,0,0,0
+"Common Stocks","Stock","OvaScience, Inc.  (a)",171745,1439223,0,0,0
+"Common Stocks","Stock","Portola Pharmaceuticals, Inc.  (a)",441388,10487379,0,0,0
+"Common Stocks","Stock","Progenics Pharmaceuticals, Inc.  (a)(b)",619743,3290835,0,0,0
+"Common Stocks","Stock","ProNai Therapeutics, Inc.  (a)",377900,2116240,0,0,0
+"Common Stocks","Stock","ProQR Therapeutics BV  (a)",237916,1315675,0,0,0
+"Common Stocks","Stock","Proteon Therapeutics, Inc.  (a)(b)",74101,723226,0,0,0
+"Common Stocks","Stock","Prothena Corp. PLC  (a)",128634,5555702,0,0,0
+"Common Stocks","Stock","PTC Therapeutics, Inc.  (a)(b)",170178,1262721,0,0,0
+"Common Stocks","Stock","Puma Biotechnology, Inc.  (a)(b)",324894,9970997,0,0,0
+"Common Stocks","Stock","Radius Health, Inc.  (a)(b)",975562,34730007,0,0,0
+"Common Stocks","Stock","Raptor Pharmaceutical Corp.  (a)",799023,3923203,0,0,0
+"Common Stocks","Stock","Regeneron Pharmaceuticals, Inc.  (a)",507017,190998377,0,0,0
+"Common Stocks","Stock","REGENXBIO, Inc.  (a)",375750,3915315,0,0,0
+"Common Stocks","Stock","Regulus Therapeutics, Inc.  (a)(b)",265221,1548891,0,0,0
+"Common Stocks","Stock","Repligen Corp.  (a)",240527,6407639,0,0,0
+"Common Stocks","Stock","Retrophin, Inc.  (a)",236645,3260968,0,0,0
+"Common Stocks","Stock","Sage Therapeutics, Inc.  (a)",262168,9881112,0,0,0
+"Common Stocks","Stock","Sangamo Biosciences, Inc.  (a)",441652,2782408,0,0,0
+"Common Stocks","Stock","Sarepta Therapeutics, Inc.  (a)(b)",373597,5301341,0,0,0
+"Common Stocks","Stock","Seattle Genetics, Inc.  (a)(b)",1006257,35701998,0,0,0
+"Common Stocks","Stock","Seres Therapeutics, Inc.  (b)",237191,7001878,0,0,0
+"Common Stocks","Stock","Seres Therapeutics, Inc.  (c)",352270,10399010,0,0,0
+"Common Stocks","Stock","Sophiris Bio, Inc.  (a)",104253,124582,0,0,0
+"Common Stocks","Stock","Spark Therapeutics, Inc.  (a)(b)",314145,11274664,0,0,0
+"Common Stocks","Stock","Spectrum Pharmaceuticals, Inc.  (a)",338247,2398171,0,0,0
+"Common Stocks","Stock","Stemline Therapeutics, Inc.  (a)(b)",348093,1914512,0,0,0
+"Common Stocks","Stock","Sunesis Pharmaceuticals, Inc.  (a)",628104,321526,0,0,0
+"Common Stocks","Stock","Syndax Pharmaceuticals, Inc.",136100,1863209,0,0,0
+"Common Stocks","Stock","Syndax Pharmaceuticals, Inc.",276047,3401175,0,0,0
+"Common Stocks","Stock","TESARO, Inc.  (a)",355737,14741741,0,0,0
+"Common Stocks","Stock","TG Therapeutics, Inc.  (a)(b)",1270593,11575102,0,0,0
+"Common Stocks","Stock","Threshold Pharmaceuticals, Inc.  (a)",26804,11791,0,0,0
+"Common Stocks","Stock","Tobira Therapeutics, Inc.  (a)",265951,2093034,0,0,0
+"Common Stocks","Stock","Tokai Pharmaceuticals, Inc.  (a)(b)",91000,667030,0,0,0
+"Common Stocks","Stock","Trevena, Inc.  (a)",286767,2233915,0,0,0
+"Common Stocks","Stock","Ultragenyx Pharmaceutical, Inc.  (a)",366427,24777794,0,0,0
+"Common Stocks","Stock","uniQure B.V. (a)",158829,2053659,0,0,0
+"Common Stocks","Stock","United Therapeutics Corp.  (a)",131494,13833169,0,0,0
+"Common Stocks","Stock","Versartis, Inc.  (a)(b)",355976,3225143,0,0,0
+"Common Stocks","Stock","Vertex Pharmaceuticals, Inc.  (a)",1169419,98628798,0,0,0
+"Common Stocks","Stock","Vical, Inc.  (a)",659862,263285,0,0,0
+"Common Stocks","Stock","Vitae Pharmaceuticals, Inc.  (a)(b)",826902,5945425,0,0,0
+"Common Stocks","Stock","Vital Therapies, Inc.  (a)",497937,4267320,0,0,0
+"Common Stocks","Stock","Voyager Therapeutics, Inc.  (a)(b)",1016525,11842516,0,0,0
+"Common Stocks","Stock","Voyager Therapeutics, Inc.",282352,3256507,0,0,0
+"Common Stocks","Stock","Xencor, Inc.  (a)",363108,4448073,0,0,0
+"Common Stocks","Stock","XOMA Corp.  (a)(b)",598065,489576,0,0,0
+"Common Stocks","Stock","Zafgen, Inc.  (a)(b)",1356174,8638828,0,0,0
+"Common Stocks","Stock","ZIOPHARM Oncology, Inc.  (a)(b)",256414,2015414,0,0,0
+"Common Stocks","Stock","RPI International Holdings LP  (e)",12210,1638338,0,0,0
+"Common Stocks","Stock","Bellerophon Therapeutics, Inc.  (a)(b)",227700,453123,0,0,0
+"Common Stocks","Stock","Novocure Ltd.  (a)(b)",161218,2079712,0,0,0
+"Common Stocks","Stock","Novocure Ltd.  (c)",155553,2006634,0,0,0
+"Common Stocks","Stock","Vermillion, Inc.  (a)(b)",991800,1378602,0,0,0
+"Common Stocks","Stock","Zosano Pharma Corp.  (a)",598503,1286781,0,0,0
+"Common Stocks","Stock","JHL Biotech, Inc.  (a)",459540,1242634,0,0,0
+"Common Stocks","Stock","Transgenomic, Inc.  (a)",13500,8235,0,0,0
+"Common Stocks","Stock","Transgenomic, Inc. warrants 2/3/17 (a)",81000,1,0,0,0
+"Common Stocks","Stock","MYOS Corp.  (a)",6666,11399,0,0,0
+"Common Stocks","Stock","Achaogen, Inc.  (a)",125415,425157,0,0,0
+"Common Stocks","Stock","Adimab LLC unit (a)(e)(f)",398401,7629379,0,0,0
+"Common Stocks","Stock","Aradigm Corp.  (a)",8786,43754,0,0,0
+"Common Stocks","Stock","Auris Medical Holding AG  (a)",261667,957701,0,0,0
+"Common Stocks","Stock","Avexis, Inc.",48273,1206825,0,0,0
+"Common Stocks","Stock","Axsome Therapeutics, Inc.  (a)",931260,10662927,0,0,0
+"Common Stocks","Stock","Cempra, Inc.  (a)(b)",1143578,19360776,0,0,0
+"Common Stocks","Stock","Dermira, Inc.  (a)",389114,9840693,0,0,0
+"Common Stocks","Stock","Dermira, Inc.  (c)",162931,4120525,0,0,0
+"Common Stocks","Stock","Egalet Corp.  (a)(b)",1252974,8545283,0,0,0
+"Common Stocks","Stock","Eisai Co. Ltd.  (g)",114400,7081328,0,0,0
+"Common Stocks","Stock","GW Pharmaceuticals PLC ADR  (a)(b)",282536,22891067,0,0,0
+"Common Stocks","Stock","Horizon Pharma PLC  (a)",1691209,25993882,0,0,0
+"Common Stocks","Stock","Intra-Cellular Therapies, Inc.  (a)",274154,9408965,0,0,0
+"Common Stocks","Stock","Jazz Pharmaceuticals PLC  (a)",254367,38333107,0,0,0
+"Common Stocks","Stock","MyoKardia, Inc.  (a)(b)",831134,9508173,0,0,0
+"Common Stocks","Stock","MyoKardia, Inc.  (c)",484646,5544350,0,0,0
+"Common Stocks","Stock","Nektar Therapeutics  (a)",246332,3862486,0,0,0
+"Common Stocks","Stock","NeurogesX, Inc.  (a)",150000,750,0,0,0
+"Common Stocks","Stock","Ocular Therapeutix, Inc.  (a)(b)",337771,4147828,0,0,0
+"Common Stocks","Stock","Orexigen Therapeutics, Inc.  (a)(b)",860457,384624,0,0,0
+"Common Stocks","Stock","Pacira Pharmaceuticals, Inc.  (a)(b)",371220,20086714,0,0,0
+"Common Stocks","Stock","Paratek Pharmaceuticals, Inc.  (a)",799460,10888645,0,0,0
+"Common Stocks","Stock","Parnell Pharmaceuticals Holdings Ltd.  (a)",123569,249609,0,0,0
+"Common Stocks","Stock","Repros Therapeutics, Inc.  (a)(b)",652054,1545368,0,0,0
+"Common Stocks","Stock","SCYNEXIS, Inc.  (a)",101000,401980,0,0,0
+"Common Stocks","Stock","Sun Pharmaceutical Industries Ltd.",490668,5992863,0,0,0
+"Common Stocks","Stock","Tetraphase Pharmaceuticals, Inc.  (a)(b)",378131,2117534,0,0,0
+"Common Stocks","Stock","The Medicines Company  (a)(b)",565722,20134046,0,0,0
+"Common Stocks","Stock","TherapeuticsMD, Inc.  (a)(b)",1497500,12354375,0,0,0
+"Common Stocks","Stock","Theravance Biopharma, Inc.  (a)(b)",367503,7625687,0,0,0
+"Common Stocks","Stock","WAVE Life Sciences",230144,3080431,0,0,0
+"Common Stocks","Stock","WAVE Life Sciences  (a)(b)",138344,1870411,0,0,0
+"Common Stocks","Stock","Zogenix, Inc.  (a)(b)",594534,6093974,0,0,0
+"Common Stocks","Stock","Zogenix, Inc. warrants 7/27/17 (a)",32985,838,0,0,0
+"Preferred Stocks","Stock","23andMe, Inc. Series E  (e)",341730,3396796,0,0,0
+"Preferred Stocks","Stock","AC Immune SA Series E  (e)",101250,976050,0,0,0
+"Preferred Stocks","Stock","Gensight Biologics Series B  (e)",76600,369263,0,0,0
+"Preferred Stocks","Stock","Immunocore Ltd. Series A  (e)",17149,4421855,0,0,0
+"Preferred Stocks","Stock","Intellia Therapeutics, Inc. Series B  (e)",78635,1273887,0,0,0
+"Preferred Stocks","Stock","Jounce Therapeutics, Inc. Series B  (e)",1591779,2187104,0,0,0
+"Preferred Stocks","Stock","Series D, 8.00% (a)(e)",26918,1245173,0,0,0
+"Preferred Stocks","Stock","Series E  (a)(e)",54410,2516898,0,0,0
+"Preferred Stocks","Stock","Ovid Therapeutics, Inc. Series B  (e)",246448,917279,0,0,0
+"Preferred Stocks","Stock","Pronutria Biosciences, Inc. Series C  (a)(e)",341857,5876522,0,0,0
+"Preferred Stocks","Stock","RaNA Therapeutics LLC Series B  (e)",1310353,744281,0,0,0
+"Preferred Stocks","Stock","Scholar Rock LLC Series B  (e)",1083994,2306739,0,0,0
+"Preferred Stocks","Stock","Series C  (e)",1866791,4005573,0,0,0
+"Preferred Stocks","Stock","Series D  (e)",453587,973262,0,0,0
+"Preferred Stocks","Stock","Allena Pharmaceuticals, Inc. Series C  (e)",1505538,2681363,0,0,0
+"Preferred Stocks","Stock","Series A  (e)",213402,464149,0,0,0
+"Preferred Stocks","Stock","Series B  (e)",693558,1508489,0,0,0
+"Preferred Stocks","Stock","Afferent Pharmaceuticals, Inc. Series C  (e)",1915787,2693597,0,0,0
+"Preferred Stocks","Stock","Kolltan Pharmaceuticals, Inc. Series D  (a)(e)",1610391,1272209,0,0,0
+"Preferred Stocks","Stock","Stemcentrx, Inc. Series G  (e)",208907,5473363,0,0,0
+"Preferred Stocks","Stock","Syros Pharmaceuticals, Inc. Series B, 6.00% (a)(e)",234635,591280,0,0,0
+"Preferred Stocks","Stock","Yumanity Holdings LLC Class A  (e)",151084,1166368,0,0,0
+"Money Market Funds","Stock","Fidelity Cash Central Fund, 0.38% (h)",22580694,22580694,0,0,0
+"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund, 0.42% (h)(i)",257187687,257187687,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",253849675,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005322","Fidelity Advisor Technology Fund",223702345,1569960504,1477398483,"FADTX","FABTX","FTHCX","FATEX","FATIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","Bank of America Corp.",791656,21683458,0,0,0
-"Common Stocks","Stock","Citigroup, Inc.",318915,23440253,0,0,0
-"Common Stocks","Stock","HDFC Bank Ltd. sponsored ADR",5200,479960,0,0,0
-"Common Stocks","Stock","JPMorgan Chase & Co.",143331,14420532,0,0,0
-"Common Stocks","Stock","Wells Fargo & Co.",226178,12697633,0,0,0
-"Common Stocks","Stock","Bank of the Ozarks, Inc.",92900,4330998,0,0,0
-"Common Stocks","Stock","CIT Group, Inc.",52800,2461536,0,0,0
-"Common Stocks","Stock","CoBiz, Inc.",137191,2804184,0,0,0
-"Common Stocks","Stock","East West Bancorp, Inc.",60600,3626304,0,0,0
-"Common Stocks","Stock","First Republic Bank",36600,3564840,0,0,0
-"Common Stocks","Stock","Huntington Bancshares, Inc.",1415100,19528380,0,0,0
-"Common Stocks","Stock","PNC Financial Services Group, Inc.",103800,14198802,0,0,0
-"Common Stocks","Stock","Popular, Inc.",86617,3177112,0,0,0
-"Common Stocks","Stock","Preferred Bank, Los Angeles",14800,913604,0,0,0
-"Common Stocks","Stock","Regions Financial Corp.",207900,3218292,0,0,0
-"Common Stocks","Stock","Signature Bank  (a)",25800,3354258,0,0,0
-"Common Stocks","Stock","SunTrust Banks, Inc.",114900,6918129,0,0,0
-"Common Stocks","Stock","SVB Financial Group  (a)",7100,1556888,0,0,0
-"Common Stocks","Stock","Affiliated Managers Group, Inc.",31754,5922121,0,0,0
-"Common Stocks","Stock","BlackRock, Inc. Class A",18500,8710355,0,0,0
-"Common Stocks","Stock","Invesco Ltd.",208700,7469373,0,0,0
-"Common Stocks","Stock","Northern Trust Corp.",105500,9866360,0,0,0
-"Common Stocks","Stock","State Street Corp.",22500,2070000,0,0,0
-"Common Stocks","Stock","CBOE Holdings, Inc.",83473,9437457,0,0,0
-"Common Stocks","Stock","Deutsche Borse AG",13900,1439553,0,0,0
-"Common Stocks","Stock","IntercontinentalExchange, Inc.",139220,9202442,0,0,0
-"Common Stocks","Stock","E*TRADE Financial Corp.  (a)",334300,14572137,0,0,0
-"Common Stocks","Stock","Goldman Sachs Group, Inc.",61940,15019211,0,0,0
-"Common Stocks","Stock","Investment Technology Group, Inc.",93075,2184470,0,0,0
-"Common Stocks","Stock","TD Ameritrade Holding Corp.",354200,17706458,0,0,0
-"Common Stocks","Stock","Capital One Financial Corp.",252338,23260517,0,0,0
-"Common Stocks","Stock","Synchrony Financial",330200,10771124,0,0,0
-"Common Stocks","Stock","Berkshire Hathaway, Inc. Class B (a)",106259,19864057,0,0,0
-"Common Stocks","Stock","Willis Group Holdings PLC",34600,5573368,0,0,0
-"Common Stocks","Stock","MetLife, Inc.",228700,12253746,0,0,0
-"Common Stocks","Stock","Torchmark Corp.",102980,8663707,0,0,0
-"Common Stocks","Stock","Hartford Financial Services Group, Inc.",219900,12105495,0,0,0
-"Common Stocks","Stock","Allstate Corp.",86590,8127337,0,0,0
-"Common Stocks","Stock","Chubb Ltd.",97427,14693940,0,0,0
-"Common Stocks","Stock","FNF Group",147550,5521321,0,0,0
-"Common Stocks","Stock","The Travelers Companies, Inc.",106300,14079435,0,0,0
-"Common Stocks","Stock","Reinsurance Group of America, Inc.",50100,7483938,0,0,0
-"Common Stocks","Stock","Visa, Inc. Class A",38120,4192438,0,0,0
-"Common Stocks","Stock","WEX, Inc.  (a)",55900,6908681,0,0,0
-"Common Stocks","Stock","Black Knight, Inc.  (a)",42483,1926604,0,0,0
-"Common Stocks","Stock","MGIC Investment Corp.  (a)",135300,1934790,0,0,0
-"Common Stocks","Stock","Radian Group, Inc.",42600,892896,0,0,0
-"Money Market Funds","Stock","(Cost $8,007,158)",8005557,8007158,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",1527138,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000054816","Fidelity Advisor Global Real Estate Fund",445671,2838062,2837491,"FWRAX","FWRTX","FWRCX","FWRIX"
+"Common Stocks","Stock","Tesla Motors, Inc.  (a)(b)",76709,18468459,0,0,0
+"Common Stocks","Stock","BeiGene Ltd. ADR",40537,1125307,0,0,0
+"Common Stocks","Stock","Genscript Biotech Corp.",15144000,2427931,0,0,0
+"Common Stocks","Stock","Duk San Neolux Co. Ltd.  (a)",168686,4004852,0,0,0
+"Common Stocks","Stock","Ciena Corp.  (a)",77800,1309374,0,0,0
+"Common Stocks","Stock","CommScope Holding Co., Inc.  (a)",200100,6085041,0,0,0
+"Common Stocks","Stock","F5 Networks, Inc.  (a)",74100,7761975,0,0,0
+"Common Stocks","Stock","Palo Alto Networks, Inc.  (a)",25600,3862272,0,0,0
+"Common Stocks","Stock","Radware Ltd.  (a)",610,6588,0,0,0
+"Common Stocks","Stock","LendingClub Corp.  (a)",700,5530,0,0,0
+"Common Stocks","Stock","New Oriental Education & Technology Group, Inc. sponsored ADR",761300,29812508,0,0,0
+"Common Stocks","Stock","TAL Education Group ADR  (a)",36800,2129248,0,0,0
+"Common Stocks","Stock","LifeLock, Inc.  (a)",867,10092,0,0,0
+"Common Stocks","Stock","Broadcom Ltd.",206700,30126525,0,0,0
+"Common Stocks","Stock","MSCI, Inc. Class A",31700,2407298,0,0,0
+"Common Stocks","Stock","8x8, Inc.  (a)",1200,13608,0,0,0
+"Common Stocks","Stock","Lumenpulse, Inc.  (a)",21700,294706,0,0,0
+"Common Stocks","Stock","Nidec Corp.",10100,740068,0,0,0
+"Common Stocks","Stock","Alps Electric Co. Ltd.",42500,734557,0,0,0
+"Common Stocks","Stock","InvenSense, Inc.  (a)(b)",185500,1424640,0,0,0
+"Common Stocks","Stock","Largan Precision Co. Ltd.",112000,7870476,0,0,0
+"Common Stocks","Stock","Ledlink Optics, Inc.",791075,1261194,0,0,0
+"Common Stocks","Stock","Murata Manufacturing Co. Ltd.",22900,2986419,0,0,0
+"Common Stocks","Stock","Samsung SDI Co. Ltd.",59376,5908189,0,0,0
+"Common Stocks","Stock","Sunny Optical Technology Group Co. Ltd.",839100,2587999,0,0,0
+"Common Stocks","Stock","Universal Display Corp.  (a)",73100,4262461,0,0,0
+"Common Stocks","Stock","Yageo Corp.",2450660,3990487,0,0,0
+"Common Stocks","Stock","Yaskawa Electric Corp.",1100,12882,0,0,0
+"Common Stocks","Stock","Chroma ATE, Inc.",1700683,3769585,0,0,0
+"Common Stocks","Stock","Cognex Corp.",34600,1229338,0,0,0
+"Common Stocks","Stock","FEI Co.",200,17804,0,0,0
+"Common Stocks","Stock","Trimble Navigation Ltd.  (a)",1082796,25932964,0,0,0
+"Common Stocks","Stock","Digital China Holdings Ltd. (H Shares)",23000,15879,0,0,0
+"Common Stocks","Stock","Intai Technology Corp.",517000,2448720,0,0,0
+"Common Stocks","Stock","Olympus Corp.",4500,175305,0,0,0
+"Common Stocks","Stock","HealthEquity, Inc.  (a)",11300,284195,0,0,0
+"Common Stocks","Stock","athenahealth, Inc.  (a)",70194,9356860,0,0,0
+"Common Stocks","Stock","Inovalon Holdings, Inc. Class A (a)(b)",201700,3449070,0,0,0
+"Common Stocks","Stock","M3, Inc.",31000,836270,0,0,0
+"Common Stocks","Stock","Medidata Solutions, Inc.  (a)",242100,10562823,0,0,0
+"Common Stocks","Stock","Veeva Systems, Inc. Class A (a)",81500,2242065,0,0,0
+"Common Stocks","Stock","500.com Ltd. sponsored ADR Class A (a)(b)",252600,4746354,0,0,0
+"Common Stocks","Stock","Tuniu Corp. Class A sponsored ADR  (a)(b)",217908,2316362,0,0,0
+"Common Stocks","Stock","Sony Corp.",200900,4866124,0,0,0
+"Common Stocks","Stock","Liberty Interactive Corp. QVC Group Series A  (a)",309,8096,0,0,0
+"Common Stocks","Stock","Amazon.com, Inc.  (a)",16100,10619399,0,0,0
+"Common Stocks","Stock","Ctrip.com International Ltd. ADR  (a)",80500,3510605,0,0,0
+"Common Stocks","Stock","Groupon, Inc. Class A (a)(b)",157100,568702,0,0,0
+"Common Stocks","Stock","JD.com, Inc. sponsored ADR  (a)",174600,4462776,0,0,0
+"Common Stocks","Stock","Jumei International Holding Ltd. sponsored ADR  (a)",524953,3322952,0,0,0
+"Common Stocks","Stock","MySale Group PLC  (a)",19300,16638,0,0,0
+"Common Stocks","Stock","Qunar Cayman Islands Ltd. sponsored ADR  (a)(b)",247994,10120635,0,0,0
+"Common Stocks","Stock","Vipshop Holdings Ltd. ADR  (a)",543300,7410612,0,0,0
+"Common Stocks","Stock","58.com, Inc. ADR  (a)(b)",478100,26128165,0,0,0
+"Common Stocks","Stock","Alibaba Group Holding Ltd. sponsored ADR  (a)",306200,23559028,0,0,0
+"Common Stocks","Stock","Class A",109887,77786810,0,0,0
+"Common Stocks","Stock","Class C",115555,80080771,0,0,0
+"Common Stocks","Stock","Baidu.com, Inc. sponsored ADR  (a)",19800,3847140,0,0,0
+"Common Stocks","Stock","Benefitfocus, Inc.  (a)(b)",47089,1784673,0,0,0
+"Common Stocks","Stock","Box, Inc. Class A (a)(b)",58500,756405,0,0,0
+"Common Stocks","Stock","ChannelAdvisor Corp.  (a)",35576,443277,0,0,0
+"Common Stocks","Stock","Cornerstone OnDemand, Inc.  (a)",158632,5449009,0,0,0
+"Common Stocks","Stock","Cvent, Inc.  (a)",50808,1796063,0,0,0
+"Common Stocks","Stock","Demandware, Inc.  (a)(b)",188006,8663316,0,0,0
+"Common Stocks","Stock","DeNA Co. Ltd.",192700,3243046,0,0,0
+"Common Stocks","Stock","eBay, Inc.  (a)",28700,701141,0,0,0
+"Common Stocks","Stock","eGain Communications Corp.  (a)",64050,238266,0,0,0
+"Common Stocks","Stock","Endurance International Group Holdings, Inc.  (a)(b)",655200,7017192,0,0,0
+"Common Stocks","Stock","Envestnet, Inc.  (a)",245,7688,0,0,0
+"Common Stocks","Stock","Facebook, Inc. Class A (a)",712311,83753527,0,0,0
+"Common Stocks","Stock","Hortonworks, Inc.  (a)(b)",207600,2401932,0,0,0
+"Common Stocks","Stock","Instructure, Inc.  (a)(b)",103253,2079515,0,0,0
+"Common Stocks","Stock","Marketo, Inc.  (a)",186213,4094824,0,0,0
+"Common Stocks","Stock","NetEase, Inc. sponsored ADR",5300,745710,0,0,0
+"Common Stocks","Stock","New Relic, Inc.  (a)",122222,3150883,0,0,0
+"Common Stocks","Stock","Q2 Holdings, Inc.  (a)",700,16737,0,0,0
+"Common Stocks","Stock","Rackspace Hosting, Inc.  (a)",159639,3650944,0,0,0
+"Common Stocks","Stock","Renren, Inc. ADR  (a)(b)",272700,859005,0,0,0
+"Common Stocks","Stock","SciQuest, Inc.  (a)",279854,3867582,0,0,0
+"Common Stocks","Stock","Shopify, Inc.",2300,73255,0,0,0
+"Common Stocks","Stock","Shopify, Inc. Class A",32700,1041495,0,0,0
+"Common Stocks","Stock","SINA Corp.  (a)",122398,6130916,0,0,0
+"Common Stocks","Stock","SouFun Holdings Ltd. ADR  (b)",927100,5275199,0,0,0
+"Common Stocks","Stock","Twitter, Inc.  (a)",27800,406436,0,0,0
+"Common Stocks","Stock","Web.com Group, Inc.  (a)",156886,3136151,0,0,0
+"Common Stocks","Stock","Weibo Corp. sponsored ADR  (a)",800,19576,0,0,0
+"Common Stocks","Stock","Xunlei Ltd. sponsored ADR  (a)",602744,3917836,0,0,0
+"Common Stocks","Stock","Yahoo!, Inc.  (a)",1108100,40556460,0,0,0
+"Common Stocks","Stock","Class A (a)(b)",710,17764,0,0,0
+"Common Stocks","Stock","Class C (a)",720,17309,0,0,0
+"Common Stocks","Stock","Amadeus IT Holding SA Class A",176000,8008755,0,0,0
+"Common Stocks","Stock","Fidelity National Information Services, Inc.",36195,2381631,0,0,0
+"Common Stocks","Stock","Fiserv, Inc.  (a)",43600,4260592,0,0,0
+"Common Stocks","Stock","FleetCor Technologies, Inc.  (a)",9700,1500396,0,0,0
+"Common Stocks","Stock","Global Payments, Inc.",126500,9130770,0,0,0
+"Common Stocks","Stock","Optimal Payments PLC (a)",1400300,7799536,0,0,0
+"Common Stocks","Stock","PayPal Holdings, Inc.  (a)",77100,3020778,0,0,0
+"Common Stocks","Stock","Sabre Corp.",52300,1514085,0,0,0
+"Common Stocks","Stock","Total System Services, Inc.",31553,1613620,0,0,0
+"Common Stocks","Stock","Travelport Worldwide Ltd.",345223,4815861,0,0,0
+"Common Stocks","Stock","Vantiv, Inc.  (a)",26900,1467126,0,0,0
+"Common Stocks","Stock","Visa, Inc. Class A",528900,40852236,0,0,0
+"Common Stocks","Stock","Cognizant Technology Solutions Corp. Class A (a)",2494,145575,0,0,0
+"Common Stocks","Stock","EPAM Systems, Inc.  (a)",20761,1514100,0,0,0
+"Common Stocks","Stock","Virtusa Corp.  (a)",400,14216,0,0,0
+"Common Stocks","Stock","JHL Biotech, Inc.  (a)",555476,1502053,0,0,0
+"Common Stocks","Stock","Harmonic Drive Systems, Inc.  (b)",38600,864625,0,0,0
+"Common Stocks","Stock","King Slide Works Co. Ltd.",29000,343389,0,0,0
+"Common Stocks","Stock","Minebea Mitsumi, Inc.",117000,958346,0,0,0
+"Common Stocks","Stock","iCar Asia Ltd.  (a)(b)",1257513,850974,0,0,0
+"Common Stocks","Stock","Naspers Ltd. Class N",25745,3532474,0,0,0
+"Common Stocks","Stock","NEXT Co. Ltd.",21800,243773,0,0,0
+"Common Stocks","Stock","(A Shares)",22300,650567,0,0,0
+"Common Stocks","Stock","(B Shares)",51941,1476592,0,0,0
+"Common Stocks","Stock","51job, Inc. sponsored ADR  (a)",400,11920,0,0,0
+"Common Stocks","Stock","WageWorks, Inc.  (a)",127844,6885678,0,0,0
+"Common Stocks","Stock","ICF International, Inc.  (a)",33600,1322832,0,0,0
+"Common Stocks","Stock","Verisk Analytics, Inc.  (a)",168,13033,0,0,0
+"Common Stocks","Stock","Amkor Technology, Inc.  (a)",1180846,6742631,0,0,0
+"Common Stocks","Stock","Applied Materials, Inc.",900,18423,0,0,0
+"Common Stocks","Stock","ASM Pacific Technology Ltd.",35500,255818,0,0,0
+"Common Stocks","Stock","EO Technics Co. Ltd.",69078,6837406,0,0,0
+"Common Stocks","Stock","Hermes Microvision, Inc.",83000,2556574,0,0,0
+"Common Stocks","Stock","Nanometrics, Inc.  (a)",9409,168045,0,0,0
+"Common Stocks","Stock","Rubicon Technology, Inc.  (a)(b)",444367,311012,0,0,0
+"Common Stocks","Stock","SolarEdge Technologies, Inc.  (a)",57300,1535067,0,0,0
+"Common Stocks","Stock","SunEdison, Inc.  (a)",700,166,0,0,0
+"Common Stocks","Stock","Advanced Micro Devices, Inc.  (a)(b)",361400,1282970,0,0,0
+"Common Stocks","Stock","Advanced Semiconductor Engineering, Inc.",7701000,7398703,0,0,0
+"Common Stocks","Stock","Advanced Semiconductor Engineering, Inc. sponsored ADR",1253362,6429747,0,0,0
+"Common Stocks","Stock","Ambarella, Inc.  (a)(b)",178100,7319910,0,0,0
+"Common Stocks","Stock","ams AG",10410,275090,0,0,0
+"Common Stocks","Stock","Cavium, Inc.  (a)",68200,3367034,0,0,0
+"Common Stocks","Stock","Chipbond Technology Corp.",2799000,3725877,0,0,0
+"Common Stocks","Stock","ChipMOS TECHNOLOGIES (Bermuda) Ltd.",284629,4787460,0,0,0
+"Common Stocks","Stock","Cirrus Logic, Inc.  (a)",22714,819975,0,0,0
+"Common Stocks","Stock","Dialog Semiconductor PLC  (a)",129200,4488514,0,0,0
+"Common Stocks","Stock","Everlight Electronics Co. Ltd.",1099000,1539478,0,0,0
+"Common Stocks","Stock","Genesis Photonics, Inc.  (a)",794066,138150,0,0,0
+"Common Stocks","Stock","Himax Technologies, Inc. sponsored ADR  (b)",431304,4481249,0,0,0
+"Common Stocks","Stock","Hua Hong Semiconductor Ltd.",3272000,3291072,0,0,0
+"Common Stocks","Stock","Infineon Technologies AG",110400,1575140,0,0,0
+"Common Stocks","Stock","Inphi Corp.  (a)",11000,326370,0,0,0
+"Common Stocks","Stock","Integrated Device Technology, Inc.  (a)",85000,1638800,0,0,0
+"Common Stocks","Stock","Intersil Corp. Class A",351594,4110134,0,0,0
+"Common Stocks","Stock","Lextar Electronics Corp.",437000,211039,0,0,0
+"Common Stocks","Stock","M/A-COM Technology Solutions Holdings, Inc.  (a)",56200,2298018,0,0,0
+"Common Stocks","Stock","MagnaChip Semiconductor Corp.  (a)(b)",114554,591099,0,0,0
+"Common Stocks","Stock","Marvell Technology Group Ltd.",3017861,30118253,0,0,0
+"Common Stocks","Stock","Maxim Integrated Products, Inc.",287300,10262356,0,0,0
+"Common Stocks","Stock","Melexis NV",293,16178,0,0,0
+"Common Stocks","Stock","Micron Technology, Inc.  (a)",1978400,21267800,0,0,0
+"Common Stocks","Stock","Microsemi Corp.  (a)",162300,5484117,0,0,0
+"Common Stocks","Stock","Monolithic Power Systems, Inc.",85401,5330730,0,0,0
+"Common Stocks","Stock","NXP Semiconductors NV  (a)",173880,14828486,0,0,0
+"Common Stocks","Stock","ON Semiconductor Corp.  (a)",780400,7390388,0,0,0
+"Common Stocks","Stock","Power Integrations, Inc.",46100,2224325,0,0,0
+"Common Stocks","Stock","Qorvo, Inc.  (a)",303658,13673720,0,0,0
+"Common Stocks","Stock","Qualcomm, Inc.",594200,30018984,0,0,0
+"Common Stocks","Stock","Sanken Electric Co. Ltd.",386000,1279681,0,0,0
+"Common Stocks","Stock","Semiconductor Manufacturing International Corp.  (a)",16310000,1340814,0,0,0
+"Common Stocks","Stock","Semtech Corp.  (a)",471898,10211873,0,0,0
+"Common Stocks","Stock","Silicon Laboratories, Inc.  (a)",30400,1422720,0,0,0
+"Common Stocks","Stock","Silicon Motion Technology Corp. sponsored ADR",90688,3496022,0,0,0
+"Common Stocks","Stock","Sitronix Technology Corp.",235000,686747,0,0,0
+"Common Stocks","Stock","Skyworks Solutions, Inc.",143100,9561942,0,0,0
+"Common Stocks","Stock","STMicroelectronics NV",1630,10022,0,0,0
+"Common Stocks","Stock","Vanguard International Semiconductor Corp.",431000,659782,0,0,0
+"Common Stocks","Stock","Xilinx, Inc.",300,12924,0,0,0
+"Common Stocks","Stock","Adobe Systems, Inc.  (a)",209516,19740598,0,0,0
+"Common Stocks","Stock","ANSYS, Inc.  (a)",175,15885,0,0,0
+"Common Stocks","Stock","Autodesk, Inc.  (a)",266400,15936048,0,0,0
+"Common Stocks","Stock","Blackbaud, Inc.",17200,1062444,0,0,0
+"Common Stocks","Stock","Callidus Software, Inc.  (a)",55800,1021140,0,0,0
+"Common Stocks","Stock","Citrix Systems, Inc.  (a)",28615,2341852,0,0,0
+"Common Stocks","Stock","Guidewire Software, Inc.  (a)",190,10824,0,0,0
+"Common Stocks","Stock","HubSpot, Inc.  (a)",7700,341033,0,0,0
+"Common Stocks","Stock","Intuit, Inc.",70600,7122834,0,0,0
+"Common Stocks","Stock","Kingdee International Software Group Co. Ltd.",365800,118632,0,0,0
+"Common Stocks","Stock","Linx SA",700,9627,0,0,0
+"Common Stocks","Stock","Mobileye NV  (a)(b)",202700,7733005,0,0,0
+"Common Stocks","Stock","Parametric Technology Corp.  (a)",500,18230,0,0,0
+"Common Stocks","Stock","Paycom Software, Inc.  (a)",900,34389,0,0,0
+"Common Stocks","Stock","Paylocity Holding Corp.  (a)(b)",95900,3670093,0,0,0
+"Common Stocks","Stock","Qlik Technologies, Inc. (a)",400,12316,0,0,0
+"Common Stocks","Stock","RealPage, Inc.  (a)",8300,182517,0,0,0
+"Common Stocks","Stock","Salesforce.com, Inc.  (a)",350519,26569340,0,0,0
+"Common Stocks","Stock","Splunk, Inc.  (a)",79700,4142806,0,0,0
+"Common Stocks","Stock","SS&C Technologies Holdings, Inc.",35700,2183055,0,0,0
+"Common Stocks","Stock","Ultimate Software Group, Inc.  (a)",76,14941,0,0,0
+"Common Stocks","Stock","Workday, Inc. Class A (a)",64600,4843708,0,0,0
+"Common Stocks","Stock","Workiva, Inc.  (a)(b)",51400,612174,0,0,0
+"Common Stocks","Stock","Zendesk, Inc.  (a)",288700,6524620,0,0,0
+"Common Stocks","Stock","Activision Blizzard, Inc.",306470,10564021,0,0,0
+"Common Stocks","Stock","Electronic Arts, Inc.  (a)",59900,3704815,0,0,0
+"Common Stocks","Stock","NCSOFT Corp.",45458,9086243,0,0,0
+"Common Stocks","Stock","NHN Entertainment Corp.  (a)",88294,4662567,0,0,0
+"Common Stocks","Stock","Nintendo Co. Ltd.  (c)",64100,8679206,0,0,0
+"Common Stocks","Stock","Nintendo Co. Ltd. ADR",85100,1451806,0,0,0
+"Common Stocks","Stock","Allot Communications Ltd.  (a)",288719,1564857,0,0,0
+"Common Stocks","Stock","CommVault Systems, Inc.  (a)",300,13131,0,0,0
+"Common Stocks","Stock","CyberArk Software Ltd.  (a)",116800,4770112,0,0,0
+"Common Stocks","Stock","Fleetmatics Group PLC (a)",360130,13054713,0,0,0
+"Common Stocks","Stock","Fortinet, Inc.  (a)",462,15020,0,0,0
+"Common Stocks","Stock","Imperva, Inc.  (a)",64200,2984016,0,0,0
+"Common Stocks","Stock","Infoblox, Inc.  (a)",900,15057,0,0,0
+"Common Stocks","Stock","Microsoft Corp.",1047100,52218877,0,0,0
+"Common Stocks","Stock","NetSuite, Inc.  (a)(b)",232777,18864248,0,0,0
+"Common Stocks","Stock","Oracle Corp.",189800,7565428,0,0,0
+"Common Stocks","Stock","Progress Software Corp.  (a)",52200,1332144,0,0,0
+"Common Stocks","Stock","Proofpoint, Inc.  (a)",142900,8325354,0,0,0
+"Common Stocks","Stock","Rapid7, Inc.  (a)(b)",2500,31300,0,0,0
+"Common Stocks","Stock","ServiceNow, Inc.  (a)",2395,171195,0,0,0
+"Common Stocks","Stock","Tableau Software, Inc.  (a)",3300,170610,0,0,0
+"Common Stocks","Stock","Varonis Systems, Inc.  (a)",900,17235,0,0,0
+"Common Stocks","Stock","VMware, Inc. Class A (a)(b)",28595,1627341,0,0,0
+"Common Stocks","Stock","Apple, Inc.",1494329,140078400,0,0,0
+"Common Stocks","Stock","BlackBerry Ltd.  (a)",1486,10493,0,0,0
+"Common Stocks","Stock","Catcher Technology Co. Ltd.",319000,2241680,0,0,0
+"Common Stocks","Stock","EMC Corp.",142300,3715453,0,0,0
+"Common Stocks","Stock","HTC Corp.",1567000,3997177,0,0,0
+"Common Stocks","Stock","Nimble Storage, Inc.  (a)",1900,14022,0,0,0
+"Common Stocks","Stock","Silicon Graphics International Corp.  (a)",166658,746628,0,0,0
+"Common Stocks","Stock","Stratasys Ltd.  (a)",100,2447,0,0,0
+"Preferred Stocks","Stock","China Internet Plus Holdings Ltd. Series B  (d)",2042487,7885430,0,0,0
+"Preferred Stocks","Stock","Uber Technologies, Inc. Series D, 8.00% (a)(d)",232064,11318278,0,0,0
+"Preferred Stocks","Stock","Nutanix, Inc. Series E  (a)(d)",39963,573869,0,0,0
+"Preferred Stocks","Stock","China Internet Plus Holdings Ltd. Series A-11  (d)",1516912,5856342,0,0,0
+"Money Market Funds","Stock","Fidelity Cash Central Fund, 0.38% (e)",26845508,26845508,0,0,0
+"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund, 0.42% (e)(f)",96373137,96373137,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",92562021,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005328","Fidelity Advisor Financial Services Fund",15934076,203561227,203503415,"FAFDX","FAFBX","FAFCX","FAFSX","FFSIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","Abacus Property Group unit",6665,19384,0,0,0
-"Common Stocks","Stock","Goodman Group unit",4800,30712,0,0,0
-"Common Stocks","Stock","Ingenia Communities Group unit",14604,29620,0,0,0
-"Common Stocks","Stock","National Storage (REIT) unit",19455,21963,0,0,0
-"Common Stocks","Stock","Propertylink Group unit",25400,19440,0,0,0
-"Common Stocks","Stock","The GPT Group unit",7560,29451,0,0,0
-"Common Stocks","Stock","BUWOG-Gemeinnuetzige Wohnung",1892,54568,0,0,0
-"Common Stocks","Stock","CA Immobilien Anlagen AG",560,15982,0,0,0
-"Common Stocks","Stock","Hongkong Land Holdings Ltd.",6000,43500,0,0,0
-"Common Stocks","Stock","Smart (REIT)",1074,24126,0,0,0
-"Common Stocks","Stock","Accor SA",380,18961,0,0,0
-"Common Stocks","Stock","Gecina SA",176,28558,0,0,0
-"Common Stocks","Stock","Unibail-Rodamco",245,61316,0,0,0
-"Common Stocks","Stock","LEG Immobilien AG",551,55968,0,0,0
-"Common Stocks","Stock","Vonovia SE",1230,54101,0,0,0
-"Common Stocks","Stock","Sino Land Ltd.",13700,23602,0,0,0
-"Common Stocks","Stock","Sun Hung Kai Properties Ltd.",3600,58882,0,0,0
-"Common Stocks","Stock","Hibernia (REIT) PLC",33100,56871,0,0,0
-"Common Stocks","Stock","Irish Residential Properties REIT PLC",14700,25257,0,0,0
-"Common Stocks","Stock","COIMA RES SpA",1700,17129,0,0,0
-"Common Stocks","Stock","Advance Residence Investment Corp.",12,28209,0,0,0
-"Common Stocks","Stock","Ichigo, Inc.",7400,26316,0,0,0
-"Common Stocks","Stock","Japan Senior Living Investment Corp.",10,12197,0,0,0
-"Common Stocks","Stock","Kenedix Office Investment Corp.",6,32144,0,0,0
-"Common Stocks","Stock","Mitsubishi Estate Co. Ltd.",2240,40621,0,0,0
-"Common Stocks","Stock","Mitsui Fudosan Co. Ltd.",3960,92430,0,0,0
-"Common Stocks","Stock","NTT Urban Development Co.",2100,21737,0,0,0
-"Common Stocks","Stock","ORIX JREIT, Inc.",22,30228,0,0,0
-"Common Stocks","Stock","Star Asia Investment Corp.",13,11906,0,0,0
-"Common Stocks","Stock","Aroundtown Property Holdings PLC",2629,18466,0,0,0
-"Common Stocks","Stock","Concentradora Fibra Hotelera Mexicana SA de CV",13000,8707,0,0,0
-"Common Stocks","Stock","Terrafina",4600,7081,0,0,0
-"Common Stocks","Stock","Mapletree Commercial Trust",23200,26466,0,0,0
-"Common Stocks","Stock","Parkway Life REIT",21800,45580,0,0,0
-"Common Stocks","Stock","UOL Group Ltd.",6800,45097,0,0,0
-"Common Stocks","Stock","Aedas Homes SAU",134,4683,0,0,0
-"Common Stocks","Stock","Hispania Activos Inmobiliarios SA",385,6640,0,0,0
-"Common Stocks","Stock","Castellum AB",400,6417,0,0,0
-"Common Stocks","Stock","Victoria Park AB",2900,10704,0,0,0
-"Common Stocks","Stock","British Land Co. PLC",6970,55636,0,0,0
-"Common Stocks","Stock","Derwent London PLC",1029,36572,0,0,0
-"Common Stocks","Stock","Londonmetric Properity PLC",15195,35600,0,0,0
-"Common Stocks","Stock","Tritax Big Box REIT PLC",14175,27731,0,0,0
-"Common Stocks","Stock","U & I Group PLC",7753,18998,0,0,0
-"Common Stocks","Stock","Workspace Group PLC",910,10696,0,0,0
-"Common Stocks","Stock","American Homes 4 Rent Class A",1251,26621,0,0,0
-"Common Stocks","Stock","Apartment Investment & Management Co. Class A",699,30742,0,0,0
-"Common Stocks","Stock","AvalonBay Communities, Inc.",293,53130,0,0,0
-"Common Stocks","Stock","Boston Properties, Inc.",566,68588,0,0,0
-"Common Stocks","Stock","Brandywine Realty Trust (SBI)",1606,28089,0,0,0
-"Common Stocks","Stock","Brixmor Property Group, Inc.",1027,17942,0,0,0
-"Common Stocks","Stock","Camden Property Trust (SBI)",189,17244,0,0,0
-"Common Stocks","Stock","Cousins Properties, Inc.",1725,15560,0,0,0
-"Common Stocks","Stock","DCT Industrial Trust, Inc.",903,52392,0,0,0
-"Common Stocks","Stock","DiamondRock Hospitality Co.",1655,17973,0,0,0
-"Common Stocks","Stock","Digital Realty Trust, Inc.",425,50337,0,0,0
-"Common Stocks","Stock","Duke Realty Corp.",2566,73080,0,0,0
-"Common Stocks","Stock","Equity Lifestyle Properties, Inc.",659,58308,0,0,0
-"Common Stocks","Stock","Equity Residential (SBI)",436,29325,0,0,0
-"Common Stocks","Stock","Essex Property Trust, Inc.",122,32016,0,0,0
-"Common Stocks","Stock","Extra Space Storage, Inc.",495,40387,0,0,0
-"Common Stocks","Stock","Gaming & Leisure Properties",580,21193,0,0,0
-"Common Stocks","Stock","General Growth Properties, Inc.",2109,41041,0,0,0
-"Common Stocks","Stock","Gramercy Property Trust",1103,32759,0,0,0
-"Common Stocks","Stock","Host Hotels & Resorts, Inc.",1840,35990,0,0,0
-"Common Stocks","Stock","Hudson Pacific Properties, Inc.",702,23742,0,0,0
-"Common Stocks","Stock","Kimco Realty Corp.",1155,20975,0,0,0
-"Common Stocks","Stock","Prologis, Inc.",1632,105394,0,0,0
-"Common Stocks","Stock","Public Storage",260,53885,0,0,0
-"Common Stocks","Stock","Regency Centers Corp.",359,22096,0,0,0
-"Common Stocks","Stock","Simon Property Group, Inc.",490,76112,0,0,0
-"Common Stocks","Stock","SL Green Realty Corp.",284,27173,0,0,0
-"Common Stocks","Stock","Spirit Realty Capital, Inc.",1700,14127,0,0,0
-"Common Stocks","Stock","Sun Communities, Inc.",415,37458,0,0,0
-"Common Stocks","Stock","UDR, Inc.",2094,81226,0,0,0
-"Common Stocks","Stock","Ventas, Inc.",1160,72790,0,0,0
-"Common Stocks","Stock","VEREIT, Inc.",5292,41754,0,0,0
-"Common Stocks","Stock","Welltower, Inc.",811,54305,0,0,0
-"Money Market Funds","Stock","(Cost $114,055)",114033,114055,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",571,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005329","Fidelity Advisor Health Care Fund",217487412,2776563166,2699159097,"FACDX","FHCCX","FACTX","FHCIX"
+"Common Stocks","Stock","Bank of America Corp.",596056,8678575,0,0,0
+"Common Stocks","Stock","Citigroup, Inc.",189765,8782324,0,0,0
+"Common Stocks","Stock","Comerica, Inc.",29719,1319524,0,0,0
+"Common Stocks","Stock","JPMorgan Chase & Co.",125931,7958839,0,0,0
+"Common Stocks","Stock","U.S. Bancorp",180508,7705887,0,0,0
+"Common Stocks","Stock","Wells Fargo & Co.",144748,7234505,0,0,0
+"Common Stocks","Stock","CoBiz, Inc.",71391,864545,0,0,0
+"Common Stocks","Stock","Huntington Bancshares, Inc.",194100,1952646,0,0,0
+"Common Stocks","Stock","M&T Bank Corp.",31500,3727080,0,0,0
+"Common Stocks","Stock","Popular, Inc.",52200,1551384,0,0,0
+"Common Stocks","Stock","Preferred Bank, Los Angeles",200,6352,0,0,0
+"Common Stocks","Stock","SunTrust Banks, Inc.",54900,2291526,0,0,0
+"Common Stocks","Stock","Affiliated Managers Group, Inc.  (a)",7254,1235501,0,0,0
+"Common Stocks","Stock","Invesco Ltd.",54838,1700526,0,0,0
+"Common Stocks","Stock","Northern Trust Corp.",34100,2423828,0,0,0
+"Common Stocks","Stock","Oaktree Capital Group LLC Class A",37600,1816456,0,0,0
+"Common Stocks","Stock","E*TRADE Financial Corp.  (a)",72600,1828068,0,0,0
+"Common Stocks","Stock","Goldman Sachs Group, Inc.",26550,4357121,0,0,0
+"Common Stocks","Stock","Virtu Financial, Inc. Class A",51200,1067520,0,0,0
+"Common Stocks","Stock","American Express Co.",38400,2512512,0,0,0
+"Common Stocks","Stock","Capital One Financial Corp.",84438,6112467,0,0,0
+"Common Stocks","Stock","OneMain Holdings, Inc.  (a)",29400,935508,0,0,0
+"Common Stocks","Stock","Synchrony Financial  (a)",100700,3078399,0,0,0
+"Common Stocks","Stock","H&R Block, Inc.",93300,1888392,0,0,0
+"Common Stocks","Stock","Berkshire Hathaway, Inc. Class B (a)",81269,11823012,0,0,0
+"Common Stocks","Stock","CME Group, Inc.",17100,1571661,0,0,0
+"Common Stocks","Stock","IntercontinentalExchange, Inc.",17964,4311899,0,0,0
+"Common Stocks","Stock","Brown & Brown, Inc.",98200,3447802,0,0,0
+"Common Stocks","Stock","Marsh & McLennan Companies, Inc.",78100,4932015,0,0,0
+"Common Stocks","Stock","Torchmark Corp.",75980,4398482,0,0,0
+"Common Stocks","Stock","American Financial Group, Inc.",13000,898430,0,0,0
+"Common Stocks","Stock","Allied World Assurance Co. Holdings AG",86002,3059951,0,0,0
+"Common Stocks","Stock","Allstate Corp.",75990,4943150,0,0,0
+"Common Stocks","Stock","Chubb Ltd.",67157,7915124,0,0,0
+"Common Stocks","Stock","FNF Group",138550,4419745,0,0,0
+"Common Stocks","Stock","Reinsurance Group of America, Inc.",19100,1818702,0,0,0
+"Common Stocks","Stock","MasterCard, Inc. Class A",30700,2977593,0,0,0
+"Common Stocks","Stock","PayPal Holdings, Inc.  (a)",23100,905058,0,0,0
+"Common Stocks","Stock","The Western Union Co.",126700,2534000,0,0,0
+"Common Stocks","Stock","Visa, Inc. Class A",67120,5184349,0,0,0
+"Common Stocks","Stock","Verisk Analytics, Inc.  (a)",14800,1148184,0,0,0
+"Common Stocks","Stock","Store Capital Corp.",7300,187391,0,0,0
+"Common Stocks","Stock","VEREIT, Inc.",137100,1217448,0,0,0
+"Common Stocks","Stock","Ventas, Inc.",71800,4460216,0,0,0
+"Common Stocks","Stock","DCT Industrial Trust, Inc.",33300,1344321,0,0,0
+"Common Stocks","Stock","Altisource Residential Corp. Class B",103250,1199765,0,0,0
+"Common Stocks","Stock","American Capital Agency Corp.",93900,1724943,0,0,0
+"Common Stocks","Stock","American Capital Mortgage Investment Corp.",35400,524982,0,0,0
+"Common Stocks","Stock","Redwood Trust, Inc.  (b)",131900,1709424,0,0,0
+"Common Stocks","Stock","Two Harbors Investment Corp.",105800,828414,0,0,0
+"Common Stocks","Stock","Boston Properties, Inc.",29600,3814256,0,0,0
+"Common Stocks","Stock","Douglas Emmett, Inc.",7300,236885,0,0,0
+"Common Stocks","Stock","American Campus Communities, Inc.",55473,2482417,0,0,0
+"Common Stocks","Stock","Equity Residential (SBI)",42200,2872554,0,0,0
+"Common Stocks","Stock","Essex Property Trust, Inc.",4300,947935,0,0,0
+"Common Stocks","Stock","UDR, Inc.",59400,2074248,0,0,0
+"Common Stocks","Stock","American Tower Corp.",69500,7289160,0,0,0
+"Common Stocks","Stock","Outfront Media, Inc.",76830,1666443,0,0,0
+"Common Stocks","Stock","Public Storage",19950,4883960,0,0,0
+"Common Stocks","Stock","Realogy Holdings Corp.  (a)",73600,2630464,0,0,0
+"Common Stocks","Stock","MGIC Investment Corp.  (a)",105000,759150,0,0,0
+"Common Stocks","Stock","Radian Group, Inc.",32200,411838,0,0,0
+"Common Stocks","Stock","AerCap Holdings NV  (a)",42800,1712428,0,0,0
+"Money Market Funds","Stock","Fidelity Cash Central Fund, 0.38% (c)",10390768,10390768,0,0,0
+"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund, 0.42% (c)(d)",873175,873175,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",57812,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005324","Fidelity Advisor Consumer Discretionary Fund",46554916,368335731,340700708,"FCNAX","FCIBX","FCECX","FACPX","FCNIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","Abeona Therapeutics, Inc.  (a)(b)",400000,7180000,0,0,0
-"Common Stocks","Stock","Ablynx NV  (a)(b)",870000,17831116,0,0,0
-"Common Stocks","Stock","Ablynx NV sponsored ADR",83200,1730560,0,0,0
-"Common Stocks","Stock","AC Immune SA  (a)",390500,4592280,0,0,0
-"Common Stocks","Stock","Acceleron Pharma, Inc.  (a)",240000,9360000,0,0,0
-"Common Stocks","Stock","Acorda Therapeutics, Inc.  (a)",549900,14613593,0,0,0
-"Common Stocks","Stock","Alexion Pharmaceuticals, Inc.  (a)",380000,45470800,0,0,0
-"Common Stocks","Stock","Alnylam Pharmaceuticals, Inc.  (a)",201491,24549663,0,0,0
-"Common Stocks","Stock","Amgen, Inc.",1280000,224281600,0,0,0
-"Common Stocks","Stock","Amicus Therapeutics, Inc.  (a)",720000,10252800,0,0,0
-"Common Stocks","Stock","AnaptysBio, Inc.",253600,16745208,0,0,0
-"Common Stocks","Stock","Ascendis Pharma A/S sponsored ADR  (a)(b)",400000,13592000,0,0,0
-"Common Stocks","Stock","Audentes Therapeutics, Inc.  (a)",242100,6437439,0,0,0
-"Common Stocks","Stock","BeiGene Ltd. ADR  (a)(b)",128859,11893686,0,0,0
-"Common Stocks","Stock","Biogen, Inc.  (a)",244000,76045040,0,0,0
-"Common Stocks","Stock","BioMarin Pharmaceutical, Inc.  (a)",260000,21343400,0,0,0
-"Common Stocks","Stock","Bioverativ, Inc.",52300,2954950,0,0,0
-"Common Stocks","Stock","bluebird bio, Inc.  (a)",81745,11370730,0,0,0
-"Common Stocks","Stock","Blueprint Medicines Corp.  (a)",355000,23579100,0,0,0
-"Common Stocks","Stock","Calithera Biosciences, Inc.  (a)",280000,4508000,0,0,0
-"Common Stocks","Stock","Cellectis SA sponsored ADR  (a)",227000,7947270,0,0,0
-"Common Stocks","Stock","Curis, Inc.  (a)",1000000,1580000,0,0,0
-"Common Stocks","Stock","Cytokinetics, Inc.  (a)",305600,4171440,0,0,0
-"Common Stocks","Stock","CytomX Therapeutics, Inc.  (a)",151900,3038000,0,0,0
-"Common Stocks","Stock","Epizyme, Inc.  (a)",350000,5845000,0,0,0
-"Common Stocks","Stock","Five Prime Therapeutics, Inc.  (a)",146839,6587198,0,0,0
-"Common Stocks","Stock","GlycoMimetics, Inc.  (a)",323600,3721400,0,0,0
-"Common Stocks","Stock","Heron Therapeutics, Inc.  (a)(b)",229358,3520645,0,0,0
-"Common Stocks","Stock","Insmed, Inc.  (a)",1025500,27698755,0,0,0
-"Common Stocks","Stock","Intercept Pharmaceuticals, Inc.  (a)",82244,5068698,0,0,0
-"Common Stocks","Stock","La Jolla Pharmaceutical Co.  (a)",124081,4263423,0,0,0
-"Common Stocks","Stock","Loxo Oncology, Inc.  (a)",200000,17232000,0,0,0
-"Common Stocks","Stock","Neurocrine Biosciences, Inc.  (a)",367158,22804183,0,0,0
-"Common Stocks","Stock","Prothena Corp. PLC  (a)(b)",18100,1050705,0,0,0
-"Common Stocks","Stock","Puma Biotechnology, Inc.  (a)",130000,16549000,0,0,0
-"Common Stocks","Stock","Regeneron Pharmaceuticals, Inc.  (a)",28000,11273360,0,0,0
-"Common Stocks","Stock","Spark Therapeutics, Inc.  (a)",161274,13047067,0,0,0
-"Common Stocks","Stock","TESARO, Inc.  (a)(b)",260000,30100200,0,0,0
-"Common Stocks","Stock","uniQure B.V. (a)",185682,2766662,0,0,0
-"Common Stocks","Stock","Vertex Pharmaceuticals, Inc.  (a)",360000,52642800,0,0,0
-"Common Stocks","Stock","Xencor, Inc.  (a)",439900,8701222,0,0,0
-"Common Stocks","Stock","Zai Lab Ltd. ADR",207400,5601874,0,0,0
-"Common Stocks","Stock","Carriage Services, Inc.",195535,5064357,0,0,0
-"Common Stocks","Stock","RPI International Holdings LP  (a)(c)(d)",61683,8421272,0,0,0
-"Common Stocks","Stock","CVS Health Corp.",880000,60306400,0,0,0
-"Common Stocks","Stock","Atricure, Inc.  (a)",650000,13936000,0,0,0
-"Common Stocks","Stock","Becton, Dickinson & Co.",707220,147575597,0,0,0
-"Common Stocks","Stock","Boston Scientific Corp.  (a)",5020000,141262800,0,0,0
-"Common Stocks","Stock","Danaher Corp.",320000,29526400,0,0,0
-"Common Stocks","Stock","DexCom, Inc.  (a)(b)",540000,24283800,0,0,0
-"Common Stocks","Stock","Fisher & Paykel Healthcare Corp.",900000,8160278,0,0,0
-"Common Stocks","Stock","Insulet Corp.  (a)",480000,28228800,0,0,0
-"Common Stocks","Stock","Integra LifeSciences Holdings Corp.  (a)",550000,25729000,0,0,0
-"Common Stocks","Stock","Intuitive Surgical, Inc.  (a)",234000,87834240,0,0,0
-"Common Stocks","Stock","Medtronic PLC",372000,29953440,0,0,0
-"Common Stocks","Stock","Penumbra, Inc.  (a)",331900,33372545,0,0,0
-"Common Stocks","Stock","Wright Medical Group NV  (a)",1120000,29355200,0,0,0
-"Common Stocks","Stock","Amplifon SpA",660000,10025165,0,0,0
-"Common Stocks","Stock","EBOS Group Ltd.",1280000,15415910,0,0,0
-"Common Stocks","Stock","HCA Holdings, Inc.  (a)",330000,24964500,0,0,0
-"Common Stocks","Stock","Universal Health Services, Inc. Class B",280000,28756000,0,0,0
-"Common Stocks","Stock","American Renal Associates Holdings, Inc.  (a)(b)",130000,1576900,0,0,0
-"Common Stocks","Stock","G1 Therapeutics, Inc.",30391,718139,0,0,0
-"Common Stocks","Stock","Premier, Inc.  (a)",280000,9147600,0,0,0
-"Common Stocks","Stock","Teladoc, Inc.  (a)(b)",1040000,34372000,0,0,0
-"Common Stocks","Stock","United Drug PLC (United Kingdom)",1100000,13506621,0,0,0
-"Common Stocks","Stock","Aetna, Inc.",50000,8501500,0,0,0
-"Common Stocks","Stock","Cigna Corp.",565000,111429300,0,0,0
-"Common Stocks","Stock","Humana, Inc.",230000,58730500,0,0,0
-"Common Stocks","Stock","UnitedHealth Group, Inc.",1020000,214424400,0,0,0
-"Common Stocks","Stock","athenahealth, Inc.  (a)",190000,24297200,0,0,0
-"Common Stocks","Stock","Castlight Health, Inc.  (a)",336800,1296680,0,0,0
-"Common Stocks","Stock","Castlight Health, Inc. Class B (a)(b)",407600,1569260,0,0,0
-"Common Stocks","Stock","Cerner Corp.  (a)",1000000,67520000,0,0,0
-"Common Stocks","Stock","Evolent Health, Inc.  (a)(b)",750000,12187500,0,0,0
-"Common Stocks","Stock","Medidata Solutions, Inc.  (a)",170000,12789100,0,0,0
-"Common Stocks","Stock","Benefitfocus, Inc.  (a)(b)",700000,19180000,0,0,0
-"Common Stocks","Stock","Agilent Technologies, Inc.",350000,23810500,0,0,0
-"Common Stocks","Stock","Lonza Group AG",30000,7968727,0,0,0
-"Common Stocks","Stock","Allergan PLC",600000,106338000,0,0,0
-"Common Stocks","Stock","Astellas Pharma, Inc.",1000000,13308857,0,0,0
-"Common Stocks","Stock","AstraZeneca PLC (United Kingdom)",640000,43303017,0,0,0
-"Common Stocks","Stock","Avexis, Inc.  (a)",25641,2679741,0,0,0
-"Common Stocks","Stock","Bristol-Myers Squibb Co.",800000,49328000,0,0,0
-"Common Stocks","Stock","Dechra Pharmaceuticals PLC",800000,21845411,0,0,0
-"Common Stocks","Stock","Eisai Co. Ltd.",220000,12244461,0,0,0
-"Common Stocks","Stock","Indivior PLC  (a)",2100000,10364351,0,0,0
-"Common Stocks","Stock","Jazz Pharmaceuticals PLC  (a)",190000,26890700,0,0,0
-"Common Stocks","Stock","Jiangsu Hengrui Medicine Co. Ltd. (A Shares)",2160000,21886811,0,0,0
-"Common Stocks","Stock","Mallinckrodt PLC  (a)",487600,15442292,0,0,0
-"Common Stocks","Stock","Mylan N.V.  (a)",280000,9998800,0,0,0
-"Common Stocks","Stock","Sanofi SA",330000,31246595,0,0,0
-"Common Stocks","Stock","The Medicines Company  (a)",403700,11602338,0,0,0
-"Common Stocks","Stock","TherapeuticsMD, Inc.  (a)(b)",2700000,12744000,0,0,0
-"Common Stocks","Stock","Theravance Biopharma, Inc.  (a)(b)",516100,14894646,0,0,0
-"Common Stocks","Stock","Tonghua Dongbao Pharmaceutical Co. Ltd. Class A",2399894,7820119,0,0,0
-"Preferred Stocks","Stock","1Life Healthcare, Inc. Series G  (a)(c)(d)",322145,2261458,0,0,0
-"Preferred Stocks","Stock","Outset Medical, Inc. Series C  (c)(d)",1003280,2600000,0,0,0
-"Preferred Stocks","Stock","Harmony Biosciences II, Inc. Series A  (c)(d)",4262580,4262580,0,0,0
-"Preferred Stocks","Stock","Sartorius AG (non-vtg.)",190000,17707933,0,0,0
-"Money Market Funds","Stock","Fidelity Cash Central Fund, 1.10% (e)",86428233,86445519,0,0,0
-"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund 1.11% (e)(f)",72599779,72607039,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",77404069,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005325","Fidelity Advisor Industrials Fund",23913625,840963189,833297543,"FCLAX","FCLCX","FCLTX","FCLIX"
+"Common Stocks","Stock","Delphi Automotive PLC",24884,1832209,0,0,0
+"Common Stocks","Stock","Tenneco, Inc.  (a)",107400,5724420,0,0,0
+"Common Stocks","Stock","Visteon Corp.",33100,2637077,0,0,0
+"Common Stocks","Stock","Ferrari NV",16700,765695,0,0,0
+"Common Stocks","Stock","Constellation Brands, Inc. Class A (sub. vtg.)",16027,2501174,0,0,0
+"Common Stocks","Stock","Monster Beverage Corp.",25249,3641411,0,0,0
+"Common Stocks","Stock","KAR Auction Services, Inc.",6300,236880,0,0,0
+"Common Stocks","Stock","Costco Wholesale Corp.",16760,2482659,0,0,0
+"Common Stocks","Stock","Las Vegas Sands Corp.",131080,5918262,0,0,0
+"Common Stocks","Stock","Accor SA  (b)",57109,2529715,0,0,0
+"Common Stocks","Stock","Hilton Worldwide Holdings, Inc.",474700,10467135,0,0,0
+"Common Stocks","Stock","Vail Resorts, Inc.",40800,5289312,0,0,0
+"Common Stocks","Stock","Buffalo Wild Wings, Inc.  (a)",9400,1256404,0,0,0
+"Common Stocks","Stock","Del Frisco's Restaurant Group, Inc.  (a)",40500,645165,0,0,0
+"Common Stocks","Stock","Domino's Pizza, Inc.",18000,2175840,0,0,0
+"Common Stocks","Stock","McDonald's Corp.",43300,5477017,0,0,0
+"Common Stocks","Stock","Starbucks Corp.",293276,16490909,0,0,0
+"Common Stocks","Stock","Tempur Sealy International, Inc.  (a)",21259,1289784,0,0,0
+"Common Stocks","Stock","Techtronic Industries Co. Ltd.",1333500,4998851,0,0,0
+"Common Stocks","Stock","Spectrum Brands Holdings, Inc.",59710,6783056,0,0,0
+"Common Stocks","Stock","Amazon.com, Inc.  (a)",62780,41409058,0,0,0
+"Common Stocks","Stock","Netflix, Inc.  (a)",26300,2367789,0,0,0
+"Common Stocks","Stock","Ocado Group PLC  (a)(b)",1115940,4819923,0,0,0
+"Common Stocks","Stock","Mattel, Inc.",73200,2275788,0,0,0
+"Common Stocks","Stock","Interpublic Group of Companies, Inc.",355000,8143700,0,0,0
+"Common Stocks","Stock","ITV PLC",1106453,3640794,0,0,0
+"Common Stocks","Stock","Charter Communications, Inc. Class A (a)(b)",110620,23477989,0,0,0
+"Common Stocks","Stock","Comcast Corp. Class A",126900,7710444,0,0,0
+"Common Stocks","Stock","Naspers Ltd. Class N",28470,3906371,0,0,0
+"Common Stocks","Stock","The Walt Disney Co.",265506,27416150,0,0,0
+"Common Stocks","Stock","Time Warner, Inc.",56100,4215354,0,0,0
+"Common Stocks","Stock","B&M European Value Retail S.A.",797628,3232970,0,0,0
+"Common Stocks","Stock","Mobileye NV  (a)(b)",43400,1655710,0,0,0
+"Common Stocks","Stock","Inditex SA",64069,2056710,0,0,0
+"Common Stocks","Stock","L Brands, Inc.",186700,14616743,0,0,0
+"Common Stocks","Stock","Ross Stores, Inc.",263220,14945632,0,0,0
+"Common Stocks","Stock","TJX Companies, Inc.",61508,4663537,0,0,0
+"Common Stocks","Stock","Zumiez, Inc.  (a)",7400,124172,0,0,0
+"Common Stocks","Stock","AutoZone, Inc.  (a)",15020,11493755,0,0,0
+"Common Stocks","Stock","O'Reilly Automotive, Inc.  (a)",17700,4649436,0,0,0
+"Common Stocks","Stock","Home Depot, Inc.",234260,31365071,0,0,0
+"Common Stocks","Stock","Sally Beauty Holdings, Inc.  (a)",22000,690800,0,0,0
+"Common Stocks","Stock","Ulta Salon, Cosmetics & Fragrance, Inc.  (a)",600,124968,0,0,0
+"Common Stocks","Stock","G-III Apparel Group Ltd.  (a)",65280,2953920,0,0,0
+"Common Stocks","Stock","Regina Miracle International Holdings Ltd.  (a)",157635,239184,0,0,0
+"Common Stocks","Stock","VF Corp.",143780,9065329,0,0,0
+"Common Stocks","Stock","NIKE, Inc. Class B",268434,15821500,0,0,0
+"Money Market Funds","Stock","Fidelity Cash Central Fund, 0.38% (c)",11622327,11622327,0,0,0
+"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund, 0.42% (c)(d)",26487632,26487632,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",27635023,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005327","Fidelity Advisor Electronics Fund",7122305,74646344,73942367,"FELAX","FELBX","FELCX","FELTX","FELIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","Astronics Corp.  (a)",94566,3253070,0,0,0
-"Common Stocks","Stock","Astronics Corp. Class B",6099,217429,0,0,0
-"Common Stocks","Stock","Axon Enterprise, Inc.  (a)",178500,4100145,0,0,0
-"Common Stocks","Stock","Elbit Systems Ltd.",27000,4012740,0,0,0
-"Common Stocks","Stock","General Dynamics Corp.",166562,33808755,0,0,0
-"Common Stocks","Stock","Huntington Ingalls Industries, Inc.",32100,7473843,0,0,0
-"Common Stocks","Stock","Northrop Grumman Corp.",134000,39601020,0,0,0
-"Common Stocks","Stock","Raytheon Co.",151100,27228220,0,0,0
-"Common Stocks","Stock","Rockwell Collins, Inc.",53200,7213920,0,0,0
-"Common Stocks","Stock","Teledyne Technologies, Inc.  (a)",89865,15273455,0,0,0
-"Common Stocks","Stock","The Boeing Co.",64400,16613912,0,0,0
-"Common Stocks","Stock","TransDigm Group, Inc.",45900,12737250,0,0,0
-"Common Stocks","Stock","United Technologies Corp.",401051,48029868,0,0,0
-"Common Stocks","Stock","XPO Logistics, Inc.  (a)",169300,11740955,0,0,0
-"Common Stocks","Stock","Allegiant Travel Co.",800,109120,0,0,0
-"Common Stocks","Stock","Delta Air Lines, Inc.",78900,3947367,0,0,0
-"Common Stocks","Stock","Ryanair Holdings PLC sponsored ADR  (a)",27200,3049392,0,0,0
-"Common Stocks","Stock","Southwest Airlines Co.",295700,15926402,0,0,0
-"Common Stocks","Stock","A.O. Smith Corp.",181584,10749773,0,0,0
-"Common Stocks","Stock","Fortune Brands Home & Security, Inc.",140000,9248400,0,0,0
-"Common Stocks","Stock","Masco Corp.",273900,10906698,0,0,0
-"Common Stocks","Stock","Cintas Corp.",88000,13115520,0,0,0
-"Common Stocks","Stock","KAR Auction Services, Inc.",234600,11103618,0,0,0
-"Common Stocks","Stock","Waste Connection, Inc. (United States)",140600,9936202,0,0,0
-"Common Stocks","Stock","AECOM  (a)",540721,18957678,0,0,0
-"Common Stocks","Stock","Dycom Industries, Inc.  (a)",59700,5243451,0,0,0
-"Common Stocks","Stock","Fluor Corp.",70500,3037845,0,0,0
-"Common Stocks","Stock","KBR, Inc.",549200,10780796,0,0,0
-"Common Stocks","Stock","AMETEK, Inc.",254526,17177960,0,0,0
-"Common Stocks","Stock","Eaton Corp. PLC",183300,14667666,0,0,0
-"Common Stocks","Stock","Fortive Corp.",324866,23474817,0,0,0
-"Common Stocks","Stock","TPI Composites, Inc.  (a)",161900,4055595,0,0,0
-"Common Stocks","Stock","3M Co.",9200,2117748,0,0,0
-"Common Stocks","Stock","General Electric Co.",1453248,29297480,0,0,0
-"Common Stocks","Stock","Honeywell International, Inc.",296433,42733781,0,0,0
-"Common Stocks","Stock","ITT, Inc.",115300,5377592,0,0,0
-"Common Stocks","Stock","Deere & Co.",72200,9593936,0,0,0
-"Common Stocks","Stock","Allison Transmission Holdings, Inc.",432500,18376925,0,0,0
-"Common Stocks","Stock","Caterpillar, Inc.",355100,48222581,0,0,0
-"Common Stocks","Stock","PACCAR, Inc.",58600,4203378,0,0,0
-"Common Stocks","Stock","WABCO Holdings, Inc.  (a)",118600,17501802,0,0,0
-"Common Stocks","Stock","Wabtec Corp.  (b)",83100,6357150,0,0,0
-"Common Stocks","Stock","Flowserve Corp.",143300,6315231,0,0,0
-"Common Stocks","Stock","Gardner Denver Holdings, Inc.",180000,5193000,0,0,0
-"Common Stocks","Stock","IDEX Corp.",90529,11606723,0,0,0
-"Common Stocks","Stock","Ingersoll-Rand PLC",189100,16754260,0,0,0
-"Common Stocks","Stock","Lincoln Electric Holdings, Inc.",62400,5720208,0,0,0
-"Common Stocks","Stock","Nordson Corp.",47100,5967099,0,0,0
-"Common Stocks","Stock","Parker Hannifin Corp.",76500,13969665,0,0,0
-"Common Stocks","Stock","Pentair PLC",107318,7561626,0,0,0
-"Common Stocks","Stock","Rexnord Corp.  (a)",193300,4933016,0,0,0
-"Common Stocks","Stock","Snap-On, Inc.",126200,19911836,0,0,0
-"Common Stocks","Stock","Xylem, Inc.",85000,5655050,0,0,0
-"Common Stocks","Stock","Robert Half International, Inc.",124400,6440188,0,0,0
-"Common Stocks","Stock","Equifax, Inc.",20700,2246571,0,0,0
-"Common Stocks","Stock","IHS Markit Ltd.  (a)",289500,12335595,0,0,0
-"Common Stocks","Stock","Genesee & Wyoming, Inc. Class A (a)",78400,5627552,0,0,0
-"Common Stocks","Stock","Norfolk Southern Corp.",155800,20475236,0,0,0
-"Common Stocks","Stock","Union Pacific Corp.",319300,36971747,0,0,0
-"Common Stocks","Stock","J.B. Hunt Transport Services, Inc.",61684,6562561,0,0,0
-"Common Stocks","Stock","Old Dominion Freight Lines, Inc.",54700,6625811,0,0,0
-"Common Stocks","Stock","HD Supply Holdings, Inc.  (a)",65506,2318257,0,0,0
-"Common Stocks","Stock","MSC Industrial Direct Co., Inc. Class A",41800,3465220,0,0,0
-"Common Stocks","Stock","United Rentals, Inc.  (a)",29000,4102920,0,0,0
-"Common Stocks","Stock","Univar, Inc.  (a)",437800,13024550,0,0,0
-"Common Stocks","Stock","AquaVenture Holdings Ltd.  (b)",347526,4229391,0,0,0
-"Money Market Funds","Stock","Fidelity Cash Central Fund, 1.10% (c)",5428689,5429775,0,0,0
-"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund 1.11% (c)(d)",6944152,6944846,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",7665646,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005331","Fidelity Advisor Real Estate Fund",24219277,806292730,805041343,"FHEAX","FHECX","FHETX","FHEIX"
+"Common Stocks","Stock","Arrowhead Pharmaceuticals, Inc. warrants 5/21/17 (a)",64879,1,0,0,0
+"Common Stocks","Stock","West Corp.",18800,402884,0,0,0
+"Common Stocks","Stock","Ciena Corp.  (a)",9900,166617,0,0,0
+"Common Stocks","Stock","Broadcom Ltd.",41800,6092350,0,0,0
+"Common Stocks","Stock","Keysight Technologies, Inc.  (a)",11400,297312,0,0,0
+"Common Stocks","Stock","Benchmark Electronics, Inc.  (a)",3600,69912,0,0,0
+"Common Stocks","Stock","Jabil Circuit, Inc.",138476,2403943,0,0,0
+"Common Stocks","Stock","TTM Technologies, Inc.  (a)",220324,1436512,0,0,0
+"Common Stocks","Stock","Rackspace Hosting, Inc.  (a)",13000,297310,0,0,0
+"Common Stocks","Stock","EVERTEC, Inc.",6200,83514,0,0,0
+"Common Stocks","Stock","Amkor Technology, Inc.  (a)",41800,238678,0,0,0
+"Common Stocks","Stock","Applied Materials, Inc.",118600,2427742,0,0,0
+"Common Stocks","Stock","Lam Research Corp.",36481,2787148,0,0,0
+"Common Stocks","Stock","PDF Solutions, Inc.  (a)",14100,189645,0,0,0
+"Common Stocks","Stock","SunEdison Semiconductor Ltd.  (a)",32900,189175,0,0,0
+"Common Stocks","Stock","Xcerra Corp.  (a)",19400,114460,0,0,0
+"Common Stocks","Stock","Advanced Micro Devices, Inc.  (a)(b)",43200,153360,0,0,0
+"Common Stocks","Stock","ams AG",7580,200305,0,0,0
+"Common Stocks","Stock","Analog Devices, Inc.",14928,840745,0,0,0
+"Common Stocks","Stock","Applied Micro Circuits Corp.  (a)",39137,244215,0,0,0
+"Common Stocks","Stock","Cavium, Inc.  (a)",19000,938030,0,0,0
+"Common Stocks","Stock","Cree, Inc.  (a)",9900,242649,0,0,0
+"Common Stocks","Stock","Diodes, Inc.  (a)",32400,603288,0,0,0
+"Common Stocks","Stock","Exar Corp.  (a)",5000,30500,0,0,0
+"Common Stocks","Stock","Infineon Technologies AG",8800,125555,0,0,0
+"Common Stocks","Stock","Integrated Device Technology, Inc.  (a)",500,9640,0,0,0
+"Common Stocks","Stock","Intel Corp.",363278,11000057,0,0,0
+"Common Stocks","Stock","Intersil Corp. Class A",152637,1784327,0,0,0
+"Common Stocks","Stock","Lattice Semiconductor Corp.  (a)",37400,208318,0,0,0
+"Common Stocks","Stock","Marvell Technology Group Ltd.",173900,1735522,0,0,0
+"Common Stocks","Stock","Maxim Integrated Products, Inc.",91922,3283454,0,0,0
+"Common Stocks","Stock","Microchip Technology, Inc.  (b)",36200,1758958,0,0,0
+"Common Stocks","Stock","Micron Technology, Inc.  (a)",190012,2042629,0,0,0
+"Common Stocks","Stock","NVIDIA Corp.",31323,1112906,0,0,0
+"Common Stocks","Stock","NXP Semiconductors NV  (a)",35591,3035200,0,0,0
+"Common Stocks","Stock","ON Semiconductor Corp.  (a)",371700,3519999,0,0,0
+"Common Stocks","Stock","Qorvo, Inc.  (a)",46600,2098398,0,0,0
+"Common Stocks","Stock","Qualcomm, Inc.",193626,9781986,0,0,0
+"Common Stocks","Stock","Semtech Corp.  (a)",93422,2021652,0,0,0
+"Common Stocks","Stock","Skyworks Solutions, Inc.",38200,2552524,0,0,0
+"Common Stocks","Stock","Xilinx, Inc.",24000,1033920,0,0,0
+"Common Stocks","Stock","Lenovo Group Ltd.",300000,237328,0,0,0
+"Common Stocks","Stock","Nimble Storage, Inc.  (a)(b)",49100,362358,0,0,0
+"Common Stocks","Stock","Seagate Technology LLC",58200,1267014,0,0,0
+"Common Stocks","Stock","Western Digital Corp.",36100,1475227,0,0,0
+"Nonconvertible Bonds","Stock","7% 7/1/24",215000,161788,0,0,0
+"Nonconvertible Bonds","Stock","7.75% 8/1/20",130000,105300,0,0,0
+"Money Market Funds","Stock","Fidelity Cash Central Fund, 0.38% (c)",2925839,2925839,0,0,0
+"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund, 0.42% (c)(d)",556150,556150,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",703977,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005331","Fidelity Advisor Real Estate Fund",41352580,959025745,955904578,"FHEAX","FHEBX","FHECX","FHETX","FHEIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","American Homes 4 Rent Class A",816800,17381504,0,0,0
-"Common Stocks","Stock","AvalonBay Communities, Inc.",267740,48549294,0,0,0
-"Common Stocks","Stock","Education Realty Trust, Inc.",319300,11143570,0,0,0
-"Common Stocks","Stock","Equity Residential (SBI)",283609,19075541,0,0,0
-"Common Stocks","Stock","Essex Property Trust, Inc.",139647,36647562,0,0,0
-"Common Stocks","Stock","Mid-America Apartment Communities, Inc.",268849,27516695,0,0,0
-"Common Stocks","Stock","Corrections Corp. of America",122300,3015918,0,0,0
-"Common Stocks","Stock","Digital Realty Trust, Inc.",87900,10410876,0,0,0
-"Common Stocks","Stock","Duke Realty Corp.",765100,21790048,0,0,0
-"Common Stocks","Stock","Equinix, Inc.",43400,20115900,0,0,0
-"Common Stocks","Stock","Washington REIT (SBI)",475200,15296688,0,0,0
-"Common Stocks","Stock","Healthcare Realty Trust, Inc.",494300,15936232,0,0,0
-"Common Stocks","Stock","Sabra Health Care REIT, Inc.",154961,3086823,0,0,0
-"Common Stocks","Stock","Ventas, Inc.",638905,40091289,0,0,0
-"Common Stocks","Stock","Welltower, Inc.",374119,25051008,0,0,0
-"Common Stocks","Stock","DiamondRock Hospitality Co.",1166450,12667647,0,0,0
-"Common Stocks","Stock","Host Hotels & Resorts, Inc.",866334,16945493,0,0,0
-"Common Stocks","Stock","LaSalle Hotel Properties (SBI)",225000,6347250,0,0,0
-"Common Stocks","Stock","Sunstone Hotel Investors, Inc.",1032800,16855296,0,0,0
-"Common Stocks","Stock","American Assets Trust, Inc.",178500,6924015,0,0,0
-"Common Stocks","Stock","American Tower Corp.",17500,2514225,0,0,0
-"Common Stocks","Stock","Equity Lifestyle Properties, Inc.",252703,22359161,0,0,0
-"Common Stocks","Stock","Boston Properties, Inc.",315047,38177395,0,0,0
-"Common Stocks","Stock","Corporate Office Properties Trust (SBI)",412300,13164739,0,0,0
-"Common Stocks","Stock","Douglas Emmett, Inc.",586900,23352751,0,0,0
-"Common Stocks","Stock","Highwoods Properties, Inc. (SBI)",414400,21155120,0,0,0
-"Common Stocks","Stock","Hudson Pacific Properties, Inc.",594400,20102608,0,0,0
-"Common Stocks","Stock","SL Green Realty Corp.",253900,24293152,0,0,0
-"Common Stocks","Stock","General Growth Properties, Inc.",1289000,25083940,0,0,0
-"Common Stocks","Stock","Simon Property Group, Inc.",297850,46265041,0,0,0
-"Common Stocks","Stock","Taubman Centers, Inc.",146600,6922452,0,0,0
-"Common Stocks","Stock","Acadia Realty Trust (SBI)",223900,6302785,0,0,0
-"Common Stocks","Stock","Cedar Realty Trust, Inc.",1117570,6079581,0,0,0
-"Common Stocks","Stock","DDR Corp.",896600,6876922,0,0,0
-"Common Stocks","Stock","Urban Edge Properties",889641,20870978,0,0,0
-"Common Stocks","Stock","Extra Space Storage, Inc.",396600,32358594,0,0,0
-"Common Stocks","Stock","Public Storage",161350,33439788,0,0,0
-"Common Stocks","Stock","DCT Industrial Trust, Inc.",462066,26809069,0,0,0
-"Common Stocks","Stock","Prologis, Inc.",399077,25772393,0,0,0
-"Common Stocks","Stock","Rexford Industrial Realty, Inc.",180600,5362014,0,0,0
-"Common Stocks","Stock","Terreno Realty Corp.",75680,2778970,0,0,0
-"Common Stocks","Stock","Safety Income and Growth, Inc.",111500,2003655,0,0,0
-"Common Stocks","Stock","Marriott International, Inc. Class A",77500,9259700,0,0,0
-"Common Stocks","Stock","Vonovia SE",98000,4310504,0,0,0
-"Money Market Funds","Stock","(Cost $5,828,544)",5827379,5828544,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",1251387,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005327","Fidelity Advisor Semiconductors Fund",25057107,261981689,258158220,"FELAX","FELCX","FELTX","FELIX"
+"Common Stocks","Stock","Hilton Worldwide Holdings, Inc.",439500,9690975,0,0,0
+"Common Stocks","Stock","AvalonBay Communities, Inc.",164540,29089027,0,0,0
+"Common Stocks","Stock","Equity Residential (SBI)",408509,27807208,0,0,0
+"Common Stocks","Stock","Essex Property Trust, Inc.",171347,37773446,0,0,0
+"Common Stocks","Stock","Mid-America Apartment Communities, Inc.",340300,32570113,0,0,0
+"Common Stocks","Stock","UDR, Inc.",1104000,38551680,0,0,0
+"Common Stocks","Stock","Cousins Properties, Inc.",618943,6406060,0,0,0
+"Common Stocks","Stock","DuPont Fabros Technology, Inc.",292900,11663278,0,0,0
+"Common Stocks","Stock","Forest City Realty Trust, Inc.",892767,18551698,0,0,0
+"Common Stocks","Stock","Liberty Property Trust (SBI)",219500,7660550,0,0,0
+"Common Stocks","Stock","Vornado Realty Trust",39783,3808427,0,0,0
+"Common Stocks","Stock","Healthcare Realty Trust, Inc.",826600,25029448,0,0,0
+"Common Stocks","Stock","Healthcare Trust of America, Inc.",23500,678915,0,0,0
+"Common Stocks","Stock","Sabra Health Care REIT, Inc.",504800,10646232,0,0,0
+"Common Stocks","Stock","Ventas, Inc.",809405,50280239,0,0,0
+"Common Stocks","Stock","Welltower, Inc.",263019,18258779,0,0,0
+"Common Stocks","Stock","Ashford Hospitality Prime, Inc.",311400,3484566,0,0,0
+"Common Stocks","Stock","Chesapeake Lodging Trust",99100,2440833,0,0,0
+"Common Stocks","Stock","FelCor Lodging Trust, Inc.",2294689,16429973,0,0,0
+"Common Stocks","Stock","Host Hotels & Resorts, Inc.",1153534,18248908,0,0,0
+"Common Stocks","Stock","Coresite Realty Corp.",139200,10430256,0,0,0
+"Common Stocks","Stock","Empire State Realty Trust, Inc.",1104600,20446146,0,0,0
+"Common Stocks","Stock","Equity Lifestyle Properties, Inc.",73600,5040864,0,0,0
+"Common Stocks","Stock","Sun Communities, Inc.",193222,13113977,0,0,0
+"Common Stocks","Stock","Alexandria Real Estate Equities, Inc.",101133,9400312,0,0,0
+"Common Stocks","Stock","Boston Properties, Inc.",434647,56008612,0,0,0
+"Common Stocks","Stock","Douglas Emmett, Inc.",105400,3420230,0,0,0
+"Common Stocks","Stock","Mack-Cali Realty Corp.",1420100,36297756,0,0,0
+"Common Stocks","Stock","New York (REIT), Inc.",248400,2441772,0,0,0
+"Common Stocks","Stock","Parkway Properties, Inc.",650300,10697435,0,0,0
+"Common Stocks","Stock","SL Green Realty Corp.",151065,15873910,0,0,0
+"Common Stocks","Stock","VEREIT, Inc.",1078300,9575304,0,0,0
+"Common Stocks","Stock","General Growth Properties, Inc.",655900,18384877,0,0,0
+"Common Stocks","Stock","Pennsylvania Real Estate Investment Trust (SBI)",202000,4633880,0,0,0
+"Common Stocks","Stock","Simon Property Group, Inc.",565850,113832042,0,0,0
+"Common Stocks","Stock","Taubman Centers, Inc.",90300,6271335,0,0,0
+"Common Stocks","Stock","The Macerich Co.",124300,9456744,0,0,0
+"Common Stocks","Stock","Acadia Realty Trust (SBI)",8100,272970,0,0,0
+"Common Stocks","Stock","Brixmor Property Group, Inc.",220100,5557525,0,0,0
+"Common Stocks","Stock","Cedar Shopping Centers, Inc.",1411243,9765802,0,0,0
+"Common Stocks","Stock","Federal Realty Investment Trust (SBI)",204802,31146288,0,0,0
+"Common Stocks","Stock","Kite Realty Group Trust",247332,6734850,0,0,0
+"Common Stocks","Stock","Ramco-Gershenson Properties Trust (SBI)",494122,8750901,0,0,0
+"Common Stocks","Stock","Urban Edge Properties",1075241,27891752,0,0,0
+"Common Stocks","Stock","Extra Space Storage, Inc.",520900,44250455,0,0,0
+"Common Stocks","Stock","Public Storage",189850,46477179,0,0,0
+"Common Stocks","Stock","DCT Industrial Trust, Inc.",718250,28995753,0,0,0
+"Common Stocks","Stock","Prologis, Inc.",238577,10833782,0,0,0
+"Common Stocks","Stock","Terreno Realty Corp.",265400,6043158,0,0,0
+"Common Stocks","Stock","Gaming & Leisure Properties",14700,482013,0,0,0
+"Money Market Funds","Stock","(Cost $17,427,510)",17427510,17427510,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",3121167,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005330","Fidelity Advisor Energy Fund",72706898,929273997,897070018,"FANAX","FANRX","FNRCX","FAGNX","FANIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","Brocade Communications Systems, Inc.",196900,2293885,0,0,0
-"Common Stocks","Stock","CommScope Holding Co., Inc.  (a)",38100,1224534,0,0,0
-"Common Stocks","Stock","F5 Networks, Inc.  (a)",5500,666985,0,0,0
-"Common Stocks","Stock","Finisar Corp.  (a)",21800,513172,0,0,0
-"Common Stocks","Stock","Infinera Corp.  (a)",49600,415152,0,0,0
-"Common Stocks","Stock","Quantenna Communications, Inc.",69644,1078786,0,0,0
-"Common Stocks","Stock","Flextronics International Ltd.  (a)",78800,1402640,0,0,0
-"Common Stocks","Stock","Jabil, Inc.",69576,1967609,0,0,0
-"Common Stocks","Stock","Park Electrochemical Corp.",13000,245440,0,0,0
-"Common Stocks","Stock","Plexus Corp.  (a)",12000,737160,0,0,0
-"Common Stocks","Stock","TTM Technologies, Inc.  (a)",91600,1445448,0,0,0
-"Common Stocks","Stock","Avnet, Inc.",118400,4712320,0,0,0
-"Common Stocks","Stock","Tech Data Corp.  (a)",9500,881315,0,0,0
-"Common Stocks","Stock","Akamai Technologies, Inc.  (a)",34200,1786950,0,0,0
-"Common Stocks","Stock","Alphabet, Inc. Class A (a)",5510,5692050,0,0,0
-"Common Stocks","Stock","SecureWorks Corp.  (a)",5000,50100,0,0,0
-"Common Stocks","Stock","IBM Corp.",2300,354338,0,0,0
-"Common Stocks","Stock","Applied Materials, Inc.",31700,1788831,0,0,0
-"Common Stocks","Stock","Experi Corp.",26600,611800,0,0,0
-"Common Stocks","Stock","Lam Research Corp.",5281,1101458,0,0,0
-"Common Stocks","Stock","PDF Solutions, Inc.  (a)",60795,890647,0,0,0
-"Common Stocks","Stock","Xcerra Corp.  (a)",89664,883190,0,0,0
-"Common Stocks","Stock","Acacia Communications, Inc.  (a)(b)",34500,1459695,0,0,0
-"Common Stocks","Stock","Advanced Micro Devices, Inc.  (a)",12000,131820,0,0,0
-"Common Stocks","Stock","Alpha & Omega Semiconductor Ltd.  (a)",25400,468122,0,0,0
-"Common Stocks","Stock","Ambarella, Inc.  (a)(b)",7500,423300,0,0,0
-"Common Stocks","Stock","Analog Devices, Inc.",162470,14833511,0,0,0
-"Common Stocks","Stock","Broadcom Ltd.",96900,25572879,0,0,0
-"Common Stocks","Stock","Cavium, Inc.  (a)",80091,5525478,0,0,0
-"Common Stocks","Stock","Cirrus Logic, Inc.  (a)",11700,655200,0,0,0
-"Common Stocks","Stock","Cree, Inc.  (a)",80900,2888130,0,0,0
-"Common Stocks","Stock","Cypress Semiconductor Corp.  (b)",347100,5505006,0,0,0
-"Common Stocks","Stock","Inphi Corp.  (a)(b)",130338,5341251,0,0,0
-"Common Stocks","Stock","Integrated Device Technology, Inc.  (a)",73800,2292966,0,0,0
-"Common Stocks","Stock","Intel Corp.",866375,39411399,0,0,0
-"Common Stocks","Stock","Lattice Semiconductor Corp.  (a)",264700,1548495,0,0,0
-"Common Stocks","Stock","M/A-COM Technology Solutions Holdings, Inc.  (a)",26200,1071056,0,0,0
-"Common Stocks","Stock","Marvell Technology Group Ltd.",293600,5422792,0,0,0
-"Common Stocks","Stock","Maxim Integrated Products, Inc.",100522,5281426,0,0,0
-"Common Stocks","Stock","MaxLinear, Inc. Class A (a)",132647,3245872,0,0,0
-"Common Stocks","Stock","Mellanox Technologies Ltd.  (a)",69000,3225750,0,0,0
-"Common Stocks","Stock","Microchip Technology, Inc.",35600,3374880,0,0,0
-"Common Stocks","Stock","Micron Technology, Inc.  (a)",403412,17875186,0,0,0
-"Common Stocks","Stock","Microsemi Corp.  (a)",22800,1216836,0,0,0
-"Common Stocks","Stock","NVIDIA Corp.",60323,12475400,0,0,0
-"Common Stocks","Stock","O2Micro International Ltd. sponsored ADR  (a)",8600,17114,0,0,0
-"Common Stocks","Stock","ON Semiconductor Corp.  (a)",433900,9250748,0,0,0
-"Common Stocks","Stock","Qorvo, Inc.  (a)",43396,3289851,0,0,0
-"Common Stocks","Stock","Qualcomm, Inc.",554626,28291472,0,0,0
-"Common Stocks","Stock","Sanken Electric Co. Ltd.",112000,704269,0,0,0
-"Common Stocks","Stock","Semtech Corp.  (a)",103622,4253683,0,0,0
-"Common Stocks","Stock","Sequans Communications SA ADR  (a)(b)",52900,95749,0,0,0
-"Common Stocks","Stock","Synaptics, Inc.  (a)",22200,824064,0,0,0
-"Common Stocks","Stock","Texas Instruments, Inc.",24300,2349567,0,0,0
-"Common Stocks","Stock","United Microelectronics Corp. sponsored ADR  (b)",157200,408720,0,0,0
-"Common Stocks","Stock","Citrix Systems, Inc.  (a)",6100,503921,0,0,0
-"Common Stocks","Stock","Lenovo Group Ltd.",862000,499428,0,0,0
-"Common Stocks","Stock","Samsung Electronics Co. Ltd.",525,1293143,0,0,0
-"Common Stocks","Stock","Super Micro Computer, Inc.  (a)",27900,555210,0,0,0
-"Common Stocks","Stock","Western Digital Corp.",16000,1428320,0,0,0
-"Convertible Bonds","Stock","(Cost $317,283)",350000,314563,0,0,0
-"Money Market Funds","Stock","Fidelity Cash Central Fund, 1.10% (d)",13251928,13254579,0,0,0
-"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund 1.11% (d)(e)",4656562,4657028,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",3823469,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005322","Fidelity Advisor Technology Fund",187051864,1872735892,1766691857,"FADTX","FTHCX","FATEX","FATIX"
+"Common Stocks","Stock","LyondellBasell Industries NV Class A",75400,6233318,0,0,0
+"Common Stocks","Stock","Nabors Industries Ltd.",974200,9547160,0,0,0
+"Common Stocks","Stock","Odfjell Drilling A/S  (a)",567856,382245,0,0,0
+"Common Stocks","Stock","Transocean Partners LLC",44200,522444,0,0,0
+"Common Stocks","Stock","Trinidad Drilling Ltd.",279200,540732,0,0,0
+"Common Stocks","Stock","Xtreme Drilling & Coil Services Corp.  (a)",813202,1574943,0,0,0
+"Common Stocks","Stock","Baker Hughes, Inc.",604700,29243292,0,0,0
+"Common Stocks","Stock","Bristow Group, Inc.",27500,630300,0,0,0
+"Common Stocks","Stock","Dril-Quip, Inc.  (a)",141191,9152001,0,0,0
+"Common Stocks","Stock","Exterran Corp.  (a)",51700,791010,0,0,0
+"Common Stocks","Stock","Frank's International NV",627400,10446210,0,0,0
+"Common Stocks","Stock","Newpark Resources, Inc.  (a)",375100,1751717,0,0,0
+"Common Stocks","Stock","Oceaneering International, Inc.",216273,7926405,0,0,0
+"Common Stocks","Stock","RigNet, Inc.  (a)",90000,1539000,0,0,0
+"Common Stocks","Stock","Schlumberger Ltd.",978418,78606103,0,0,0
+"Common Stocks","Stock","Superior Energy Services, Inc.",120700,2035002,0,0,0
+"Common Stocks","Stock","Tesco Corp.",214800,2032008,0,0,0
+"Common Stocks","Stock","Total Energy Services, Inc.",38900,408935,0,0,0
+"Common Stocks","Stock","Weatherford International Ltd.  (a)",543100,4415403,0,0,0
+"Common Stocks","Stock","NextEra Energy Partners LP",241300,6971157,0,0,0
+"Common Stocks","Stock","Hi-Crush Partners LP",144303,1010121,0,0,0
+"Common Stocks","Stock","CONSOL Energy, Inc.  (b)",179000,2693950,0,0,0
+"Common Stocks","Stock","Cenovus Energy, Inc.",58000,919439,0,0,0
+"Common Stocks","Stock","Chevron Corp.",281809,28795244,0,0,0
+"Common Stocks","Stock","Exxon Mobil Corp.",207361,18330712,0,0,0
+"Common Stocks","Stock","Occidental Petroleum Corp.",49600,3801840,0,0,0
+"Common Stocks","Stock","Anadarko Petroleum Corp.",765883,40407987,0,0,0
+"Common Stocks","Stock","Apache Corp.",392500,21352000,0,0,0
+"Common Stocks","Stock","ARC Resources Ltd.  (b)",58100,980296,0,0,0
+"Common Stocks","Stock","Bankers Petroleum Ltd.  (a)",314900,476855,0,0,0
+"Common Stocks","Stock","Bill Barrett Corp.  (a)",55400,440984,0,0,0
+"Common Stocks","Stock","Black Stone Minerals LP",111591,1868033,0,0,0
+"Common Stocks","Stock","Cabot Oil & Gas Corp.",261900,6128460,0,0,0
+"Common Stocks","Stock","California Resources Corp.",892387,1963251,0,0,0
+"Common Stocks","Stock","Callon Petroleum Co.  (a)",380700,4001157,0,0,0
+"Common Stocks","Stock","Carrizo Oil & Gas, Inc.  (a)",407600,14416812,0,0,0
+"Common Stocks","Stock","Cimarex Energy Co.",259647,28270365,0,0,0
+"Common Stocks","Stock","Concho Resources, Inc.  (a)",151500,17599755,0,0,0
+"Common Stocks","Stock","ConocoPhillips Co.",489300,23383647,0,0,0
+"Common Stocks","Stock","Continental Resources, Inc.  (a)(b)",296000,11028960,0,0,0
+"Common Stocks","Stock","Denbury Resources, Inc.  (b)",458400,1769424,0,0,0
+"Common Stocks","Stock","Devon Energy Corp.",343700,11919516,0,0,0
+"Common Stocks","Stock","Diamondback Energy, Inc.",345700,29930706,0,0,0
+"Common Stocks","Stock","EOG Resources, Inc.",717786,59303479,0,0,0
+"Common Stocks","Stock","Evolution Petroleum Corp.",42495,235422,0,0,0
+"Common Stocks","Stock","Gran Tierra Energy, Inc. (Canada)  (a)",343300,1012362,0,0,0
+"Common Stocks","Stock","Gulfport Energy Corp.  (a)",102500,3208250,0,0,0
+"Common Stocks","Stock","Hess Corp.",554100,33035442,0,0,0
+"Common Stocks","Stock","Jones Energy, Inc.  (a)",31300,150240,0,0,0
+"Common Stocks","Stock","Laredo Petroleum, Inc.  (a)(b)",40800,496944,0,0,0
+"Common Stocks","Stock","Marathon Oil Corp.",1101400,15518726,0,0,0
+"Common Stocks","Stock","Matador Resources Co.  (a)",19600,422380,0,0,0
+"Common Stocks","Stock","Memorial Resource Development Corp.  (a)",490200,6411816,0,0,0
+"Common Stocks","Stock","Murphy Oil Corp.",117600,4203024,0,0,0
+"Common Stocks","Stock","Newfield Exploration Co.  (a)",962100,34876125,0,0,0
+"Common Stocks","Stock","Noble Energy, Inc.",1225808,44263927,0,0,0
+"Common Stocks","Stock","Oasis Petroleum, Inc.  (a)(b)",292900,2838201,0,0,0
+"Common Stocks","Stock","Parsley Energy, Inc. Class A (a)",466900,10934798,0,0,0
+"Common Stocks","Stock","PDC Energy, Inc.  (a)(b)",369988,23231547,0,0,0
+"Common Stocks","Stock","Pioneer Natural Resources Co.",97616,16214018,0,0,0
+"Common Stocks","Stock","QEP Resources, Inc.",327800,5877454,0,0,0
+"Common Stocks","Stock","Range Resources Corp.  (b)",46100,2033471,0,0,0
+"Common Stocks","Stock","Rice Energy, Inc.  (a)",523700,9065247,0,0,0
+"Common Stocks","Stock","Ring Energy, Inc.  (a)",265432,1911110,0,0,0
+"Common Stocks","Stock","RSP Permian, Inc.  (a)",233200,7138252,0,0,0
+"Common Stocks","Stock","Sanchez Energy Corp.  (a)",112300,1009577,0,0,0
+"Common Stocks","Stock","Seven Generations Energy Ltd.  (a)",450500,7935004,0,0,0
+"Common Stocks","Stock","SM Energy Co.",544900,16979084,0,0,0
+"Common Stocks","Stock","Southwestern Energy Co.  (a)",120300,1615629,0,0,0
+"Common Stocks","Stock","TAG Oil Ltd.  (a)",342200,231824,0,0,0
+"Common Stocks","Stock","Whiting Petroleum Corp.  (a)",1150600,13807200,0,0,0
+"Common Stocks","Stock","Keyera Corp.  (b)",115300,3713456,0,0,0
+"Common Stocks","Stock","Valero Energy Corp.",483426,28459289,0,0,0
+"Common Stocks","Stock","World Fuel Services Corp.",69433,3244604,0,0,0
+"Common Stocks","Stock","Cheniere Energy Partners LP Holdings LLC",190100,3703148,0,0,0
+"Common Stocks","Stock","Cheniere Energy, Inc.  (a)",339800,13211424,0,0,0
+"Common Stocks","Stock","DCP Midstream Partners LP",78600,2567862,0,0,0
+"Common Stocks","Stock","Enterprise Products Partners LP",286200,7638678,0,0,0
+"Common Stocks","Stock","Gener8 Maritime, Inc.  (a)",79800,576954,0,0,0
+"Common Stocks","Stock","Golar LNG Ltd. (b)",167300,2773834,0,0,0
+"Common Stocks","Stock","Kinder Morgan, Inc.",1183900,21026064,0,0,0
+"Common Stocks","Stock","Magellan Midstream Partners LP",44134,3180737,0,0,0
+"Common Stocks","Stock","Rice Midstream Partners LP",117300,1955391,0,0,0
+"Common Stocks","Stock","Shell Midstream Partners LP",81800,3089586,0,0,0
+"Common Stocks","Stock","Targa Resources Corp.  (b)",201200,8140552,0,0,0
+"Common Stocks","Stock","Teekay LNG Partners LP",23000,316020,0,0,0
+"Common Stocks","Stock","The Williams Companies, Inc.",139800,2710722,0,0,0
+"Common Stocks","Stock","Williams Partners LP",63200,1910536,0,0,0
+"Common Stocks","Stock","SolarEdge Technologies, Inc.  (a)",265100,7102029,0,0,0
+"Money Market Funds","Stock","Fidelity Cash Central Fund, 0.38% (c)",11913674,11913674,0,0,0
+"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund, 0.42% (c)(d)",31839985,31839985,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",32203979,0,0,0
+"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4","Series Ticker5"
+"2016-04-30","2016-06-28","315700","S000005329","Fidelity Advisor Health Care Fund",113319493,2689104657,2643659923,"FACDX","FAHTX","FHCCX","FACTX","FHCIX"
 "Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","Best, Inc. ADR",312800,3622224,0,0,0
-"Common Stocks","Stock","Tesla, Inc.  (a)(b)",230109,76288037,0,0,0
-"Common Stocks","Stock","BeiGene Ltd. ADR  (a)",38700,3572010,0,0,0
-"Common Stocks","Stock","Zai Lab Ltd. ADR",13300,359233,0,0,0
-"Common Stocks","Stock","SK Materials Co., Ltd.",12580,2109624,0,0,0
-"Common Stocks","Stock","Duk San Neolux Co. Ltd.",239698,4705678,0,0,0
-"Common Stocks","Stock","Soulbrain Co. Ltd.",54828,3373759,0,0,0
-"Common Stocks","Stock","Tokyo Ohka Kogyo Co. Ltd.",68500,2505048,0,0,0
-"Common Stocks","Stock","Applied Optoelectronics, Inc.  (a)(b)",38800,1580712,0,0,0
-"Common Stocks","Stock","China Online Education Group sponsored ADR  (a)(b)",2563,33627,0,0,0
-"Common Stocks","Stock","New Oriental Education & Technology Group, Inc. sponsored ADR",154300,12843932,0,0,0
-"Common Stocks","Stock","TAL Education Group ADR",494042,13586155,0,0,0
-"Common Stocks","Stock","GDS Holdings Ltd. ADR",239500,3760150,0,0,0
-"Common Stocks","Stock","Rockwell Automation, Inc.",19900,3996318,0,0,0
-"Common Stocks","Stock","Genius Electronic Optical Co. Ltd.  (a)",131000,1475695,0,0,0
-"Common Stocks","Stock","Largan Precision Co. Ltd.",73000,13842823,0,0,0
-"Common Stocks","Stock","Ledlink Optics, Inc.",608609,947102,0,0,0
-"Common Stocks","Stock","Lens Technology Co. Ltd. Class A",830737,4164390,0,0,0
-"Common Stocks","Stock","Sunny Optical Technology Group Co. Ltd.",291100,4261238,0,0,0
-"Common Stocks","Stock","Universal Display Corp.",18912,2770608,0,0,0
-"Common Stocks","Stock","Chroma ATE, Inc.",3026173,14760350,0,0,0
-"Common Stocks","Stock","Cognex Corp.",35800,4408770,0,0,0
-"Common Stocks","Stock","Hexagon AB (B Shares)",51600,2646059,0,0,0
-"Common Stocks","Stock","Topcon Corp.",430600,9104422,0,0,0
-"Common Stocks","Stock","Trimble, Inc.  (a)",644196,26334732,0,0,0
-"Common Stocks","Stock","Dell Technologies, Inc.  (a)",85760,7098355,0,0,0
-"Common Stocks","Stock","Hoya Corp.",45100,2450316,0,0,0
-"Common Stocks","Stock","athenahealth, Inc.  (a)",48994,6265353,0,0,0
-"Common Stocks","Stock","Sea Ltd. ADR",28700,432796,0,0,0
-"Common Stocks","Stock","Amazon.com, Inc.  (a)",8500,9394880,0,0,0
-"Common Stocks","Stock","Cogobuy Group",150000,90176,0,0,0
-"Common Stocks","Stock","JD.com, Inc. sponsored ADR  (a)",21400,802928,0,0,0
-"Common Stocks","Stock","Netflix, Inc.  (a)",85900,16873337,0,0,0
-"Common Stocks","Stock","58.com, Inc. ADR  (a)",64981,4364774,0,0,0
-"Common Stocks","Stock","Akamai Technologies, Inc.  (a)",187000,9770750,0,0,0
-"Common Stocks","Stock","Alibaba Group Holding Ltd. sponsored ADR  (a)",287100,53081919,0,0,0
-"Common Stocks","Stock","Class A (a)",66087,68270514,0,0,0
-"Common Stocks","Stock","Class C (a)",76055,77320555,0,0,0
-"Common Stocks","Stock","Benefitfocus, Inc.  (a)",23689,649079,0,0,0
-"Common Stocks","Stock","CoStar Group, Inc.  (a)",5100,1508325,0,0,0
-"Common Stocks","Stock","Endurance International Group Holdings, Inc.  (a)",457000,3747400,0,0,0
-"Common Stocks","Stock","Envestnet, Inc.  (a)",145,7743,0,0,0
-"Common Stocks","Stock","Facebook, Inc. Class A (a)",615311,110792899,0,0,0
-"Common Stocks","Stock","GoDaddy, Inc.  (a)",90200,4212340,0,0,0
-"Common Stocks","Stock","LogMeIn, Inc.",142333,17229410,0,0,0
-"Common Stocks","Stock","NetEase, Inc. ADR",56900,16041248,0,0,0
-"Common Stocks","Stock","New Relic, Inc.  (a)",89000,4568370,0,0,0
-"Common Stocks","Stock","Nutanix, Inc. Class B (c)",39963,1138946,0,0,0
-"Common Stocks","Stock","Pandora Media, Inc.  (a)(b)",93000,679830,0,0,0
-"Common Stocks","Stock","Shopify, Inc.",1600,159184,0,0,0
-"Common Stocks","Stock","Shopify, Inc. Class A (a)",22800,2266745,0,0,0
-"Common Stocks","Stock","SMS Co., Ltd.",312400,9410873,0,0,0
-"Common Stocks","Stock","Tencent Holdings Ltd.",309600,13915005,0,0,0
-"Common Stocks","Stock","Twilio, Inc. Class A (a)",4000,127800,0,0,0
-"Common Stocks","Stock","Xunlei Ltd. sponsored ADR  (a)",420444,3897516,0,0,0
-"Common Stocks","Stock","Yandex NV Series A (a)",154800,5236884,0,0,0
-"Common Stocks","Stock","Fidelity National Information Services, Inc.",18295,1697044,0,0,0
-"Common Stocks","Stock","Fiserv, Inc.  (a)",26400,3416952,0,0,0
-"Common Stocks","Stock","FleetCor Technologies, Inc.  (a)",78300,12940641,0,0,0
-"Common Stocks","Stock","Global Payments, Inc.",68300,7099785,0,0,0
-"Common Stocks","Stock","PayPal Holdings, Inc.  (a)",386000,28008160,0,0,0
-"Common Stocks","Stock","Total System Services, Inc.",38153,2748924,0,0,0
-"Common Stocks","Stock","WEX, Inc.  (a)",50600,6253654,0,0,0
-"Common Stocks","Stock","Cognizant Technology Solutions Corp. Class A",451294,34149417,0,0,0
-"Common Stocks","Stock","CSRA, Inc.",38400,1228416,0,0,0
-"Common Stocks","Stock","DXC Technology Co.",86400,7907328,0,0,0
-"Common Stocks","Stock","JHL Biotech, Inc.  (a)",387462,636513,0,0,0
-"Common Stocks","Stock","HIWIN Technologies Corp.",453900,4548338,0,0,0
-"Common Stocks","Stock","Minebea Mitsumi, Inc.",1266200,23213391,0,0,0
-"Common Stocks","Stock","iCar Asia Ltd.  (a)",1156712,177058,0,0,0
-"Common Stocks","Stock","China Literature Ltd.",1503,10596,0,0,0
-"Common Stocks","Stock","WageWorks, Inc.  (a)",28744,1832430,0,0,0
-"Common Stocks","Stock","Relo Holdings Corp.",75000,1856816,0,0,0
-"Common Stocks","Stock","ASM Pacific Technology Ltd.",1813600,26385469,0,0,0
-"Common Stocks","Stock","Ferrotec Holdings Corp.",126800,2606616,0,0,0
-"Common Stocks","Stock","GlobalWafers Co. Ltd.",2032400,23501606,0,0,0
-"Common Stocks","Stock","KLA-Tencor Corp.",79400,8645866,0,0,0
-"Common Stocks","Stock","Lam Research Corp.",138500,28886945,0,0,0
-"Common Stocks","Stock","Screen Holdings Co. Ltd.",62100,4867313,0,0,0
-"Common Stocks","Stock","Siltronic AG  (a)",39600,5867489,0,0,0
-"Common Stocks","Stock","Sino-American Silicon Products, Inc.",4118000,11477603,0,0,0
-"Common Stocks","Stock","SolarEdge Technologies, Inc.  (a)",40000,1314000,0,0,0
-"Common Stocks","Stock","SunEdison, Inc.  (a)",500,10,0,0,0
-"Common Stocks","Stock","Acacia Communications, Inc.  (a)(b)",28600,1210066,0,0,0
-"Common Stocks","Stock","Advanced Micro Devices, Inc.  (a)(b)",1231600,13529126,0,0,0
-"Common Stocks","Stock","Advanced Semiconductor Engineering, Inc.",183000,221400,0,0,0
-"Common Stocks","Stock","ams AG",288874,26334978,0,0,0
-"Common Stocks","Stock","ASPEED Tech, Inc.",116282,2689248,0,0,0
-"Common Stocks","Stock","Broadcom Ltd.",82200,21693402,0,0,0
-"Common Stocks","Stock","Cavium, Inc.  (a)",25900,1786841,0,0,0
-"Common Stocks","Stock","ChipMOS TECHNOLOGIES, Inc. sponsored ADR  (b)",125152,2503040,0,0,0
-"Common Stocks","Stock","Cirrus Logic, Inc.  (a)",15814,885584,0,0,0
-"Common Stocks","Stock","Cree, Inc.  (a)",333600,11909520,0,0,0
-"Common Stocks","Stock","Global Unichip Corp.",261000,2598049,0,0,0
-"Common Stocks","Stock","Himax Technologies, Inc. sponsored ADR  (b)",1401404,14294321,0,0,0
-"Common Stocks","Stock","Inphi Corp.  (a)",102517,4201147,0,0,0
-"Common Stocks","Stock","M/A-COM Technology Solutions Holdings, Inc.  (a)",78900,3225432,0,0,0
-"Common Stocks","Stock","Marvell Technology Group Ltd.",386361,7136088,0,0,0
-"Common Stocks","Stock","Mellanox Technologies Ltd.  (a)",222100,10383175,0,0,0
-"Common Stocks","Stock","Micron Technology, Inc.  (a)",688250,30496358,0,0,0
-"Common Stocks","Stock","Monolithic Power Systems, Inc.",59601,7251654,0,0,0
-"Common Stocks","Stock","Nanya Technology Corp.",12034000,32662459,0,0,0
-"Common Stocks","Stock","NVIDIA Corp.",203750,42137538,0,0,0
-"Common Stocks","Stock","ON Semiconductor Corp.  (a)",148600,3168152,0,0,0
-"Common Stocks","Stock","Qualcomm, Inc.",62150,3170272,0,0,0
-"Common Stocks","Stock","Renesas Electronics Corp.  (a)",106800,1380827,0,0,0
-"Common Stocks","Stock","Semtech Corp.  (a)",110998,4556468,0,0,0
-"Common Stocks","Stock","Silergy Corp.",72000,1555246,0,0,0
-"Common Stocks","Stock","Silicon Laboratories, Inc.  (a)",21100,2002390,0,0,0
-"Common Stocks","Stock","Silicon Motion Technology Corp. sponsored ADR  (b)",81388,3940807,0,0,0
-"Common Stocks","Stock","Win Semiconductors Corp.",247000,2020224,0,0,0
-"Common Stocks","Stock","Adobe Systems, Inc.  (a)",74616,13069739,0,0,0
-"Common Stocks","Stock","Aspen Technology, Inc.  (a)",300,19356,0,0,0
-"Common Stocks","Stock","Autodesk, Inc.  (a)",487000,60855520,0,0,0
-"Common Stocks","Stock","Callidus Software, Inc.  (a)",177059,4488446,0,0,0
-"Common Stocks","Stock","Citrix Systems, Inc.  (a)",74000,6113140,0,0,0
-"Common Stocks","Stock","Ellie Mae, Inc.  (a)",90900,8176455,0,0,0
-"Common Stocks","Stock","HubSpot, Inc.  (a)",6900,597195,0,0,0
-"Common Stocks","Stock","iFlytek Co. Ltd.",237677,1920072,0,0,0
-"Common Stocks","Stock","Parametric Technology Corp.  (a)",262400,17436480,0,0,0
-"Common Stocks","Stock","Paylocity Holding Corp.  (a)",17900,956039,0,0,0
-"Common Stocks","Stock","RealPage, Inc.  (a)",5800,251140,0,0,0
-"Common Stocks","Stock","Salesforce.com, Inc.  (a)",236919,24246290,0,0,0
-"Common Stocks","Stock","Snap, Inc. Class A (a)(b)",262700,4029818,0,0,0
-"Common Stocks","Stock","SS&C Technologies Holdings, Inc.",79200,3183840,0,0,0
-"Common Stocks","Stock","Ultimate Software Group, Inc.  (a)",75476,15290683,0,0,0
-"Common Stocks","Stock","Workday, Inc. Class A (a)",14700,1631553,0,0,0
-"Common Stocks","Stock","Zendesk, Inc.  (a)",201400,6243400,0,0,0
-"Common Stocks","Stock","Activision Blizzard, Inc.",353070,23122554,0,0,0
-"Common Stocks","Stock","Electronic Arts, Inc.  (a)",201400,24087440,0,0,0
-"Common Stocks","Stock","Nintendo Co. Ltd.",54300,21066326,0,0,0
-"Common Stocks","Stock","Nintendo Co. Ltd. ADR",92500,4500125,0,0,0
-"Common Stocks","Stock","Take-Two Interactive Software, Inc.  (a)",98400,10887960,0,0,0
-"Common Stocks","Stock","Microsoft Corp.",986500,82057070,0,0,0
-"Common Stocks","Stock","Red Hat, Inc.  (a)",36200,4374046,0,0,0
-"Common Stocks","Stock","Tableau Software, Inc.  (a)",182700,14815143,0,0,0
-"Common Stocks","Stock","Apple, Inc.",1034429,174859875,0,0,0
-"Common Stocks","Stock","Primax Electronics Ltd.",645000,1673601,0,0,0
-"Common Stocks","Stock","Quanta Computer, Inc.",69000,162552,0,0,0
-"Convertible Preferred Stocks","Stock","Series A-11  (a)(d)(e)",1516912,8478112,0,0,0
-"Convertible Preferred Stocks","Stock","Series B  (a)(d)(e)",2042487,11415582,0,0,0
-"Convertible Preferred Stocks","Stock","Uber Technologies, Inc. Series D, 8.00% (a)(d)(e)",232064,10264191,0,0,0
-"Money Market Funds","Stock","Fidelity Cash Central Fund, 1.10% (f)",24319184,24324048,0,0,0
-"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund 1.11% (f)(g)",109046058,109056963,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",106044035,0,0,0
-"As of Date","Filing Date","CIK Number","Series Number","Series Name","Total Stocks Value","Total Assets","Total Net Assets","Series Ticker1","Series Ticker2","Series Ticker3","Series Ticker4"
-"2017-10-31","2017-12-28","315700","S000005323","Fidelity Advisor Utilities Fund",8448754,310846279,303845073,"FUGAX","FUGCX","FAUFX","FUGIX"
-"Filing Classification","Holding Type","Holding Name","Holding Share","Holding Value","Holding Face Amt","Holding Number Of Contracts","Future Gain Or Loss"
-"Common Stocks","Stock","Exelon Corp.",762691,30667805,0,0,0
-"Common Stocks","Stock","FirstEnergy Corp.",303233,9991527,0,0,0
-"Common Stocks","Stock","Great Plains Energy, Inc.",473900,15558137,0,0,0
-"Common Stocks","Stock","NextEra Energy, Inc.",365950,56747866,0,0,0
-"Common Stocks","Stock","OGE Energy Corp.",160123,5898931,0,0,0
-"Common Stocks","Stock","PG&E Corp.",371405,21456067,0,0,0
-"Common Stocks","Stock","Southern Co.",287500,15007500,0,0,0
-"Common Stocks","Stock","Vistra Energy Corp.",503888,9795583,0,0,0
-"Common Stocks","Stock","Westar Energy, Inc.",129151,6906995,0,0,0
-"Common Stocks","Stock","InfraReit, Inc.",29202,654125,0,0,0
-"Common Stocks","Stock","NRG Energy, Inc.",535972,13399300,0,0,0
-"Common Stocks","Stock","NRG Yield, Inc. Class C",74502,1385737,0,0,0
-"Common Stocks","Stock","The AES Corp.",419020,4454183,0,0,0
-"Common Stocks","Stock","NextEra Energy Partners LP",237830,9356232,0,0,0
-"Common Stocks","Stock","Avangrid, Inc.  (a)",305630,15810240,0,0,0
-"Common Stocks","Stock","Black Hills Corp.",67903,4431350,0,0,0
-"Common Stocks","Stock","CenterPoint Energy, Inc.",374513,11078095,0,0,0
-"Common Stocks","Stock","Dominion Resources, Inc.",142294,11545735,0,0,0
-"Common Stocks","Stock","E.ON AG",145978,1729028,0,0,0
-"Common Stocks","Stock","Public Service Enterprise Group, Inc.",194538,9571270,0,0,0
-"Common Stocks","Stock","SCANA Corp.",146548,6322081,0,0,0
-"Common Stocks","Stock","Sempra Energy",336709,39563308,0,0,0
-"Common Stocks","Stock","Cheniere Energy Partners LP Holdings LLC",134662,3371936,0,0,0
-"Common Stocks","Stock","Cheniere Energy, Inc.  (b)",91766,4289143,0,0,0
-"Money Market Funds","Stock","Fidelity Cash Central Fund, 1.10% (c)",725559,725705,0,0,0
-"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund 1.11% (c)(d)",1128287,1128400,0,0,0
-"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",7001206,0,0,0
+"Common Stocks","Stock","AbbVie, Inc.",665100,40571100,0,0,0
+"Common Stocks","Stock","Ablynx NV  (a)",659208,9959931,0,0,0
+"Common Stocks","Stock","Acceleron Pharma, Inc.  (a)",142448,4266318,0,0,0
+"Common Stocks","Stock","Acorda Therapeutics, Inc.  (a)",425500,10999175,0,0,0
+"Common Stocks","Stock","Actelion Ltd.",90000,14541853,0,0,0
+"Common Stocks","Stock","Advanced Accelerator Applications SA sponsored ADR",59900,2067149,0,0,0
+"Common Stocks","Stock","Advaxis, Inc.  (a)(b)",557000,4311180,0,0,0
+"Common Stocks","Stock","Alexion Pharmaceuticals, Inc.  (a)",441100,61436408,0,0,0
+"Common Stocks","Stock","Alnylam Pharmaceuticals, Inc.  (a)",159655,10703271,0,0,0
+"Common Stocks","Stock","AMAG Pharmaceuticals, Inc.  (a)(b)",175915,4665266,0,0,0
+"Common Stocks","Stock","Amgen, Inc.",1051800,166499940,0,0,0
+"Common Stocks","Stock","Amicus Therapeutics, Inc.  (a)(b)",870000,6498900,0,0,0
+"Common Stocks","Stock","Anacor Pharmaceuticals, Inc.  (a)(b)",344537,21616251,0,0,0
+"Common Stocks","Stock","Arena Pharmaceuticals, Inc.  (a)",2625396,4515681,0,0,0
+"Common Stocks","Stock","Array BioPharma, Inc.  (a)",1333700,4254503,0,0,0
+"Common Stocks","Stock","Ascendis Pharma A/S sponsored ADR  (a)(b)",400000,6748000,0,0,0
+"Common Stocks","Stock","BeiGene Ltd. ADR",63059,1750518,0,0,0
+"Common Stocks","Stock","Biogen, Inc.  (a)",143784,39539162,0,0,0
+"Common Stocks","Stock","BioMarin Pharmaceutical, Inc.  (a)",175500,14861340,0,0,0
+"Common Stocks","Stock","bluebird bio, Inc.  (a)",45120,2001072,0,0,0
+"Common Stocks","Stock","Blueprint Medicines Corp.",205000,3111900,0,0,0
+"Common Stocks","Stock","Celgene Corp.  (a)",201908,20879306,0,0,0
+"Common Stocks","Stock","Cellectis SA sponsored ADR  (a)",220700,6005247,0,0,0
+"Common Stocks","Stock","Curis, Inc.  (a)",1519300,3038600,0,0,0
+"Common Stocks","Stock","CytomX Therapeutics, Inc.  (a)",145600,1881152,0,0,0
+"Common Stocks","Stock","Galapagos Genomics NV sponsored ADR",142500,6456675,0,0,0
+"Common Stocks","Stock","Gilead Sciences, Inc.",455662,40193945,0,0,0
+"Common Stocks","Stock","Heron Therapeutics, Inc.  (a)",163315,3501474,0,0,0
+"Common Stocks","Stock","Incyte Corp.  (a)",76300,5514201,0,0,0
+"Common Stocks","Stock","Insmed, Inc.  (a)",902998,10971426,0,0,0
+"Common Stocks","Stock","Intercept Pharmaceuticals, Inc.  (a)",53621,8082830,0,0,0
+"Common Stocks","Stock","Mirati Therapeutics, Inc.  (a)",274000,5677280,0,0,0
+"Common Stocks","Stock","Neurocrine Biosciences, Inc.  (a)",280000,12762400,0,0,0
+"Common Stocks","Stock","ProNai Therapeutics, Inc.  (a)",97200,544320,0,0,0
+"Common Stocks","Stock","Puma Biotechnology, Inc.  (a)(b)",400000,12276000,0,0,0
+"Common Stocks","Stock","Regeneron Pharmaceuticals, Inc.  (a)",98400,37068264,0,0,0
+"Common Stocks","Stock","Spark Therapeutics, Inc.  (a)",133942,4807178,0,0,0
+"Common Stocks","Stock","TESARO, Inc.  (a)",314200,13020448,0,0,0
+"Common Stocks","Stock","Trevena, Inc.  (a)",1000000,7790000,0,0,0
+"Common Stocks","Stock","Ultragenyx Pharmaceutical, Inc.  (a)",209440,14162333,0,0,0
+"Common Stocks","Stock","United Therapeutics Corp.  (a)",43700,4597240,0,0,0
+"Common Stocks","Stock","Vertex Pharmaceuticals, Inc.  (a)",875700,73856538,0,0,0
+"Common Stocks","Stock","Xencor, Inc.  (a)",330000,4042500,0,0,0
+"Common Stocks","Stock","RPI International Holdings LP  (c)",61683,8276625,0,0,0
+"Common Stocks","Stock","Carriage Services, Inc.",215735,5270406,0,0,0
+"Common Stocks","Stock","Atricure, Inc.  (a)",600000,9540000,0,0,0
+"Common Stocks","Stock","Boston Scientific Corp.  (a)",6439800,141160416,0,0,0
+"Common Stocks","Stock","Edwards Lifesciences Corp.  (a)",350400,37215984,0,0,0
+"Common Stocks","Stock","HeartWare International, Inc.  (a)",264500,8823720,0,0,0
+"Common Stocks","Stock","Integra LifeSciences Holdings Corp.  (a)",244600,17322572,0,0,0
+"Common Stocks","Stock","Intuitive Surgical, Inc.  (a)",70000,43845200,0,0,0
+"Common Stocks","Stock","Invuity, Inc.",517800,3521040,0,0,0
+"Common Stocks","Stock","Medtronic PLC",3188700,252385603,0,0,0
+"Common Stocks","Stock","Neovasc, Inc.  (a)",1100000,3531000,0,0,0
+"Common Stocks","Stock","Nevro Corp.  (a)(b)",300000,20175000,0,0,0
+"Common Stocks","Stock","Novocure Ltd.  (a)",185300,2390370,0,0,0
+"Common Stocks","Stock","ResMed, Inc.",243500,13587300,0,0,0
+"Common Stocks","Stock","Wright Medical Group NV  (a)",1300000,24414000,0,0,0
+"Common Stocks","Stock","Zeltiq Aesthetics, Inc.  (a)(b)",370000,11063000,0,0,0
+"Common Stocks","Stock","Zimmer Biomet Holdings, Inc.",126800,14679636,0,0,0
+"Common Stocks","Stock","ICU Medical, Inc.  (a)",99900,9924066,0,0,0
+"Common Stocks","Stock","Penumbra, Inc.  (a)",200000,10900000,0,0,0
+"Common Stocks","Stock","The Cooper Companies, Inc.",237100,36295268,0,0,0
+"Common Stocks","Stock","The Spectranetics Corp.  (a)(b)",760000,12920000,0,0,0
+"Common Stocks","Stock","Amplifon SpA",761295,7004277,0,0,0
+"Common Stocks","Stock","EBOS Group Ltd.",1312664,14628419,0,0,0
+"Common Stocks","Stock","McKesson Corp.",507308,85136429,0,0,0
+"Common Stocks","Stock","AmSurg Corp.  (a)",128000,10365440,0,0,0
+"Common Stocks","Stock","Brookdale Senior Living, Inc.  (a)",406070,7496052,0,0,0
+"Common Stocks","Stock","HCA Holdings, Inc.  (a)",351600,28345992,0,0,0
+"Common Stocks","Stock","Surgical Care Affiliates, Inc.  (a)",387805,18750372,0,0,0
+"Common Stocks","Stock","Universal Health Services, Inc. Class B",212600,28420368,0,0,0
+"Common Stocks","Stock","Adeptus Health, Inc. Class A (a)(b)",150000,10218000,0,0,0
+"Common Stocks","Stock","American Renal Associates Holdings, Inc.",218757,6151447,0,0,0
+"Common Stocks","Stock","Envision Healthcare Holdings, Inc.  (a)",571304,12928610,0,0,0
+"Common Stocks","Stock","United Drug PLC (United Kingdom)",800000,7153790,0,0,0
+"Common Stocks","Stock","Aetna, Inc.",210100,23587927,0,0,0
+"Common Stocks","Stock","Anthem, Inc.",279800,39387446,0,0,0
+"Common Stocks","Stock","Cigna Corp.",447000,61927380,0,0,0
+"Common Stocks","Stock","Humana, Inc.",65200,11544964,0,0,0
+"Common Stocks","Stock","UnitedHealth Group, Inc.",600000,79008000,0,0,0
+"Common Stocks","Stock","athenahealth, Inc.  (a)",245900,32778470,0,0,0
+"Common Stocks","Stock","Castlight Health, Inc.  (a)",336800,1212480,0,0,0
+"Common Stocks","Stock","Connecture, Inc.  (a)",489461,1130655,0,0,0
+"Common Stocks","Stock","Evolent Health, Inc.",243600,2925636,0,0,0
+"Common Stocks","Stock","HealthStream, Inc.  (a)",691590,15643766,0,0,0
+"Common Stocks","Stock","Medidata Solutions, Inc.  (a)",528000,23036640,0,0,0
+"Common Stocks","Stock","Agilent Technologies, Inc.",1146800,46927056,0,0,0
+"Common Stocks","Stock","Bruker Corp.",386400,10935120,0,0,0
+"Common Stocks","Stock","PRA Health Sciences, Inc.  (a)",152500,7236125,0,0,0
+"Common Stocks","Stock","Allergan PLC  (a)",502300,108778088,0,0,0
+"Common Stocks","Stock","Amphastar Pharmaceuticals, Inc.  (a)",600000,7380000,0,0,0
+"Common Stocks","Stock","Astellas Pharma, Inc.",1012300,13648430,0,0,0
+"Common Stocks","Stock","Bristol-Myers Squibb Co.",1223600,88319448,0,0,0
+"Common Stocks","Stock","Catalent, Inc.  (a)",599700,17709141,0,0,0
+"Common Stocks","Stock","Dechra Pharmaceuticals PLC",600000,9696191,0,0,0
+"Common Stocks","Stock","Eisai Co. Ltd.",280100,17338111,0,0,0
+"Common Stocks","Stock","Endo International PLC  (a)",768400,20746800,0,0,0
+"Common Stocks","Stock","GlaxoSmithKline PLC",893700,19100565,0,0,0
+"Common Stocks","Stock","Horizon Pharma PLC  (a)",948600,14579982,0,0,0
+"Common Stocks","Stock","Jazz Pharmaceuticals PLC  (a)",163100,24579170,0,0,0
+"Common Stocks","Stock","Jiangsu Hengrui Medicine Co. Ltd.",1430000,10310764,0,0,0
+"Common Stocks","Stock","Lee's Pharmaceutical Holdings Ltd.",4366536,3533140,0,0,0
+"Common Stocks","Stock","Merck & Co., Inc.",173300,9503772,0,0,0
+"Common Stocks","Stock","Mylan N.V.",216400,9026044,0,0,0
+"Common Stocks","Stock","Pfizer, Inc.",913800,29890398,0,0,0
+"Common Stocks","Stock","Prestige Brands Holdings, Inc.  (a)",230800,13104824,0,0,0
+"Common Stocks","Stock","Sanofi SA sponsored ADR",500000,20550000,0,0,0
+"Common Stocks","Stock","Sun Pharmaceutical Industries Ltd.",1000010,12213805,0,0,0
+"Common Stocks","Stock","Teva Pharmaceutical Industries Ltd. sponsored ADR",2276000,123928200,0,0,0
+"Common Stocks","Stock","The Medicines Company  (a)(b)",300600,10698354,0,0,0
+"Common Stocks","Stock","TherapeuticsMD, Inc.  (a)(b)",2050000,16912500,0,0,0
+"Common Stocks","Stock","Valeant Pharmaceuticals International, Inc. (Canada)  (a)",106500,3552840,0,0,0
+"Common Stocks","Stock","WageWorks, Inc.  (a)",440000,23698400,0,0,0
+"Convertible Preferred Stocks","Stock","(Cost $2,121,583)",322145,2812326,0,0,0
+"Money Market Funds","Stock","Fidelity Cash Central Fund, 0.38% (d)",8599247,8599247,0,0,0
+"Money Market Funds","Stock","Fidelity Securities Lending Cash Central Fund, 0.42% (d)(e)",35723775,35723775,0,0,0
+"Liabilities, Net Of Other Assets","Other","Liabilities, Net Of Other Assets","",45444734,0,0,0
