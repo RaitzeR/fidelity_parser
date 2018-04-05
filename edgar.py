@@ -66,6 +66,17 @@ def getDocuments(tree, noOfDocuments=1):
 
     return result
 
+def getSeriesTables(tree,noOfDocuments=1):
+    baseurl = "https://www.sec.gov"
+    elems = tree.xpath('//*[@id="documentsbutton"]')[:noOfDocuments]
+    result = []
+    for elem in elems:
+        url = baseurl + elem.attrib["href"]
+        contentPage = getRequest(url)
+        result.append(contentPage)
+
+    return result
+
 def getCIKFromCompany(companyName):
     tree = getRequest("https://www.sec.gov/cgi-bin/browse-edgar?company=" + companyName)
     CIKList = tree.xpath('//*[@id="seriesDiv"]/table/tr[*]/td[1]/a/text()')
