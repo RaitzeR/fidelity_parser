@@ -89,6 +89,7 @@ class Parser():
                             if row.get("style") == "font-weight:bold; color: #ffffff; background-color: #000000;":
                                 classification = row.getchildren()[0].text.strip().split(" - ")[0].encode('utf-8')
                         except AttributeError:
+                            #TODO: Figure out a way to get the classification here on the older format
                             classification = "Test"
 
                         if "NET OTHER ASSETS (LIABILITIES)" in row[nameIndex].text:
